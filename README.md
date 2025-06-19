@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sheldon 👋</h1>
 
 <p align="center">
-  🧠 Programmer • ♟️ Chess Lover • 🎵 Music Addict • 📊 Data & ML Explorer
+  🧠 Programmer • ♟️ Chess Player • 🎵 Music Addict • 📊 Data & ML Explorer
 </p>
 
 ---
