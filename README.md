@@ -38,38 +38,13 @@
 | [CiveLinks](#) | 🎓 UDOM student platform for coding tutorials, mentorship, and internships |
 
 ---
-
-## 🛠️ Tech Stack
-
-```yaml
-Languages:
-  - Python
-  - JavaScript
-  - HTML/CSS
-  - C/C++
-  
-Frameworks & Libraries:
-  - Streamlit
-  - Pandas
-  - Tailwind CSS
-  - BeautifulSoup
-  - Paho-MQTT
-  - React.js
-  - Numpy
-  - sklearn
-- pytorch
-- matplotib
-- wordcloud
-
-
-
-Tools:
-  - Git & GitHub
-  - Figma
-  - VS Code
-  - Linux / macOS
- - zsh
-- bash
+🛠️ Tech Stack
+👨‍💻 Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> </p>
+🧰 Frameworks & Libraries
+<p> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/BeautifulSoup-004C3F?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Paho_MQTT-FF9800?style=flat-square&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/WordCloud-29B6F6?style=flat-square&logo=cloudflare&logoColor=white" /> </p>
+🧪 Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Zsh-89e051?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> </p>
 
 
 🧠 Currently Learning
