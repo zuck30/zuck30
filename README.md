@@ -1,79 +1,67 @@
-<h1 align="center">Hi there, I'm Sheldon 👋</h1>
+
+
+
+
+<h1 align="center">Hey there, I'm Sheldon 👋</h1>
 
 <p align="center">
-  🧠 Programmer • ♟️ Chess Player • 🎵 Music Addict • 📊 Data & ML Explorer
+  <img src="https://komarev.com/ghpvc/?username=zuck30&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-🔥-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-pink?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=radical&hide=prs&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=radical" />
 </p>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-- 🔭 I'm currently building cool projects with **Python**, **Streamlit**, **Tailwind CSS**, and **Machine Learning**.
-- 🌱 I’m diving deep into the world of **AI**, **data science**, and **real-world problem-solving**.
-- 🧠 My mission is to **learn relentlessly**, **build boldly**, and **inspire others**.
-- 💬 Ask me about programming, design, productivity hacks, or your next wild tech idea!
-- 💞️ I'm open to collaborations — especially on **ML**, **education tools**, **chess + tech mashups**, and **community apps**.
-
----
-
-## 🚀 Projects I'm Currently focusing
-
-| Project | Description |
-|--------|-------------|
-| [StackUniversity](https://github.com/zuck30/stackuniversity) | 🇹🇿 Tanzanian university explorer using Streamlit + web scraping + ML wizard |
-| [Smart Home IoT System](#) | 🏠 Streamlit-based IoT mock dashboard using MQTT + sensors + CSV logging |
-| [CiveLinks](#) | 🎓 UDOM student platform for coding tutorials, mentorship, and internships |
+- 🔭 Currently building: **StackUniversity**, **Smart Home IoT**, and **CiveLinks**
+- 🌱 Exploring: **Machine Learning**, **IoT**, **Tailwind CSS**, and **Streamlit**
+- 💡 Passionate about solving real-world problems using tech
+- 🧠 Love: Chess ♟️, Music 🎵, Code 💻, and Strategy 🧠
+- 💬 Ask me about: ML, IoT, UI/UX, building MVPs, and side hustle hacks
+- ⚡ Fun fact: I survive off late-night code and early morning chai ☕️
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-```yaml
-Languages:
-  - Python
-  - JavaScript
-  - HTML/CSS
-  - C/C++
-  
-Frameworks & Libraries:
-  - Streamlit
-  - Pandas
-  - Tailwind CSS
-  - BeautifulSoup
-  - Paho-MQTT
-  - React.js
-  - Numpy
-  - sklearn
-- pytorch
-- matplotib
-- wordcloud
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-05122A?style=flat&logo=beautifulsoup)
 
+---
 
+## 📊 GitHub Stats
 
-Tools:
-  - Git & GitHub
-  - Figma
-  - VS Code
-  - Linux / macOS
- - zsh
-- bash
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuck30&layout=compact&theme=radical" />
+</div>
 
+---
 
-🧠 Currently Learning
-🧠 Advanced Machine Learning
+## 📫 Contact Me
 
-🌍 IoT & Embedded Systems
+- 🌐 Portfolio: [codewithsheddy.netlify.app](https://codewithsheddy.netlify.app/)
+- 🐦 Twitter: [@codewithsheddy](https://twitter.com/codewithsheddy)
+- 💌 Email: sheldon@example.com *(replace this with your real email)*
 
-💼 Building Scalable Systems
+---
 
-💻 Full-stack Web Development
+> _“Regret was the wake-up call. Action is the answer.”_
 
-📫 Let's Connect
-🌐 Portfolio: codewithsheddy.netlify.app
+<!--
+**zuck30/zuck30** is a ✨ special ✨ repo because its `README.md` appears on your GitHub profile.
+-->
 
-🐦 Twitter: @codewithsheddy
-
-💌 Email: sheldoncodesdaily@gmail.com
-
-“Regret was the wake-up call. Action is the answer.” — Sheldon
 
