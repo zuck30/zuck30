@@ -14,8 +14,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=radical" />
 </p>
 
-<h1 align="center">Hi there, I'm Sheldon 👋</h1>
-
 <p align="center">
   🧠 Programmer • ♟️ Chess Player • 🎵 Music Addict • 📊 Data & ML Explorer
 </p>
