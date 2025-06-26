@@ -25,7 +25,7 @@
 - 🔭 I'm currently building cool projects with **Python**, **Streamlit**, **Tailwind CSS**, and **Machine Learning**.
 - 🌱 I’m diving deep into the world of **AI**, **data science**, and **real-world problem-solving**.
 - 🧠 My mission is to **learn relentlessly**, **build boldly**, and **inspire others**.
-- 💞️ I'm open to collaborations — especially on **ML**, **education tools**, **chess + tech mashups**, and **community apps**.
+- 💞️ I'm open to collaborations especially on **ML**, **education tools**, **chess + tech mashups**, and **community apps**.
 
 ---
 
