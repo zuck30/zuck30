@@ -1,150 +1,141 @@
-# Hi there, I'm Sheldon 👋
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Sheldon&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer;Chess+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+<p align="center">I'm a 26 y.o developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
 
+<h3>Quick Links</h3>
+<a href="https://github.com/zuck30"><img src="https://img.shields.io/github/followers/zuck30.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
+
+<div align="left">
+    <a href="https://twitter.com/codewithsheddy"><img src="https://img.shields.io/badge/@codewithsheddy-30302f?style=flat-square&logo=twitter" alt="" srcset=""></a>
+    <a href="mailto:sheldoncodesdaily@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="" srcset=""></a>
+    <a href="https://codewithsheddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-30302f?style=flat-square&logo=firefox" alt="" srcset=""></a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zuck30&style=flat-square&color=00d9ff" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zuck30?style=flat-square&color=00d9ff&labelColor=1c1c1c" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-00d9ff?style=flat-square&labelColor=1c1c1c" />
-  <img src="https://img.shields.io/badge/Location-Tanzania-00d9ff?style=flat-square&labelColor=1c1c1c" />
+<h2>⚡️ A Few Quick Facts</h2>
+<br>
+<a href="https://github.com/zuck30"><img align="right" height="auto" width="40%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="right:0px" /></a>
+
+<ul>
+    <li>🔭 I'm currently mastering <a href="https://www.python.org">Python</a> and building ML projects you can find <a href="https://github.com/zuck30/stackuniversity"><b>here</b></a></li>
+    <li>🧐 Currently deep diving into <strong>Machine Learning</strong> and learning <strong>React</strong></li>
+    <li>👨‍💻 Most of my projects are based on Python and Streamlit.</li>
+    <li>♟️ I love <b>playing chess and listening to music</b>.</li>
+    <li>💬 I mostly use <strong><a href="https://twitter.com/codewithsheddy" target="_blank" rel="noopener noreferrer">Twitter</a></strong> to connect.</li>
+    <li>💡 <s><b>Follow</b>ing <b>me</b> might be WORTH it for ML content.</s></li>
+    <li>😅 Fun Fact: I combine chess strategy with coding logic to solve complex problems</li>
+</ul>
+
+<h2>📌 Todo</h2>
+
+- [x] 💬 Started Contributing to Open Source
+- [ ] 🎓 Complete my Computer Engineering Studies
+- [x] 🎯 Created Multiple ML Projects
+- [ ] 👨‍💻 Land a Machine Learning Internship
+- [x] 🚀 Built University Explorer Platform
+- [ ] 🏠 Complete Smart Home IoT System
+
+<h2 id=lang>Skills</h2>
+
+**Languages**
+
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,bash,md&perline=10)
+
+**Frameworks & Libraries**
+
+![My Skills](https://skillicons.dev/icons?i=react,fastapi,django,flask,tailwind,bootstrap&perline=10)
+
+**Data Science & ML**
+
+![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=10)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+**Databases**
+
+![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=10)
+
+**Tools**
+
+![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,git,github,linux,postman&perline=10)
+
+**Cloud**
+
+![My Skills](https://skillicons.dev/icons?i=netlify,vercel,heroku&perline=10)
+
+<h2>🖼 Profile Links</h2>
+<p>
+    <a href="https://twitter.com/codewithsheddy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" srcset=""></a>
+    <a href="https://codewithsheddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt=""></a>
+    <a href="https://github.com/zuck30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="" srcset=""></a>
+    <a href="mailto:sheldoncodesdaily@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" srcset=""></a>
+    <a href="https://linkedin.com/in/sheldon-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" srcset=""></a>
+    <img src="https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="" srcset="">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset="">
 </p>
 
----
+<h2>☕️ Support My Work</h2>
+<p>
+    <a href="https://www.buymeacoffee.com/codewithsheddy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
+    <a href="https://paypal.me/codewithsheddy"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
+</p>
 
-## 🚀 About Me
+<h2>🚀 Featured Projects</h2>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [StackUniversity](https://github.com/zuck30/stackuniversity) | 🇹🇿 Tanzanian university explorer with ML recommendations |, Python, ML, Web Scraping |
+| [Smart Home IoT](https://github.com/zuck30/Smart-Home-Control-Raspberry) | 🏠 IoT dashboard with real-time sensor monitoring | Python, MQTT, Streamlit, IoT |
+| [HESLB Loan Eligibility Prediction ](https://github.com/zuck30/Heslb-Loan_eligibility) | 🇹🇿Higher Education Students's Loan Board loan egibility prediction | Python, ML, scikit-learn |
+| [CiveLinks](#) | 🎓 UDOM student platform for tutorials and mentorship | React, Python, FastAPI |
+
+<h2 align="center">📈 My Github Stats! </h2>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zuck30&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&background=141320" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=radical&hide=prs&count_private=true" width="48%" />
+</div>  
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuck30&hide=dockerfile&theme=radical&layout=compact" alt="" srcset="" align="center" width="49%">
+</div>  
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</div>  
+
+<h2>🧠 Currently Learning</h2>
 
 ```yaml
-name: Sheldon
-role: Full Stack Developer & ML Engineer
-location: Tanzania 🇹🇿
-interests: [AI/ML, Web Development, Chess, Music]
-current_focus: Building scalable ML solutions
-learning: Advanced Deep Learning & IoT Systems
-collaboration: Open to ML projects and EdTech initiatives
+focus_areas:
+  - Advanced Machine Learning & Deep Learning
+  - IoT Systems & Embedded Programming  
+  - Full-stack Web Development with React
+  - System Design & Scalable Architecture
+  
+current_reads:
+  - "Hands-On Machine Learning" by Aurélien Géron
+  - "Clean Code" by Robert C. Martin
+  
+goals_2025:
+  - Build 5+ production-ready ML applications
+  - Contribute to major open-source ML libraries
+  - Launch CiveLinks platform for students
 ```
 
-- 🔭 Currently building innovative projects with **Python**, **React**, and **Machine Learning**
-- 🌱 Deep diving into **AI/ML**, **IoT systems**, and **scalable architectures**
-- 🎯 Mission: Learn continuously, build impactfully, inspire others
-- 🤝 Looking to collaborate on **ML projects**, **EdTech solutions**, and **community tools**
-- ⚡ Fun fact: I combine my love for chess strategy with coding logic!
-
----
-
-## 💼 Featured Projects
-
+<h2>💭 Philosophy</h2>
 <div align="center">
-
-| 🎓 **StackUniversity** | 🏠 **Smart Home IoT** | 🎓 **CiveLinks** |
-|:---:|:---:|:---:|
-| Tanzanian university explorer<br/>*Streamlit • ML • Web Scraping* | IoT dashboard system<br/>*MQTT • Sensors • Real-time Data* | Student platform for UDOM<br/>*Tutorials • Mentorship • Jobs* |
-| [🔗 View Project](https://github.com/zuck30/stackuniversity) | 🚧 *Coming Soon* | 🚧 *In Development* |
-
+<blockquote>
+<p><em>"Regret was the wake-up call. Action is the answer."</em></p>
+<p><strong>— Sheldon</strong></p>
+</blockquote>
 </div>
 
----
+### Profile views
 
-## 🛠️ Tech Arsenal
-
-### 💻 **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🧠 **AI/ML & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### 🌐 **Web Development**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### 🔧 **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuck30&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuck30&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🌱 Currently Learning & Exploring
-
-<div align="center">
-
-| 🧠 **Advanced ML** | 🌐 **IoT Systems** | 🏗️ **System Design** | 💻 **Full Stack** |
-|:---:|:---:|:---:|:---:|
-| Deep Learning<br/>Neural Networks | Embedded Systems<br/>MQTT Protocols | Scalable Architecture<br/>Microservices | MERN Stack<br/>Cloud Deploy |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://codewithsheddy.netlify.app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithsheddy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheldoncodesdaily@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Regret was the wake-up call. Action is the answer."*
-
-⭐ **Thanks for visiting! Feel free to star repositories you find interesting** ⭐
-
-![Snake animation](https://github.com/zuck30/zuck30/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=zuck30&style=for-the-badge&color=blueviolet)
