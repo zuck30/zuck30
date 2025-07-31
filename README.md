@@ -1,111 +1,93 @@
+# 👨‍💻 Zuck30 | Machine Learning Engineer & Full-Stack Developer
 
+<div align="center">
+  
+[![Visitors](https://komarev.com/ghpvc/?username=zuck30&label=Profile%20Views&color=0d75f8&style=flat)](https://github.com/zuck30)
+[![Years Experience](https://img.shields.io/badge/Experience-3%2B%20Years-0d75f8?logo=codeigniter&logoColor=white)](https://github.com/zuck30)
+[![Python Expert](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)](https://python.org)
+[![ML Specialist](https://img.shields.io/badge/Machine%20Learning-Specialist-FF6F00?logo=tensorflow&logoColor=white)](https://scikit-learn.org/)
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-3DA639?logo=github&logoColor=white)](https://github.com/zuck30)
 
-<h1 align="center">Hey there, I'm Zuck30 👋</h1>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zuck30&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-🔥-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20with-❤️-pink?style=for-the-badge" />
-</p>
+## 🚀 Professional Summary
+Passionate technologist specializing in building intelligent systems that bridge machine learning with intuitive interfaces. Computer Science student at UDOM with 3+ years of experience developing production-ready solutions in Python, ML, and full-stack development. Committed to creating impactful tools that solve real-world problems through innovative technology.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Zuck30 GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=radical" alt="Zuck30 GitHub Streak" />
-</p>
+**Core Competencies**:  
+🧠 ML Model Development • 🧩 End-to-End System Architecture • 🚀 Scalable Application Design • 🔍 Data-Driven Solutions
 
-<p align="center">
-  🧠 Programmer • ♟️ Chess Player • 🎵 Music Enthusiast • 📊 Data & ML Explorer
-</p>
+---
 
-💡 About Me
-I'm Zuck30, a passionate Programmer with a deep interest in Machine Learning, Data Science, and AI. I thrive on learning new technologies and building innovative solutions to real-world problems. My journey involves continuously expanding my knowledge, crafting robust applications, and inspiring others through shared insights and collaborations.
+## 🛠️ Technical Expertise
 
-🔭 I'm currently focused on building impactful projects using Python, Streamlit, Tailwind CSS, and Machine Learning.
+### 🔧 Languages & Frameworks
+<div align="center">
+  
+| Category        | Technologies                                                                 |
+|-----------------|------------------------------------------------------------------------------|
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Expert-11557C?logo=plotly) |
+| **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?logo=pytorch) |
+| **Web Development** | ![Streamlit](https://img.shields.io/badge/Streamlit-Expert-FF4B4B?logo=streamlit) ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?logo=fastapi) |
+| **IoT & Systems** | ![MQTT](https://img.shields.io/badge/MQTT-Intermediate-660066?logo=eclipse-mosquitto) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Intermediate-C51A4A?logo=raspberrypi) |
 
-🌱 I'm dedicated to diving deep into the world of AI, data science, and tackling real-world problem-solving.
+</div>
 
-🧠 My mission is clear: to learn relentlessly, build boldly, and inspire others in the tech community.
+### ⚙️ Tools & Platforms
+**Development Ecosystem**:  
+![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git) ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?logo=docker) ![VS Code](https://img.shields.io/badge/VS%20Code-Expert-007ACC?logo=visualstudiocode)  
 
-💞️ I'm actively seeking collaborations, especially in Machine Learning, educational tools, unique chess + technology mashups, and community-driven applications.
+**Cloud & Deployment**:  
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?logo=amazonaws) ![Netlify](https://img.shields.io/badge/Netlify-Expert-00C7B7?logo=netlify) ![Heroku](https://img.shields.io/badge/Heroku-Intermediate-430098?logo=heroku)  
 
-🚀 Featured Projects
-Project	Description
-StackUniversity	🇹🇿 A comprehensive Tanzanian university explorer built with Streamlit, leveraging web scraping and Machine Learning for insightful data.
-Smart Home IoT System	🏠 A Streamlit-based IoT mock dashboard demonstrating real-time data visualization using MQTT, simulated sensors, and CSV logging.
-CiveLinks	🎓 A platform designed for UDOM students, offering coding tutorials, mentorship opportunities, and internship resources.
+**Design & Workflow**:  
+![Figma](https://img.shields.io/badge/Figma-Advanced-F24E1E?logo=figma) ![Notion](https://img.shields.io/badge/Notion-Expert-000000?logo=notion) ![Jupyter](https://img.shields.io/badge/Jupyter-Expert-F37626?logo=jupyter)  
 
-Export to Sheets
-🛠️ My Tech Stack
-👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Shell_Script-89e051?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
+---
 
-🧰 Frameworks & Libraries
-<p>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-004B6F?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/WordCloud-29B6F6?style=flat-square&logo=cloudflare&logoColor=white" alt="WordCloud" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/BeautifulSoup-004C3F?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Requests-005571?style=flat-square&logo=python&logoColor=white" alt="Requests" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Paho_MQTT-FF9800?style=flat-square&logo=raspberrypi&logoColor=white" alt="Paho MQTT" />
-  <img src="https://img.shields.io/badge/MockGPIO-556B2F?style=flat-square&logo=raspberrypi&logoColor=white" alt="MockGPIO" />
-</p>
+## 🏆 Featured Projects
 
-⚙️ Tools, Platforms & Environments
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Zsh-89e051?style=flat-square&logo=gnu-bash&logoColor=white" alt="Zsh" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-</p>
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| **[StackUniversity](https://github.com/zuck30/stackuniversity)** | ML-powered platform for exploring Tanzanian universities with predictive analytics | Python, Streamlit, Scikit-learn, BeautifulSoup | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **Smart Home IoT Dashboard** | Real-time monitoring system with anomaly detection for IoT environments | MQTT, MockGPIO, TensorFlow, Streamlit | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **[CiveLinks](https://github.com/zuck30/CiveLinks)** | University learning platform with mentorship matching algorithm | React, Firebase, Scikit-learn, Tailwind CSS | ![In Development](https://img.shields.io/badge/Status-Development-yellow) |
+| **Sentiment Analysis API** | Production-ready NLP service for social media monitoring | FastAPI, Transformers, Spacy, AWS EC2 | ![Completed](https://img.shields.io/badge/Status-Completed-blue) |
 
-📚 What I'm Currently Learning
-I believe in continuous growth. Here are the areas I'm currently focusing on to expand my expertise:
+---
 
-Advanced Machine Learning: Deepening my understanding of complex ML algorithms, neural networks, and their applications.
+## 📊 GitHub Analytics
 
-IoT & Embedded Systems: Exploring the fascinating world of interconnected devices and hardware programming.
+<div align="center">
+  
+| ![Zuck30's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=default&hide=prs&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zuck30&layout=compact&theme=default&hide_border=true&bg_color=00000000) |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 
-Building Scalable Systems: Learning best practices for designing and implementing high-performance, scalable software architectures.
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuck30&theme=github-light&hide_border=true&area=true&bg_color=00000000)
 
-Full-stack Web Development: Enhancing my skills across both front-end and back-end web technologies to build comprehensive applications.
+</div>
 
-📫 Let's Connect!
-I'm always open to connecting with fellow developers, collaborating on exciting projects, or just discussing new ideas. Feel free to reach out through any of the following channels:
+---
 
-🌐 Portfolio: codewithsheddy.netlify.app
+## 🌱 Current Focus & Learning
 
-🐦 Twitter: @codewithsheddy
+- **Advanced ML**: Deep learning architectures (Transformers, GANs)
+- **Cloud Architecture**: Scalable deployment patterns on AWS
+- **IoT Security**: Secure device communication protocols
+- **System Design**: Building resilient microservices
 
-💌 Email: sheldoncodesdaily@gmail.com
+---
 
-“Regret was the wake-up call. Action is the answer.” — Sheldon
+## 📬 Contact & Connect
+
+<div align="center" style="margin-top:20px">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-codewithsheddy.netlify.app-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewithsheddy.netlify.app)
+[![Email](https://img.shields.io/badge/✉️_Email-sheldoncodesdaily@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheldoncodesdaily@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@codewithsheddy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithsheddy)
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zuck30)
+
+</div>
+
+> "The best time to plant a tree was 20 years ago. The second best time is now."  
+> — Focusing on building solutions for tomorrow's challenges
