@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Sheldon&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Zuck30&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 
 <p align="center">I'm a 26 y.o developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
 
@@ -132,7 +132,7 @@ goals_2025:
 <div align="center">
 <blockquote>
 <p><em>"Regret was the wake-up call. Action is the answer."</em></p>
-<p><strong>— Sheldon</strong></p>
+<p><strong>— Zuck30</strong></p>
 </blockquote>
 </div>
 
