@@ -11,7 +11,6 @@
     <a href="https://codewithsheddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-30302f?style=flat-square&logo=firefox" alt="" srcset=""></a>
 </div>
 
-<h2>⚡️ A Few Quick Facts</h2>
 <br>
 <a href="https://github.com/zuck30"><img align="right" height="auto" width="40%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="right:0px" /></a>
 
