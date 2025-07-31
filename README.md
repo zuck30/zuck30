@@ -1,155 +1,65 @@
-My apologies! I understand your frustration. It seems I misinterpreted your last instruction about the ## headings. I will now provide the full profile exactly as you originally structured it, ensuring that all the custom HTML and CSS elements you included for styling and layout are present and correct, along with the Markdown headings you initially used.
 
-There will be no ## where you had divs for centering titles, and I'll ensure the code matches your initial input's stylistic choices precisely.
+<h1 align="center">Hey there, I'm Zuck30 👋</h1>
 
-Here's your complete GitHub README.md profile, ready to be copied and pasted:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zuck30&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-🔥-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-pink?style=for-the-badge" />
+</p>
 
-<div align="center">👨‍💻 Zuck30 | Machine Learning Engineer & Full-Stack Developer</div>
-<div align="center" style="margin: 30px 0">
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=radical&hide=prs&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=radical" />
+</p>
 
+<p align="center">
+  🧠 Programmer • ♟️ Chess Player • 🎵 Music Addict • 📊 Data & ML Explorer
+</p>
 
+---
 
+## 💡 About Me
 
-</div>
+- 🔭 I'm currently building cool projects with **Python**, **Streamlit**, **Tailwind CSS**, and **Machine Learning**.
+- 🌱 I’m diving deep into the world of **AI**, **data science**, and **real-world problem-solving**.
+- 🧠 My mission is to **learn relentlessly**, **build boldly**, and **inspire others**.
+- 💞️ I'm open to collaborations especially on **ML**, **education tools**, **chess + tech mashups**, and **community apps**.
 
-<div align="center" style="background: linear-gradient(135deg, #0d2b45 0%, #1d3557 100%); padding: 25px; border-radius: 15px; margin: 25px 0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+---
 
-🌟 Professional Profile
-Passionate Computer Science student at UDOM with 3+ years experience building intelligent systems that bridge machine learning with intuitive interfaces. I specialize in developing production-ready solutions that transform complex data into actionable insights through elegant applications.
+## 🚀 Projects I'm Currently focusing
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 25px 0;">
-  <div style="background: rgba(13, 43, 69, 0.7); padding: 15px; border-radius: 10px; min-width: 200px;">
-    <h3 style="margin: 0 0 10px 0; color: #4cc9f0">🧠 Core Competencies</h3>
-    <ul style="margin: 0; padding-left: 20px">
-      <li>End-to-End System Architecture</li>
-      <li>ML Model Development & Deployment</li>
-      <li>Scalable Application Design</li>
-      <li>Data-Driven Solutions & Analytics</li>
-    </ul>
-  </div>
-  
-  <div style="background: rgba(13, 43, 69, 0.7); padding: 15px; border-radius: 10px; min-width: 200px;">
-    <h3 style="margin: 0 0 10px 0; color: #4cc9f0">💡 Value Proposition</h3>
-    <ul style="margin: 0; padding-left: 20px">
-      <li>Bridging AI with User Experience (UX)</li>
-      <li>Solving complex real-world challenges</li>
-      <li>Delivering production-ready software</li>
-      <li>Driving innovation through technology</li>
-    </ul>
-  </div>
-</div>
+| Project | Description |
+|--------|-------------|
+| [StackUniversity](https://github.com/zuck30/stackuniversity) | 🇹🇿 Tanzanian university explorer using Streamlit + web scraping + ML wizard |
+| [Smart Home IoT System](#) | 🏠 Streamlit-based IoT mock dashboard using MQTT + sensors + CSV logging |
+| [CiveLinks](#) | 🎓 UDOM student platform for coding tutorials, mentorship, and internships |
 
-</div>
+---
+🛠️ Tech Stack
+👨‍💻 Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-89e051?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> </p>
+🧰 Frameworks & Libraries
+<p> <!-- Web & UI --> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> <!-- Data Science --> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-004B6F?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/WordCloud-29B6F6?style=flat-square&logo=cloudflare&logoColor=white" /> <!-- Machine Learning & AI --> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <!-- Web Scraping & APIs --> <img src="https://img.shields.io/badge/BeautifulSoup-004C3F?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Requests-005571?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <!-- IoT & MQTT --> <img src="https://img.shields.io/badge/Paho_MQTT-FF9800?style=flat-square&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/MockGPIO-556B2F?style=flat-square&logo=raspberrypi&logoColor=white" /> </p>
+⚙️ Tools, Platforms & Environments
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Zsh-89e051?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /> </p>
 
-🛠️ Technical Expertise
-<div align="center" style="color: #4cc9f0; margin: 25px 0">🔧 Technology Stack</div>
-<div align="center">
-  
-| Category | Technologies |
-|----------|--------------|
-| Core Languages | <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center">   </div> |
-| Data Science | <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center">   </div> |
-| Machine Learning | <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center">   </div> |
-| Web Development | <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content="center">   </div> |
+🧠 Currently Learning
+🧠 Advanced Machine Learning
 
-</div>
+🌍 IoT & Embedded Systems
 
-🏆 Featured Projects
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 30px 0">
+💼 Building Scalable Systems
 
-<div style="background: #0d2b45; padding: 20px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-  
+💻 Full-stack Web Development
 
-<div style="color: #4cc9f0">🎓 StackUniversity</div>
-Tanzanian university explorer with ML-powered insights  
-Python • Streamlit • Scikit-learn • BeautifulSoup
+📫 Let's Connect
+🌐 Portfolio: codewithsheddy.netlify.app
 
-ML-driven analytics for university selection
+🐦 Twitter: @codewithsheddy
 
-Web scraping integration for real-time data
+💌 Email: sheldoncodesdaily@gmail.com
 
-Interactive visualization dashboard
-
-Predictive modeling for program recommendations
-
-</div>
-
-<div style="background: #0d2b45; padding: 20px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-  
-
-<div style="color: #4cc9f0">🏠 Smart Home IoT Dashboard</div>
-Real-time monitoring system with anomaly detection  
-MQTT • MockGPIO • TensorFlow • Streamlit
-
-Real-time sensor data visualization
-
-Anomaly detection using ML models
-
-Historical data analysis & trend analysis
-
-Configurable alerting system for critical events
-
-</div>
-
-<div style="background: #0d2b45; padding: 20px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-  
-
-<div style="color: #4cc9f0">👨‍🎓 CiveLinks</div>
-University learning platform with mentorship matching  
-React • Firebase • Scikit-learn • Tailwind CSS
-
-Algorithmic mentorship matching for students
-
-Centralized resource sharing platform
-
-Curated coding tutorial repository
-
-Aggregator for internship and career opportunities
-
-</div>
-
-</div>
-
-📊 GitHub Analytics
-<div align="center" style="margin: 40px 0">
-  
-|  |  |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-
-</div>
-
-🌱 Current Focus
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0">
-  
-<div style="background: #1d3557; padding: 15px; border-radius: 10px; min-width: 200px; text-align: center">
-  <h3 style="color: #4cc9f0; margin: 0 0 10px 0">🤖 Advanced ML</h3>
-  <div>Transformers • GANs • Reinforcement Learning</div>
-</div>
-
-<div style="background: #1d3557; padding: 15px; border-radius: 10px; min-width: 200px; text-align: center">
-  <h3 style="color: #4cc9f0; margin: 0 0 10px 0">☁️ Cloud Architecture</h3>
-  <div>AWS • Azure • Scalable Systems • Serverless</div>
-</div>
-
-<div style="background: #1d3557; padding: 15px; border-radius: 10px; min-width: 200px; text-align: center">
-  <h3 style="color: #4cc9f0; margin: 0 0 10px 0">🔒 IoT Security</h3>
-  <div>Secure Protocols • Data Encryption • Device Authentication</div>
-</div>
-
-<div style="background: #1d3557; padding: 15px; border-radius: 10px; min-width: 200px; text-align: center">
-  <h3 style="color: #4cc9f0; margin: 0 0 10px 0">⚙️ System Design</h3>
-  <div>Microservices • Distributed Systems • Resilience Patterns</div>
-</div>
-
-</div>
-
-<div align="center" style="margin: 40px 0">
-  
-
-
-
-</div>
-
-"We build our computer systems the way we build our cities: over time, without a plan, on top of ruins."  
-— Let's build intentional systems that stand the test of time
+“Regret was the wake-up call. Action is the answer.” — Sheldon
