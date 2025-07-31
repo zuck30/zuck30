@@ -18,10 +18,9 @@
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org">Python</a> and building ML projects you can find <a href="https://github.com/zuck30/stackuniversity"><b>here</b></a></li>
     <li>🧐 Currently deep diving into <strong>Machine Learning</strong> and learning <strong>React</strong></li>
-    <li>👨‍💻 Most of my projects are based on Python and Streamlit.</li>
+    <li>👨‍💻 Most of my projects are based on Python.</li>
     <li>♟️ I love <b>playing chess and listening to music</b>.</li>
     <li>💬 I mostly use <strong><a href="https://twitter.com/codewithsheddy" target="_blank" rel="noopener noreferrer">Twitter</a></strong> to connect.</li>
-    <li>💡 <s><b>Follow</b>ing <b>me</b> might be WORTH it for ML content.</s></li>
     <li>😅 Fun Fact: I combine chess strategy with coding logic to solve complex problems</li>
 </ul>
 
@@ -85,7 +84,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [StackUniversity](https://github.com/zuck30/stackuniversity) | 🇹🇿 Tanzanian university explorer with ML recommendations |, Python, ML, Web Scraping |
+| [StackUniversity](https://github.com/zuck30/stackuniversity) | 🇹🇿 Tanzanian university explorer with ML recommendations |Python, ML, Web Scraping |
 | [Smart Home IoT](https://github.com/zuck30/Smart-Home-Control-Raspberry) | 🏠 IoT dashboard with real-time sensor monitoring | Python, MQTT, Streamlit, IoT |
 | [HESLB Loan Eligibility Prediction ](https://github.com/zuck30/Heslb-Loan_eligibility) | 🇹🇿Higher Education Students's Loan Board loan egibility prediction | Python, ML, scikit-learn |
 | [CiveLinks](#) | 🎓 UDOM student platform for tutorials and mentorship | React, Python, FastAPI |
