@@ -16,11 +16,8 @@
 
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org">Python</a> and building ML projects you can find <a href="https://github.com/zuck30/stackuniversity"><b>here</b></a></li>
-    <li>🧐 Currently deep diving into <strong>Machine Learning</strong> and learning <strong>React</strong></li>
     <li>👨‍💻 Most of my projects are based on Python.</li>
     <li>♟️ I love <b>playing chess and listening to music</b>.</li>
-    <li>💬 I mostly use <strong><a href="https://twitter.com/codewithsheddy" target="_blank" rel="noopener noreferrer">Twitter</a></strong> to connect.</li>
-    <li>😅 Fun Fact: I combine chess strategy with coding logic to solve complex problems</li>
 </ul>
 
 <h2>📌 Todo</h2>
@@ -30,7 +27,7 @@
 - [x] 🎯 Created Multiple ML Projects
 - [ ] 👨‍💻 Land a Machine Learning Internship
 - [x] 🚀 Built University Explorer Platform
-- [ ] 🏠 Complete Smart Home IoT System
+- [x] 🏠 Complete Smart Home IoT System
 
 <h2 id=lang>Skills</h2>
 
