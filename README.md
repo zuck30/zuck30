@@ -1,14 +1,12 @@
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Zuck30&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 
-<p align="center">I'm a 26 y.o developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
+<p align="center">I'm a developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
 
 <h3>Quick Links</h3>
-<a href="https://github.com/zuck30"><img src="https://img.shields.io/github/followers/zuck30.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 
 <div align="left">
-    <a href="https://twitter.com/codewithsheddy"><img src="https://img.shields.io/badge/@codewithsheddy-30302f?style=flat-square&logo=twitter" alt="" srcset=""></a>
     <a href="mailto:sheldoncodesdaily@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="" srcset=""></a>
-    <a href="https://codewithsheddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-30302f?style=flat-square&logo=firefox" alt="" srcset=""></a>
+    <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-30302f?style=flat-square&logo=firefox" alt="" srcset=""></a>
 </div>
 
 <br>
