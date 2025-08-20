@@ -13,7 +13,7 @@
 <a href="https://github.com/zuck30"><img align="right" height="auto" width="40%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="right:0px" /></a>
 
 <ul>
-    <li>🔭 I'm currently mastering <a href="https://www.python.org">Python</a> and building ML projects you can find <a href="https://github.com/zuck30/stackuniversity"><b>here</b></a></li>
+    <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
     <li>👨‍💻 Most of my projects are based on Python.</li>
     <li>♟️ I love <b>playing chess and listening to music</b>.</li>
 </ul>
