@@ -5,7 +5,7 @@
 <h3>Quick Links</h3>
 
 <div align="left">
-    <a href="mailto:sheldoncodesdaily@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="" srcset=""></a>
+    <a href="mailto:mwalyangashadrack@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="" srcset=""></a>
     <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Me-30302f?style=flat-square&logo=firefox" alt="" srcset=""></a>
 </div>
 
