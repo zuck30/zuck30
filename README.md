@@ -70,8 +70,8 @@
 
 <h2>☕️ Support My Work</h2>
 <p>
-    <a href="https://www.buymeacoffee.com/codewithsheddy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
-    <a href="https://paypal.me/codewithsheddy"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
+    <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
+    <a href="https://paypal.me/zuck30"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
 </p>
 
 <h2>🚀 Featured Projects</h2>
@@ -89,7 +89,7 @@
 focus_areas:
   - Advanced Machine Learning & Deep Learning
   - IoT Systems & Embedded Programming  
-  - Full-stack Web Development with React
+  - Full-stack Web Development with Vue and React
   - System Design & Scalable Architecture
   
 current_reads:
@@ -98,8 +98,8 @@ current_reads:
   
 goals_2025:
   - Build 5+ production-ready ML applications
-  - Contribute to major open-source ML libraries
-  - Launch CiveLinks platform for students
+  - Contribute to major open-source python ML libraries
+  - Launch CiveLinks, Sekela, Kaidoku Bioinformatics Copilot platform for students and researchers.   
 ```
 
 <h2>💭 Philosophy</h2>
