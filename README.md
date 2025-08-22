@@ -83,25 +83,6 @@
 | [HESLB Loan Eligibility Prediction ](https://github.com/zuck30/Heslb-Loan_eligibility) | 🇹🇿Higher Education Students's Loan Board loan egibility prediction | Python, ML, scikit-learn |
 | [CiveLinks](#) | 🎓 UDOM student platform for tutorials and mentorship | React, Python, FastAPI |
 
-<h2 align="center">📈 My Github Stats! </h2>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zuck30&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&background=141320" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=radical&hide=prs&count_private=true" width="48%" />
-</div>  
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuck30&hide=dockerfile&theme=radical&layout=compact" alt="" srcset="" align="center" width="49%">
-</div>  
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>  
-
 <h2>🧠 Currently Learning</h2>
 
 ```yaml
