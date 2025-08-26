@@ -101,6 +101,3 @@ goals_2025:
 </blockquote>
 </div>
 
-### Profile views
-
-![Profile views](https://komarev.com/ghpvc/?username=zuck30&style=for-the-badge&color=blueviolet)
