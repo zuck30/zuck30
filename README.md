@@ -74,15 +74,6 @@
     <a href="https://paypal.me/zuck30"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
 </p>
 
-<h2>🚀 Featured Projects</h2>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [StackUniversity](https://github.com/zuck30/stackuniversity) | 🇹🇿 Tanzanian university explorer with ML recommendations |Python, ML, Web Scraping |
-| [Smart Home IoT](https://github.com/zuck30/Smart-Home-Control-Raspberry) | 🏠 IoT dashboard with real-time sensor monitoring | Python, MQTT, Streamlit, IoT |
-| [HESLB Loan Eligibility Prediction ](https://github.com/zuck30/Heslb-Loan_eligibility) | 🇹🇿Higher Education Students's Loan Board loan egibility prediction | Python, ML, scikit-learn |
-| [CiveLinks](#) | 🎓 UDOM student platform for tutorials and mentorship | React, Python, FastAPI |
-
 <h2>🧠 Currently Learning</h2>
 
 ```yaml
