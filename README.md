@@ -59,13 +59,10 @@
 
 <h2>🖼 Profile Links</h2>
 <p>
-    <a href="https://twitter.com/codewithsheddy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" srcset=""></a>
-    <a href="https://codewithsheddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt=""></a>
+    <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt=""></a>
     <a href="https://github.com/zuck30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="" srcset=""></a>
     <a href="mailto:sheldoncodesdaily@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" srcset=""></a>
-    <a href="https://linkedin.com/in/sheldon-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" srcset=""></a>
-    <img src="https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="" srcset="">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset="">
+
 </p>
 
 <h2>☕️ Support My Work</h2>
