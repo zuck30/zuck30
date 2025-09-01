@@ -38,24 +38,30 @@
 ![My Skills](https://skillicons.dev/icons?i=react,fastapi,django,vue,tailwind,bootstrap&perline=10)
 
 **Data Science & ML**
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Seaborn-1E90FF?style=flat-square&logo=python&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></td>
-  </tr>
 
+<table align="center" style="border-collapse: separate; border-spacing: 10px;">
   <tr>
-    <td><img src="https://img.shields.io/badge/Pytorch-11557C?style=flat-square&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Tensorflow-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/BeautifulSoup-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" title="Pandas for data manipulation" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy for numerical computations" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Seaborn-1E90FF?style=flat-square&logo=python&logoColor=white" alt="Seaborn" title="Seaborn for data visualization" />
+    </td>
   </tr>
-    
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" title="Matplotlib for plotting" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit for web interface" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Requests-000000?style=flat-square&logo=python&logoColor=white" alt="Requests" title="Requests for HTTP requests" />
+    </td>
+  </tr>
 </table>
 
 
