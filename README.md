@@ -35,7 +35,7 @@
 
 **Frameworks & Libraries**
 
-![My Skills](https://skillicons.dev/icons?i=react,fastapi,django,flask,tailwind,bootstrap&perline=10)
+![My Skills](https://skillicons.dev/icons?i=react,fastapi,django,vue,tailwind,bootstrap&perline=10)
 
 **Data Science & ML**
 
