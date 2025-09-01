@@ -1,14 +1,7 @@
-<!-- Animated Banner with interactive elements -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Zuck30;ML+Developer;From+Tanzania;Chess+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Zuck30;ML+Developer;From+Tanzania;Data+Analyst;Full+Stack+Software+Developer" alt="Typing Animation" />
 </div>
-
-<p align="center">I'm a developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
-
-
-
-change the banner and the images here
-
 
 
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Zuck30&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
@@ -22,7 +15,15 @@ change the banner and the images here
 </div>
 
 <br>
-<a href="https://github.com/zuck30"><img align="right" height="auto" width="40%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="right:0px" /></a>
+<a href="https://github.com/zuck30"> 
+  
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+</div>
+  
+  
+  </a>
 
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
