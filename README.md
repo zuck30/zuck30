@@ -38,17 +38,9 @@
 ![My Skills](https://skillicons.dev/icons?i=react,fastapi,django,vue,tailwind,bootstrap&perline=10)
 
 **Data Science & ML**
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Seaborn-1E90FF?style=flat-square&logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Pytorch-11557C?style=flat-square&logo=python&logoColor=white" alt="Pytorch">
-  <img src="https://img.shields.io/badge/Tensorflow-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Tensorflow">
-  <img src="https://img.shields.io/badge/BeautifulSoup-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="BeautifulSoup">
-</div>
+
+![Project Skills](https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,matplotlib,seaborn,pytorch,tensorflow,streamlit,bs4&perline=10)
+
 
 
 **Databases**
