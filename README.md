@@ -49,6 +49,13 @@
     <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></td>
   </tr>
+
+  <tr>
+    <td><img src="https://img.shields.io/badge/Pytorch-11557C?style=flat-square&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Tensorflow-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/BeautifulSoup-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></td>
+  </tr>
+    
 </table>
 
 
