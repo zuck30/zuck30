@@ -57,7 +57,7 @@
 
 **Cloud**
 
-![My Skills](https://skillicons.dev/icons?i=netlify,vercel,heroku&perline=10)
+![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
 
 <h2>🖼 Profile Links</h2>
 <p>
@@ -70,27 +70,9 @@
 <h2>☕️ Ninunulie Kahawa</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
-    <a href="https://paypal.me/zuck30"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
+
 </p>
 
-<h2>🧠 Currently Learning</h2>
-
-```yaml
-focus_areas:
-  - Advanced Machine Learning & Deep Learning
-  - IoT Systems & Embedded Programming  
-  - Full-stack Web Development with Vue and React
-  - System Design & Scalable Architecture
-  
-current_reads:
-  - "Hands-On Machine Learning" by Aurélien Géron
-  - "Clean Code" by Robert C. Martin
-  
-goals_2025:
-  - Build 5+ production-ready ML applications
-  - Contribute to major open-source python ML libraries
-  - Launch CiveLinks, Sekela, Kaidoku Bioinformatics Copilot platform for students and researchers.   
-```
 
 <div align="center">
 <blockquote>
