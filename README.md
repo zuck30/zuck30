@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Zuck30;ML+Developer;From+Tanzania;Data+Analyst;Full+Stack+Software+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Zuck30;ML+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="Typing Animation" />
 </div>
 
 
@@ -20,8 +20,7 @@
 
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
-    <li>👨‍💻 Most of my projects are based on Python.</li>
-    <li>♟️ I love <b>playing chess and listening to music</b>.</li>
+    <li>👨‍💻 Most of my projects here are based on Python.</li>
 </ul>
 
 <h2>📌 Todo</h2>
@@ -29,7 +28,7 @@
 - [x] 💬 Started Contributing to Open Source
 - [ ] 🎓 Complete my Computer Engineering Studies
 - [x] 🎯 Created Multiple ML Projects
-- [ ] 👨‍💻 Land a Machine Learning Internship
+- [ ] 👨‍💻 Land a Machine Learning (Data Science) Internship
 - [x] 🚀 Built University Explorer Platform
 - [x] 🏠 Complete Smart Home IoT System
 
@@ -71,7 +70,7 @@
 
 </p>
 
-<h2>☕️ Support My Work</h2>
+<h2>☕️ Ninunulie Kahawa</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
     <a href="https://paypal.me/zuck30"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
@@ -96,7 +95,6 @@ goals_2025:
   - Launch CiveLinks, Sekela, Kaidoku Bioinformatics Copilot platform for students and researchers.   
 ```
 
-<h2>💭 Philosophy</h2>
 <div align="center">
 <blockquote>
 <p><em>"Regret was the wake-up call. Action is the answer."</em></p>
