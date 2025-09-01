@@ -39,11 +39,12 @@
 
 **Data Science & ML**
 
-
-
-![My Skills](https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn&perline=2)
-<img src="https://img.shields.io/badge/Seaborn-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+![Frameworks & Libraries](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Frameworks & Libraries](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Frameworks & Libraries](https://img.shields.io/badge/Seaborn-1E90FF?style=flat-square&logo=python&logoColor=white)
+![Frameworks & Libraries](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Frameworks & Libraries](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Frameworks & Libraries](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 
 **Databases**
