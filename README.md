@@ -40,7 +40,7 @@
 
 **Frameworks & Libraries**
 
-![My Skills](https://skillicons.dev/icons?i=vue,react,fastapi,django,flask,tailwind,pandas,Numpy,Streamlit,sklearn,bootstrap&perline=10)
+![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,fastapi,django,flask,tailwind,bootstrap&perline=10)
 
 **Data Science & ML**
 
