@@ -1,5 +1,4 @@
-
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Zuck30&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,50:185a9d,100:ff6b6b&height=200&text=Hello,%20I'm%20Zuck30&animation=fadeIn&fontSize=50&fontColor=ffffff&desc=(he/him)&descAlign=79&descAlignY=70)
 <p align="center">I'm a developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
 
 <h3>Quick Links</h3>
@@ -10,7 +9,7 @@
 </div>
 
 <br>
-<a href="https://github.com/zuck30"><img align="right" height="auto" width="40%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="right:0px" /></a>
+<a href="https://github.com/zuck30"><img align="right" height="auto" width="40%" src="https://github.com/user-attachments/assets/3b5a3b3a-3b3a-4b3a-8b3a-3b3a3b3a3b3a" style="right:0px" /></a>
 
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
@@ -87,13 +86,6 @@ current_reads:
 goals_2025:
   - Build 5+ production-ready ML applications
   - Contribute to major open-source python ML libraries
-  - Launch CiveLinks, Sekela, Kaidoku Bioinformatics Copilot platform for students and researchers.   
-```
+  - Launch CiveLinks, Sekela, Kaidoku Bioinformatics Copilot platform for students and researchers.
 
-<h2>💭 Philosophy</h2>
-<div align="center">
-<blockquote>
-<p><em>"Regret was the wake-up call. Action is the answer."</em></p>
-<p><strong>— Zuck30</strong></p>
-</blockquote>
-</div>
+<h2>💭 Philosophy</h2> <div align="center"> <blockquote> <p><em>"Regret was the wake-up call. Action is the answer."</em></p> <p><strong>— Zuck30</strong></p> </blockquote> </div> ```
