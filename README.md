@@ -38,13 +38,18 @@
 ![My Skills](https://skillicons.dev/icons?i=react,fastapi,django,vue,tailwind,bootstrap&perline=10)
 
 **Data Science & ML**
-
-![Frameworks & Libraries](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Frameworks & Libraries](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Frameworks & Libraries](https://img.shields.io/badge/Seaborn-1E90FF?style=flat-square&logo=python&logoColor=white)
-![Frameworks & Libraries](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Frameworks & Libraries](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Frameworks & Libraries](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Seaborn-1E90FF?style=flat-square&logo=python&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></td>
+  </tr>
+</table>
 
 
 **Databases**
