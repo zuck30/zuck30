@@ -36,19 +36,16 @@
 
 **Languages**
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,bash,md&perline=10)
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md&perline=10)
 
 **Frameworks & Libraries**
 
-![My Skills](https://skillicons.dev/icons?i=react,fastapi,django,flask,tailwind,bootstrap&perline=10)
+![My Skills](https://skillicons.dev/icons?i=vue,react,fastapi,django,flask,tailwind,pandas,Numpy,Streamlit,sklearn,bootstrap&perline=10)
 
 **Data Science & ML**
 
 ![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=10)
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
 
 **Databases**
 
