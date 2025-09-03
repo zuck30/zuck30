@@ -23,15 +23,6 @@
     <li>👨‍💻 Most of my projects here are based on Python.</li>
 </ul>
 
-<h2>📌 Todo</h2>
-
-- [x] 💬 Started Contributing to Open Source
-- [ ] 🎓 Complete my Computer Engineering Studies
-- [x] 🎯 Created Multiple ML Projects
-- [ ] 👨‍💻 Land a Machine Learning (Data Science) Internship
-- [x] 🚀 Built University Explorer Platform
-- [x] 🏠 Complete Smart Home IoT System
-
 <h2 id=lang>Skills</h2>
 
 **Languages**
