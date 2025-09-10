@@ -44,7 +44,7 @@
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=docker,notion,vscode,git,github,linux,postman&perline=10)
+![My Skills](https://skillicons.dev/icons?i=npm,docker,notion,vscode,git,github,linux,postman&perline=10)
 
 **Cloud**
 
