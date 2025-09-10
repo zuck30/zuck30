@@ -48,7 +48,7 @@
 
 **Cloud**
 
-![My Skills](https://skillicons.dev/icons?i=render,netlify,vercel&perline=10)
+![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
 
 <h2>🖼 Profile Links</h2>
 <p>
