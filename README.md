@@ -52,7 +52,7 @@
 
 <h2>🖼 Profile Links</h2>
 <p>
-    <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt=""></a>
+    <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Timothy-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt=""></a>
     <a href="https://github.com/zuck30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="" srcset=""></a>
     <a href="mailto:sheldoncodesdaily@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" srcset=""></a>
 
