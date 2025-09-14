@@ -27,7 +27,7 @@
 
 **Languages**
 
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md&perline=10)
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md,lua&perline=10)
 
 **Frameworks & Libraries**
 
@@ -44,21 +44,13 @@
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=macos,npm,docker,notion,vscode,git,github,linux,postman&perline=10)
+![My Skills](https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim&perline=10)
 
 **Cloud**
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
 
-<h2>🖼 Profile Links</h2>
-<p>
-    <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Timothy-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt=""></a>
-    <a href="https://github.com/zuck30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="" srcset=""></a>
-    <a href="mailto:sheldoncodesdaily@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" srcset=""></a>
-
-</p>
-
-<h2>☕️ Ninunulie Kahawa</h2>
+<h2>☕️ Ninunulie Kahawa.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
 
