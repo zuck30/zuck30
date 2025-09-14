@@ -31,7 +31,7 @@
 
 **Frameworks & Libraries**
 
-![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,fastapi,django,flask,tailwind&perline=10)
+![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,fastapi,tailwind&perline=10)
 
 **Data Science & ML**
 
@@ -40,11 +40,11 @@
 
 **Databases**
 
-![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb&perline=10)
+![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&perline=10)
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=npm,docker,notion,vscode,git,github,linux,postman&perline=10)
+![My Skills](https://skillicons.dev/icons?i=macos,npm,docker,notion,vscode,git,github,linux,postman&perline=10)
 
 **Cloud**
 
