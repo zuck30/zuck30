@@ -44,7 +44,7 @@
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim&perline=10)
+![My Skills](https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim&perline=20)
 
 **Cloud**
 
