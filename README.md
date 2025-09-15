@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello+Mambo?%2C+I'm+Shadrack+;Timothy+John+Mwalyanga;ML+Developer;Fullstack+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="oops, that sounds like an error to me." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello+Mambo?%2C+I'm+Shadrack+;Timothy+John;ML+Developer;Fullstack+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="oops, that sounds like an error to me." />
 </div>
 
 
@@ -49,8 +49,6 @@
 **Cloud**
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
- 
-</div>
 
 <h2>☕️ Ninunulie Kahawa.</h2>
 <p>
