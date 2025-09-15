@@ -19,9 +19,18 @@
   </a>
 
 <ul>
-    <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
+<li>
+💻Freelance Fullstack Developer <a href="https://www.coursera.org/articles/full-stack-developer">Fullstack </a>
+</li>
+    <li>
+    🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
+    </li>
     <li>👨‍💻 Most of my projects here are based on Python.</li>
 </ul>
+
+
+
+
 
 <h2 id=lang>Skills</h2>
 
