@@ -58,27 +58,6 @@
 
 </p>
 
-## My Favorites
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <a href="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg">
-      <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; box-shadow: 0 0 10px rgba(255, 165, 0, 0.7), 0 0 20px rgba(255, 165, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg" alt="Favorite 1" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-    </a>
-    <p style="margin-top: 10px; font-size: 14px; color: #f7f5f5;">Favorite 1</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg">
-      <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; box-shadow: 0 0 10px rgba(255, 165, 0, 0.7), 0 0 20px rgba(255, 165, 0, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg" alt="Artist 1 Logo" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-   
-</div>
-
-
-
 <div align="center">
 <blockquote>
 <p><em>"Regret was the wakeup call. Action is the answer."</em></p>
