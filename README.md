@@ -1,6 +1,8 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello+Mambo?%2C+I'm+Shadrack+;Timothy+John+Mwalyanga;ML+Developer;Fullstack+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="oops, that sounds like an error to me." />
 </div>
+
 
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume/mume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 <p align="center">I'm a developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
@@ -13,9 +15,8 @@
 </div>
 
 <br>
-<a href="https://github.com/zuck30"> 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFvb2tyMWlhcTB2YWY0NHdmb2wyZHVoMmljbzd4NzRkczd1dmFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
-</a>
+<a href="https://github.com/zuck30"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+  </a>
 
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
@@ -36,6 +37,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=10)
 
+
 **Databases**
 
 ![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&perline=10)
@@ -53,11 +55,13 @@
 <h2>☕️ Ninunulie Kahawa.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
+
 </p>
+
 
 <div align="center">
 <blockquote>
-<p><em>"Regret was the wakeup call. Action is the answer."</em></p>
+<p><em>"Regret was the wake-up call. Action is the answer."</em></p>
 <p><strong>— Zuck30</strong></p>
 </blockquote>
 </div>
