@@ -49,19 +49,7 @@
 **Cloud**
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
-
-
-
-<h2 align="center">My Favorites</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <a href="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg">
-      <img src="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg" alt="Team 1 Logo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(67, 206, 162, 0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
-    </a>
-    <p style="margin-top: 10px; font-size: 14px; color: #f7f5f5;">Team 1</p>
-  </div>
  
-
 </div>
 
 <h2>☕️ Ninunulie Kahawa.</h2>
@@ -69,6 +57,16 @@
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
 
 </p>
+
+## My Favorites
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="text-align: center;">
+    <a href="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg">
+      <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(67, 206, 162, 0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
+        <img src="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg" alt="Team 1 Logo" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+</div>
 
 
 <div align="center">
