@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello+Mambo?%2C+I'm+Shadrack+;Timothy+John+Mwalyanga;ML+Developer;Fullstack+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="oops, that sounds like an error to me." />
 </div>
@@ -15,8 +14,14 @@
 </div>
 
 <br>
-<a href="https://github.com/zuck30"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/zuck30" style="flex: 1; text-align: left;">
+    <img src="https://media.giphy.com/media/coxQHKASZ60Dq/giphy.gif" width="85%" style="border-radius:10px;" alt="Coding GIF">
   </a>
+  <a href="https://github.com/zuck30" style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="85%" style="border-radius:10px;" alt="Coding GIF">
+  </a>
+</div>
 
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
@@ -49,9 +54,25 @@
 **Cloud**
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
- 
-</div>
 
+<h2 align="center">🌟 My Favorites</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
+
+  <div style="text-align: center;">
+    <img src="https://i.pinimg.com/736x/63/f7/8d/63f78d44d2180dcd7dbc01bb4dd60970.jpg" width="110" height="110" style="border-radius: 50%; object-fit: cover; border: 3px solid #43cea2; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p style="margin-top: 12px; font-weight: bold; color: #f7f5f5;">Young Africans</p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="https://i.pinimg.com/1200x/72/9b/2d/729b2dd90fc6483c832a1ba12023ed74.jpg" width="110" height="110" style="border-radius: 50%; object-fit: cover; border: 3px solid #43cea2; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p style="margin-top: 12px; font-weight: bold; color: #f7f5f5;">Billie Eilish</p>
+  </div>
+  
+  <!-- Add more favorites here following the same structure -->
+
+</div>
+ 
 <h2>☕️ Ninunulie Kahawa.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
