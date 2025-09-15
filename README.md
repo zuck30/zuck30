@@ -16,9 +16,6 @@
 <a href="https://github.com/zuck30"> 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFvb2tyMWlhcTB2YWY0NHdmb2wyZHVoMmljbzd4NzRkczd1dmFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
 </a>
-<a href="https://github.com/zuck30"> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wyMjJqOXNranllenptOW9pamlkbnJ1N2QzOXF1Y3B5enVqb3MwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite; margin-top: 20px;" alt="Tech GIF">
-</a>
 
 <ul>
     <li>🔭 I'm currently mastering <a href="https://www.python.org/events/python-user-group/1310/">ML</a>
