@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello+Mambo?%2C+I'm+Shadrack+;Timothy+John;ML+Developer;Fullstack+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="oops, that sounds like an error to me." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=&3cec5center=true&vCenter=true&width=500&height=70&lines=Hello+Mambo?%2C+I'm+Shadrack+;Timothy+John;ML+Developer;Fullstack+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="oops, that sounds like an error to me." />
 </div>
 
 
@@ -15,7 +15,7 @@
 </div>
 
 <br>
-<a href="https://github.com/zuck30"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wyMjJqOXNranllenptOW9pamlkbnJ1N2QzOXF1Y3B5enVqb3MwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+<a href="https://github.com/zuck30"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
   </a>
 
 <ul>
