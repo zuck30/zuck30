@@ -52,21 +52,15 @@
 
 
 
-<h2 align="center">🌟 My Favorites</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
-
+<h2 align="center">My Favorites</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <div style="text-align: center;">
-    <img src="https://i.pinimg.com/736x/63/f7/8d/63f78d44d2180dcd7dbc01bb4dd60970.jpg" width="110" height="110" style="border-radius: 50%; object-fit: cover; border: 3px solid #43cea2; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <p style="margin-top: 12px; font-weight: bold; color: #f7f5f5;">Young Africans</p>
+    <a href="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg">
+      <img src="https://i.pinimg.com/736x/f3/de/94/f3de94db1ac9a3f34a65403fa2bde53f.jpg" alt="Team 1 Logo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(67, 206, 162, 0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
+    </a>
+    <p style="margin-top: 10px; font-size: 14px; color: #f7f5f5;">Team 1</p>
   </div>
-  
-  <div style="text-align: center;">
-    <img src="https://i.pinimg.com/1200x/72/9b/2d/729b2dd90fc6483c832a1ba12023ed74.jpg" width="110" height="110" style="border-radius: 50%; object-fit: cover; border: 3px solid #43cea2; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <p style="margin-top: 12px; font-weight: bold; color: #f7f5f5;">Billie Eilish</p>
-  </div>
-  
-  <!-- Add more favorites here following the same structure -->
+ 
 
 </div>
 
