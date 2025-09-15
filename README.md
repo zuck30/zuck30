@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
 </a>
 <a href="https://github.com/zuck30"> 
-  <img src="https://media.giphy.com/media/kH1DBkPN1cFKEjT1a5/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite; margin-top: 20px;" alt="Tech GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wyMjJqOXNranllenptOW9pamlkbnJ1N2QzOXF1Y3B5enVqb3MwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite; margin-top: 20px;" alt="Tech GIF">
 </a>
 
 <ul>
