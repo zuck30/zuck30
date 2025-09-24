@@ -11,7 +11,7 @@
 
  <div align="center">
 
-<a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+<a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7"><img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width={width})" alt="Now playing on Spotify" ></a>
 
 <details>
     <summary>Recently played</summary>
