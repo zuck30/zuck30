@@ -9,14 +9,17 @@
 
 
 
-
 <div align="center">
 
-[![Spotify](your-vercel-url/spotify-playing)](https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy)
+<a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10&width=400)
+</a>
 
 <details>
   <summary>Recently played</summary>
-  [![Spotify](your-vercel-url/spotify-recent)](https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy)
+  <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10&width=400&unique=true)
+  </a>
 </details>
 
 </div>
