@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
-  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify?user=31mpawo7brnhlosrwln3rrpaocqy" alt="Now Playing on Spotify">
+  <img src="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy" alt="Now Playing on Spotify">
 </a>
 
 <details>
