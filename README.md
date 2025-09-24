@@ -9,18 +9,20 @@
 
 
 
- <div align="center">
+<div align="center">
 
-<a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7"><img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width={width})" alt="Now playing on Spotify" ></a>
+<a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10&width=400)
+</a>
 
 <details>
-    <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count={count})" alt="Spotify recently played"></a>
+  <summary>Recently played</summary>
+  <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10&width=400&unique=true)
+  </a>
 </details>
 
-
-
- </div>
+</div>
 
 
 
