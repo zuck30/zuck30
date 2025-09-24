@@ -7,6 +7,26 @@
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume/mume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 <p align="center">I'm a developer from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. I'm working on ML projects and trying to learn new stuffs!</p>
 
+
+
+ <div align="center">
+
+<a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width={width})" alt="Spotify recently played"></a>
+</details>
+
+
+
+ </div>
+
+
+
+
+
+
 <h3>Quick Links</h3>
 
 <div align="left">
