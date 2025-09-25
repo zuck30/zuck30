@@ -83,6 +83,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
 <h2>☕️ Ninunulie Kahawa.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
