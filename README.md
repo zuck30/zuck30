@@ -22,12 +22,12 @@
 
 <div align="center">
 
-<a href="https://zuck30.pythonanywhere.com/link">
+<!-- <a href="https://zuck30.pythonanywhere.com/link">
   <img
     src="https://zuck30.pythonanywhere.com"
     alt="Current Spotify Song"
   />
-</a>
+</a> -->
 
 <details>
   <summary>Recently played</summary>
