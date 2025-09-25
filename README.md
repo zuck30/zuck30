@@ -1,7 +1,28 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=&3cec5center=true&vCenter=true&width=500&height=70&lines=Hello+Mambo?%2C+I'm+Shadrack+;Timothy+John;ML+Developer;Fullstack+Developer;From+Tanzania;Data+Analyst;Programmer;Coder" alt="oops, that sounds like an error to me." />
-</div>
+![](assets/Bottom_up.svg)
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/zuck30/zuck30"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/zuck30/zuck30/graphs/contributors"><img src="https://img.shields.io/github/contributors/zuck30/zuck30?color=blue"></a>
+    <a href="https://github.com/zuck30/zuck30/stargazers"><img src="https://img.shields.io/github/stars/zuck30/zuck30.svg?logo=github"></a>
+    <a href="https://github.com/zuck30/zuck30/network/members"><img src="https://img.shields.io/github/forks/zuck30/zuck30.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="visitors"/>   
+</p>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Mambo+I+am+Zuck30;+Welcome+to+My+Profile!;Always+learning+new+things;)](https://git.io/typing-svg)
+
+
+<a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+
 
 
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume/mume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
@@ -82,9 +103,6 @@
 **Cloud**
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 
 <h2>☕️ Ninunulie Kahawa.</h2>
 <p>
