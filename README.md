@@ -113,9 +113,10 @@
 </p>
 
 
+<!-- 
 <div align="center">
 <blockquote>
 <p><em>"Regret was the wake-up call. Action is the answer."</em></p>
 <p><strong> S.T John</strong></p>
 </blockquote>
-</div>
+</div> -->
