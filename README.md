@@ -1,4 +1,3 @@
-![](./assets/Bottom_up.png)
 
 <!--   my-icons -->
 <p align="center">
@@ -95,6 +94,18 @@
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
 
+<div align="center">
+<h2>Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+
+
+</div>
+
 <h2>☕️ Ninunulie Kahawa.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
@@ -105,6 +116,6 @@
 <div align="center">
 <blockquote>
 <p><em>"Regret was the wake-up call. Action is the answer."</em></p>
-<p><strong>— Zuck30</strong></p>
+<p><strong> S.T John</strong></p>
 </blockquote>
 </div>
