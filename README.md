@@ -11,8 +11,11 @@
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
-  <img src="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy" alt="Now Playing on Spotify">
+<a href="https://zuck30.pythonanywhere.com/link">
+  <img
+    src="https://zuck30.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
 </a>
 
 <details>
