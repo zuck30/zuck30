@@ -1,0 +1,25 @@
+.DS_Store
+# macOS system files
+*.swp
+# Vim swap files
+*.swo
+# Vim swap files
+*.bak
+# Backup files
+*.tmp
+# Temporary files
+*.log
+# Log files
+*.pid
+# Process ID files
+*.pyc
+# Python bytecode files
+__pycache__/
+# Python cache directories
+*.pyo
+# Optimized Python bytecode files
+*.pyd
+# Python dynamic modules
+*.db
+# Database files
+*.sqlite3
