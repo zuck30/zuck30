@@ -22,13 +22,6 @@
 
 <div align="center">
 
-<!-- <a href="https://zuck30.pythonanywhere.com/link">
-  <img
-    src="https://zuck30.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a> -->
-
 <details>
   <summary>Recently played</summary>
   <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
@@ -50,7 +43,7 @@
 </div>
 
 <br>
-<a href="https://github.com/zuck30"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRkN2V0amFnMW55c2kzeW1jMW9xd3lyeDVhdDRwNHc2b3ZxbGNheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+<a href="https://github.com/zuck30"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno4MTZpZDlwYWZ1ZTVwNmVkN2wwNDVzMHk3NHNhMnlsdTN4dWxneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
   </a>
 
 <ul>
