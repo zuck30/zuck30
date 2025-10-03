@@ -87,6 +87,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=10)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuck30&theme=dracula&column=-1&,PullRequest,Repositories,Commits,Issues" alt="zuck30" /></a> </p>
+
 <div align="center">
 <h2>Quote of the day</h2>
 <details open>
@@ -105,7 +107,7 @@
 
 </p>
     
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuck30&theme=dracula&column=-1&,PullRequest,Repositories,Commits,Issues" alt="zuck30" /></a> </p>
+
 
 
 
