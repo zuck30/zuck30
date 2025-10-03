@@ -104,6 +104,9 @@
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
 
 </p>
+    
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuck30&theme=onedark&column=-1&,PullRequest,Repositories,Commits,Issues" alt="zuck30" /></a> </p>
+
 
 
 <!-- 
