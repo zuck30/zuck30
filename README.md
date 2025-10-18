@@ -92,7 +92,7 @@
 <div align="center">
 <h2>Quote of the day</h2>
 <details open>
-    <summary>See quote</summary>
+    <summary>See the quote of today</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
@@ -101,7 +101,7 @@
 
 </div>
 
-<h2>☕️ Ninunulie Kahawa.</h2>
+<h2>☕️ I Need Coffee To Stay Alive. Yes I know, I'm That Dumb.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
 
