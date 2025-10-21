@@ -23,7 +23,7 @@
 <div align="center">
 
 <details>
-  <summary>Recently played</summary>
+  <summary>My Spotify Recently played</summary>
   <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10" alt="Recently played">
   </a>
