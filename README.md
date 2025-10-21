@@ -43,7 +43,7 @@
 </div>
 
 <br>
-<a href="https://github.com/zuck30"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZhOWMybm8wcDk5cGIzMXgzeWI2ZXN2eDZ6NDN2dHJwN2hsZWJiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+<a href="https://github.com/zuck30"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB3MmV3eTk3anV5MWs3cmRia21qNTV6Y3U5YW9zanp6dTBnYWl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
   </a>
 
 <ul>
