@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="mailto:mwalyangashadrack@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-30302f?style=flat-square&logo=firefox" alt="Portfolio"></a>
+  <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Timothy-30302f?style=flat-square&logo=firefox" alt="zuck"></a>
 </p>
 
 ## 🛠️ Skills
