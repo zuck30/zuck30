@@ -63,8 +63,8 @@
   </p>
 </details>
 
-## 🤓 Favorite Anime
-<p align="center">
+## 🤓 Favorite Animes, Tv Series and Movies
+<p align="left">
   <a href="https://github.com/zuck30"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2and3eXdtNTVxZ3d4OGlnOTAzbWNhdnR5b3FlZTBrZm1tc2VqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a>
   <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF5a3F0ZDQzYThmNzRyNjR0NHZkdDlzb2hrNWU1ejFmMXVydDF5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4AbLOQflXqDB81AyyE/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a>
   <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlnZ2R2dWN2MmU4azU3cmJkdG81dXc2Njl4ZjR0dDlpa256ZTNvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11z068pqgqbhHa/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Breaking Bad GIF"></a>
@@ -82,15 +82,13 @@
 </details>
 
 ## ☕ Support My Work
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/zuck30" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40px">
   </a>
 </p>
-<p align="center">I need coffee to stay alive. Yes, I'm that dumb. 😅</p>
+<p align="left">I need coffee to stay alive. Yes, I'm that dumb. 😅</p>
 
----
-
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" alt="Python Logo"></a>
 </p>
