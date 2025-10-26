@@ -56,7 +56,7 @@
 ## 🎧 Recently Played on Spotify
 <details>
   <summary>Check out my recent tracks</summary>
-  <p align="center">
+  <p align="left">
     <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10" alt="Recently Played">
     </a>
