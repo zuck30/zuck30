@@ -18,7 +18,6 @@
   <img src="./src/header.png" alt="Header Image" width="100%">
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -29,7 +28,7 @@
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:mwalyangashadrack@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-30302f?style=flat-square&logo=firefox" alt="Portfolio"></a>
 </p>
