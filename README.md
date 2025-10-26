@@ -87,6 +87,8 @@
 
   <a href="https://github.com/zuck30"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlnZ2R2dWN2MmU4azU3cmJkdG81dXc2Njl4ZjR0dDlpa256ZTNvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11z068pqgqbhHa/giphy.gif" align="left" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="breaking bad gif">
   </a>
+    <a href="https://github.com/zuck30"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdzZDdwNG9kNHNnOXExbmdrZHBkc3JncG5oYWRrcHBnbnp0N3I2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4w70V3qqkZn8A0OwX/giphy.gif" align="left" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="the social network gif">
+  </a>
 
 </div>
 
