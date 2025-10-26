@@ -84,6 +84,10 @@
   </a>
 </div>
 
+<div align="left">
+<a href="https://github.com/zuck30"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF5a3F0ZDQzYThmNzRyNjR0NHZkdDlzb2hrNWU1ejFmMXVydDF5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4AbLOQflXqDB81AyyE/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+  </a>
+</div>
 
 
 <br>
