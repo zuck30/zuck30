@@ -36,7 +36,7 @@
 ## 🛠️ Skills
 
 ### Languages
-![Python, JavaScript, HTML, CSS, C++, Bash, Markdown, Lua](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md,lua&perline=8)
+![Python, JavaScript, HTML, CSS, C++, Bash, Markdown](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md&perline=8)
 
 ### Frameworks & Libraries
 ![Vue, Nuxt, React, FastAPI, Tailwind](https://skillicons.dev/icons?i=vue,nuxt,react,fastapi,tailwind&perline=5)
