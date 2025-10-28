@@ -80,7 +80,7 @@
   </p>
 </details>
 
-## ☕ Support My Work
+## ☕ Ninunulie Kahawa.
 <p align="left">
   <a href="https://www.buymeacoffee.com/zuck30" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40px">
