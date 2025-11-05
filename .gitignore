@@ -7,19 +7,3 @@
 *.bak
 # Backup files
 *.tmp
-# Temporary files
-*.log
-# Log files
-*.pid
-# Process ID files
-*.pyc
-# Python bytecode files
-__pycache__/
-# Python cache directories
-*.pyo
-# Optimized Python bytecode files
-*.pyd
-# Python dynamic modules
-*.db
-# Database files
-*.sqlite3
