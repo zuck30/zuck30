@@ -89,6 +89,6 @@
 <p align="left">I need coffee to stay alive. Yes, I'm that dumb. 😅</p>
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" alt="Python Logo"></a>
-</p>
+</p> -->
