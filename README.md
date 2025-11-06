@@ -10,9 +10,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="Visitors">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./src/header.png" alt="Header Image" width="100%">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5" alt="Banner">
