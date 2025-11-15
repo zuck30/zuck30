@@ -18,7 +18,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5" alt="Banner">
 </p>
 
-## 🚀 About Me
+## 🚀 About Timothy
 
 - 💻 Freelance **Fullstack Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development</a>
 - 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
