@@ -70,6 +70,7 @@
   <a href="https://github.com/zuck30"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmODFzN21oZDR6NXljc2xhZTdxaDFjY3Frd3A4ZHd6NzZiYzFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKWA5fzIsOjv8pndbP/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="The Social Network GIF"></a>
  <a href="https://github.com/zuck30"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg4dDZ4N3A3Ym15Nm4xaWFkMzQyNmhkdm9lYTk4YTI1anYzamgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uol52utDcHQGzM1zJ2/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Mushle: Magic and Muscles"></a>
  <a href="https://github.com/zuck30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0M2RreTZxcndqemJxZWFxenRjeGc4bG0xN29jZjlic3R3MTRrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhuJ9DrP2kXd3cig3i/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Solo levelling"></a>
+ <a href="https://github.com/zuck30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29hbTZ3ZHNseXp4aTJhdmQyd2dwYWR6dWgxeHA3eG1la2VuNGk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Dy1Btpt0qUZa/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="true detective"></a>
 
 </p>
 
