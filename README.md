@@ -91,7 +91,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40px">
   </a>
 </p>
-<p align="left">I need tea to stay alive. Yes, I'm that dumb. 😅</p>
+<p align="left">I need tea to stay alive. Yes, I'm that dumb.</p>
 
 
 <!-- <p align="left">
