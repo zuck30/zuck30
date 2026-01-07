@@ -1,4 +1,4 @@
-<h1 align="left">I'm Timothy Zucker 👋</h1>
+<h1 align="left">My name is Timothy Zucker 👋</h1>
 <p align="left">A passionate <strong>Fullstack Developer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, working on Machine Learning projects and always exploring new technologies!</p>
 
 <p align="center">
@@ -92,7 +92,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40px">
   </a>
 </p>
-<p align="left">I need tea to stay alive. Yes, I'm that dumb. 😅</p>
+<p align="left">I need tea to stay alive. Yes, I'm that dumb.</p>
 
 
 <!-- <p align="left">
