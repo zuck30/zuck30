@@ -61,11 +61,11 @@
     </a>
   </p>
 </details>
-
+<!-- 
 ## 🤓 My Favorite Animes, Tv Series and Movies
 <p align="center">
   <a href="https://github.com/zuck30"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2and3eXdtNTVxZ3d4OGlnOTAzbWNhdnR5b3FlZTBrZm1tc2VqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a>
-  <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF5a3F0ZDQzYThmNzRyNjR0NHZkdDlzb2hrNWU1ejFmMXVydDF5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4AbLOQflXqDB81AyyE/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a>
+  <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF5a3F0ZDQzYThmNzRyNjR0NHZkdDlzb2hrNWU1ejFmMXVydDF5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4AbLOQflXqDB81AyyE/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a> -->
 <!--   
   <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlnZ2R2dWN2MmU4azU3cmJkdG81dXc2Njl4ZjR0dDlpa256ZTNvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11z068pqgqbhHa/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Breaking Bad GIF"></a>
   <a href="https://github.com/zuck30"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmODFzN21oZDR6NXljc2xhZTdxaDFjY3Frd3A4ZHd6NzZiYzFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKWA5fzIsOjv8pndbP/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="The Social Network GIF"></a>
