@@ -86,8 +86,6 @@
   </p>
 </details>
 
-## Profile Summary & Productive Time
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuck30&theme=tokyonight&utcOffset=8" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077" />
