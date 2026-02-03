@@ -86,6 +86,22 @@
   </p>
 </details>
 
+## Profile Summary & Productive Time
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuck30&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077" />
+</p>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=zuck30&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 ## ☕ Buy Me a Coffee.
 <p align="left">
   <a href="https://www.buymeacoffee.com/zuck30" target="_blank">
