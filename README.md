@@ -1,159 +1,116 @@
-# Welcome to My GitHub Universe ✨
+make this more way beautiful than it is now 
 
-<div align="center">
+<h1 align="left">Welcome. My name is Timothy Zucker 👋</h1>
+<p align="left">A passionate <strong>Fullstack Developer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, working on Machine Learning projects and always exploring new technologies!</p>
 
-# <span style="color: #FF6B8B;">Timothy Zucker</span> 👨‍💻
+<p align="center">
+  <a href="https://github.com/zuck30/zuck30"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status"></a>
+  <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python"></a>
+  <a href="https://github.com/zuck30/zuck30/graphs/contributors"><img src="https://img.shields.io/github/contributors/zuck30/zuck30?color=blue" alt="Contributors"></a>
+  <a href="https://github.com/zuck30/zuck30/stargazers"><img src="https://img.shields.io/github/stars/zuck30/zuck30.svg?logo=github" alt="Stars"></a>
+  <a href="https://github.com/zuck30/zuck30/network/members"><img src="https://img.shields.io/github/forks/zuck30/zuck30.svg?color=blue&logo=github" alt="Forks"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="Visitors">
+</p>
 
-### **Fullstack Developer & Machine Learning Enthusiast**  
-### 🌍 From the Heart of **Tanzania** 🇹🇿
+<p align="center">
+  <img src="./src/header.png" alt="Header Image" width="100%">
+</p>
 
-[![Status](https://img.shields.io/badge/status-✨_Coding_%26_Creating-brightgreen?style=for-the-badge)](https://github.com/zuck30/zuck30)
-[![Python](https://img.shields.io/badge/Python-3.12-FF1493?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)
-[![Visitors](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=Visitors&query=count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzuck30.zuck30%2Fvisitors)](https://github.com/zuck30)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5" alt="Banner">
+</p>
 
-</div>
+## 🚀 About Timothy
 
----
+- 💻 Freelance **Fullstack Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development</a>
+- 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
+- 👨‍💻 Most of my projects are built with **Python**
+- 🌍 Based in **Tanzania**
 
-## 🎨 **Featured Banner**
+## 📫 Connect with Me
 
-<div align="center">
-  
-![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=Zuck30&animation=twinkling&fontSize=60&fontAlignY=40&desc=%20(he/him/mwanamume)&descAlignY=70&fontColor=fff&stroke=000&strokeWidth=2)
+<p align="left">
+  <a href="mailto:mwalyangashadrack@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Timothy-30302f?style=flat-square&logo=firefox" alt="zuck"></a>
+</p>
 
-</div>
+## 🛠️ Skills
 
----
+### Languages
+![Python, JavaScript, HTML, CSS, C++, Bash, Markdown](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md&perline=8)
 
-## 🚀 **About Me**
+### Frameworks & Libraries
+![Vue, Nuxt, React, FastAPI, Tailwind](https://skillicons.dev/icons?i=vue,nuxt,react,fastapi,tailwind&perline=5)
 
-> *"Turning coffee into code and ideas into reality"*
+### Data Science & ML
+![TensorFlow, PyTorch](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2)
 
-- 💻 **Freelance Fullstack Developer** specializing in modern web solutions
-- 🧠 **Machine Learning Obsessed** – currently exploring deep learning architectures
-- 🐍 **Python Advocate** – 90% of my projects are Python-powered
-- 🌱 **Continuous Learner** – always exploring new frameworks and technologies
-- 🎯 **Based in Tanzania** – bringing African tech talent to the global stage
+### Databases
+![SQLite, MySQL](https://skillicons.dev/icons?i=sqlite,mysql&perline=2)
 
----
+### Tools
+![Apple, Gmail, npm, Docker, Notion, VSCode, Git, GitHub, Arduino, CoffeeScript, Linux, Postman, LaTeX, Vim](https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim&perline=7)
 
-## 📊 **GitHub Stats**
+### Cloud
+![Netlify, Vercel](https://skillicons.dev/icons?i=netlify,vercel&perline=2)
 
-<div align="center">
-
-![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuck30&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zuck30&layout=compact&theme=tokyonight&border_radius=20&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuck30&theme=tokyonight&utcOffset=3)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077)
-
-</div>
-
----
-
-## 🛠️ **Tech Stack**
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### **Frontend Frameworks**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & Data Science**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **Tools & Platforms**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📫 **Connect With Me**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-mwalyangashadrack@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwalyangashadrack@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sheddysilicon.netlify.app-4285F4?style=for-the-badge&logo=firefox&logoColor=white)](https://sheddysilicon.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-zuck30-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zuck30)
-
-</div>
-
----
-
-## 🎵 **Currently Listening**
-
+## 🎧 Recently Played on Spotify
 <details>
-<summary><b>🎧 My Spotify Vibes</b></summary>
-
-<div align="center">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=5&width=800)](https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy)
-
-</div>
+  <summary>Check out my recent tracks</summary>
+  <p align="left">
+    <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10" alt="Recently Played">
+    </a>
+  </p>
 </details>
+<!-- 
+## 🤓 My Favorite Animes, Tv Series and Movies
+<p align="center">
+  <a href="https://github.com/zuck30"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2and3eXdtNTVxZ3d4OGlnOTAzbWNhdnR5b3FlZTBrZm1tc2VqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a>
+  <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF5a3F0ZDQzYThmNzRyNjR0NHZkdDlzb2hrNWU1ejFmMXVydDF5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4AbLOQflXqDB81AyyE/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a> -->
 
----
+  <!-- <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlnZ2R2dWN2MmU4azU3cmJkdG81dXc2Njl4ZjR0dDlpa256ZTNvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11z068pqgqbhHa/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Breaking Bad GIF"></a>
+  <a href="https://github.com/zuck30"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmODFzN21oZDR6NXljc2xhZTdxaDFjY3Frd3A4ZHd6NzZiYzFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKWA5fzIsOjv8pndbP/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="The Social Network GIF"></a>
+ <a href="https://github.com/zuck30"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg4dDZ4N3A3Ym15Nm4xaWFkMzQyNmhkdm9lYTk4YTI1anYzamgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uol52utDcHQGzM1zJ2/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Mushle: Magic and Muscles"></a>
+ <a href="https://github.com/zuck30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0M2RreTZxcndqemJxZWFxenRjeGc4bG0xN29jZjlic3R3MTRrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhuJ9DrP2kXd3cig3i/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Solo levelling"></a>
+ <a href="https://github.com/zuck30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29hbTZ3ZHNseXp4aTJhdmQyd2dwYWR6dWgxeHA3eG1la2VuNGk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Dy1Btpt0qUZa/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="true detective"></a>
+ <a href="https://github.com/zuck30"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hzbGJ6aDl5emNoeW1hNndhaXJxaHFucnVwNGFoM3p6NXlxNTZxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Jujutsu kaisen"></a>
 
-## 💭 **Daily Inspiration**
+</p> -->
 
+## 💭 Quote of the Day
 <details open>
-<summary><b>✨ Quote of the Day</b></summary>
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+  <summary>Today's inspiration</summary>
+  <p align="left">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
+    </a>
+  </p>
 </details>
 
----
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuck30&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077" />
+</p>
 
-## ☕ **Support My Journey**
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=zuck30&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
 
-<div align="center">
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-### *"I need tea to stay awake and code. Yes, I'm that kind of developer."* ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zuck30)
-
-</div>
-
----
-
-<div align="center">
-
-### **Thanks for visiting!** 🚀  
-### *Let's build something amazing together.*
+## ☕ Buy Me a Coffee.
+<p align="left">
+  <a href="https://www.buymeacoffee.com/zuck30" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40px">
+  </a>
+</p>
+<p align="left">I need tea to stay alive. Yes, I'm that dumb.</p>
 
 
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-⭐ **From Tanzania with love** 🇹🇿
-
-</div>
-
----
-
-*Last updated: $(date)*
+<!-- <p align="left">
+  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" alt="Python Logo"></a>
+</p> -->
