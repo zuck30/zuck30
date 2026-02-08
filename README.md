@@ -33,22 +33,22 @@
 
 ## 🛠️ Skills
 
-### Languages
+<!-- ### Languages -->
 ![Php, Python, JavaScript, HTML, CSS, C++, Bash, Markdown](https://skillicons.dev/icons?i=python,php,js,html,css,cpp,c,bash,md&perline=8)
 
-### Frameworks & Libraries
+<!-- ### Frameworks & Libraries -->
 ![Vue, Nuxt, Laravel, React, FastAPI, Tailwind](https://skillicons.dev/icons?i=vue,nuxt,laravel,react,fastapi,tailwind&perline=5)
 
-### Data Science & ML
+<!-- ### Data Science & ML -->
 ![TensorFlow, PyTorch](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2)
 
-### Databases
+<!-- ### Databases -->
 ![SQLite, MySQL](https://skillicons.dev/icons?i=sqlite,mysql&perline=2)
 
-### Tools
+<!-- ### Tools -->
 ![Apple, Gmail, npm, Docker, Notion, VSCode, Git, GitHub, Arduino, CoffeeScript, Linux, Postman, LaTeX, Vim, windows, styledcomponents](https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim,windows,styledcomponents&perline=7)
 
-### Cloud
+<!-- ### Cloud -->
 ![Netlify, Vercel](https://skillicons.dev/icons?i=netlify,vercel&perline=2)
 ## 🎧 Recently Played on Spotify
 <details>
