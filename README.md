@@ -100,38 +100,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
-
-## 🔧 Technologies & Tools
-
-<p><img align="left" src="https://zuck30-readme-stats-two-kappa-mamaliama.vercel.app/api?username=zuck30&show_icons=true&locale=en&theme=tokyonight" width="260" alt="zuck30" /></p>
-<p><img align="right" src="https://zuck30-readme-streak-stats.vercel.app/?user=zuck30&theme=tokyonight&hide_border=true" width="260" alt="zuck30" /></p>
-<p><img align="center" src="https://github-readme-quotes-rouge.vercel.app/api?type=horizontal&theme=tokyonight" width="260" alt="zuck30" /></p>
-
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/zuck30/zuck30/master/general.svg">](#)
-
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/zuck30/zuck30/master/achievements.svg">](#)
-
-[<img align="right" width="390" src="https://raw.githubusercontent.com/zuck30/-temp-/e27a7e5a30ab660dcec199e210aa8fa6d52564b4/2024-02-14_175910.png">](https://tryhackme.com/r/p/zuck30)
-
-<img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
-
-<!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
-<!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
-<!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
-<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
-<!-- First steps with JavaScript: https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png -->
-
-
-
-
-
-
-
-
-
-
-
 ## ☕ Buy Me a Coffee.
 <p align="left">
   <a href="https://www.buymeacoffee.com/zuck30" target="_blank">
