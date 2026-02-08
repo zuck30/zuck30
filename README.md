@@ -46,7 +46,7 @@
 ![SQLite, MySQL](https://skillicons.dev/icons?i=sqlite,mysql&perline=2)
 
 ### Tools
-![Apple, Gmail, npm, Docker, Notion, VSCode, Git, GitHub, Arduino, CoffeeScript, Linux, Postman, LaTeX, Vim](https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim&perline=7)
+![Apple, Gmail, npm, Docker, Notion, VSCode, Git, GitHub, Arduino, CoffeeScript, Linux, Postman, LaTeX, Vim, windows, styledcomponents](https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim,windows,styledcomponents&perline=7)
 
 ### Cloud
 ![Netlify, Vercel](https://skillicons.dev/icons?i=netlify,vercel&perline=2)
