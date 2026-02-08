@@ -34,10 +34,10 @@
 ## 🛠️ Skills
 
 ### Languages
-![Python, JavaScript, HTML, CSS, C++, Bash, Markdown](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md&perline=8)
+![Php, Python, JavaScript, HTML, CSS, C++, Bash, Markdown](https://skillicons.dev/icons?i=python,js,html,css,cpp,bash,md&perline=8)
 
 ### Frameworks & Libraries
-![Vue, Nuxt, React, FastAPI, Tailwind](https://skillicons.dev/icons?i=vue,nuxt,react,fastapi,tailwind&perline=5)
+![Vue, Nuxt, Laravel, React, FastAPI, Tailwind](https://skillicons.dev/icons?i=vue,nuxt,react,fastapi,tailwind&perline=5)
 
 ### Data Science & ML
 ![TensorFlow, PyTorch](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2)
