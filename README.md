@@ -9,9 +9,21 @@
   <a href="https://github.com/zuck30/zuck30/network/members"><img src="https://img.shields.io/github/forks/zuck30/zuck30.svg?color=blue&logo=github" alt="Forks"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="Visitors">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="./src/header.png" alt="Header Image" width="100%">
-</p>
+</p> -->
+
+
+<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.zohan.tech/api?username=zuck30&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
+<br><br><br>
+<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=github-dark&hide_border=true" />
+<br><br><br>
+  <img  src="https://github-readme-stats.zohan.tech/api/top-langs/?username=zuck30&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
+<br><br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zuck30&theme=github-dark&color=fff&line=39D353&point=fff&hide_border=true" />
+</div>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5" alt="Banner">
