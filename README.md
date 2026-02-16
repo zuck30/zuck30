@@ -141,8 +141,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<br>
-
 ## ☕ Buy Me a Coffee
 
 <p align="center">
