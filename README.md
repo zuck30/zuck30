@@ -143,15 +143,6 @@
 
 <br>
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:mwalyangashadrack@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Timothy-30302f?style=flat-square&logo=firefox" alt="zuck"></a>
-</p>
-
-<br>
-
 ## ☕ Buy Me a Coffee
 
 <p align="center">
