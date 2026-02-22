@@ -22,6 +22,18 @@
   <img src="./src/header.png" alt="Header Image" width="100%">
 </p> -->
 
+## 🚀 About Timothy
+
+- 💻 Freelance **Fullstack Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development</a>
+- 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
+- 👨‍💻 Most of my projects are built with **Python**
+- 🇹🇿🇺🇸 Based in **Tanzania** / **Louisiana**
+
+<br>
+
+
+
+
 <br>
 
 <div align="center">
@@ -32,16 +44,7 @@
 
 <br>
 
-## 🚀 About Timothy
-
-- 💻 Freelance **Fullstack Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development</a>
-- 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
-- 👨‍💻 Most of my projects are built with **Python**
-- 🇹🇿🇺🇸 Based in **Tanzania** / **Louisiana**
-
-<br>
-
-## 🛠️ Skills
+## 🛠️ Tech Stack 
 
 <!-- ### Languages -->
 <p align="center">
