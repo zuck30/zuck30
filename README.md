@@ -75,7 +75,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <p align="center">
 
@@ -89,10 +89,10 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=zuck30&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
-<br>
-
-## 🎧 Recently Played on Spotify
-
+<!-- <br> -->
+<!-- 
+## 🎧 Recently Played on Spotify -->
+<!-- 
 <details align="center">
   <summary>Check out my recent tracks</summary>
   <br>
@@ -101,9 +101,9 @@
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10" alt="Recently Played">
     </a>
   </p>
-</details>
+</details> -->
 
-<br>
+<!-- <br> -->
 
 <!-- 
 ## 🤓 My Favorite Animes, Tv Series and Movies
@@ -125,9 +125,9 @@
 
 <br>
 
-## 💭 Quote of the Day
+<!-- ## 💭 Quote of the Day -->
 
-<details open align="center">
+<!-- <details open align="center">
   <summary>Today's inspiration</summary>
   <br>
   <p align="center">
@@ -135,28 +135,28 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
     </a>
   </p>
-</details>
+</details> -->
 
-<br>
+<!-- <br> -->
 
 <!-- ✨ Divider -->
-<h3 align="center">
+<!-- <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+</h3> -->
 
-## ☕ Buy Me a Coffee
+<!-- ## ☕ Buy Me a Coffee -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/zuck30" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40px">
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <i>I need tea to stay alive. Yes, I'm that dumb.</i>
-</p>
+</p> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <p align="left">
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" alt="Python Logo"></a>
