@@ -79,6 +79,9 @@
 
 <p align="center">
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuck30&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=radical) |
+| :-: | :-: | :-: |
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077" />
 </p>
 
