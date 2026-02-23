@@ -22,9 +22,11 @@
   <img src="./src/header.png" alt="Header Image" width="100%">
 </p> -->
 
-<center>
+
+<p align="center">
 <a href="https://app.daily.dev/timothyzucker"><img src="https://api.daily.dev/devcards/v2/DUDK2FWcCwWKuKQdoUxdU.png?type=wide&r=uua" width="652" alt="Timothy Zucker's Dev Card"/></a>
-</center>
+</p>
+
 
 
 ## About Timothy
