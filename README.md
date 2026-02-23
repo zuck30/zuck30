@@ -22,7 +22,7 @@
   <img src="./src/header.png" alt="Header Image" width="100%">
 </p> -->
 
-## 🚀 About Timothy
+## About Timothy
 
 - 💻 Freelance **Fullstack Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development</a>
 - 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
@@ -44,7 +44,7 @@
 
 <br>
 
-## 🛠️ Tech Stack 
+## My Tech Stack 
 
 <!-- ### Languages -->
 <p align="center">
