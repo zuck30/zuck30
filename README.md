@@ -22,6 +22,9 @@
   <img src="./src/header.png" alt="Header Image" width="100%">
 </p> -->
 
+<a href="https://app.daily.dev/timothyzucker"><img src="https://api.daily.dev/devcards/v2/DUDK2FWcCwWKuKQdoUxdU.png?type=wide&r=uua" width="652" alt="Timothy Zucker's Dev Card"/></a>
+
+
 ## About Timothy
 
 - 💻 Freelance **Fullstack Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development</a>
