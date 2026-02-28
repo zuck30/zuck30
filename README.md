@@ -34,7 +34,7 @@
 - 💻 Freelance **Fullstack Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development</a>
 - 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
 - 👨‍💻 Most of my projects are built with **Python**
-- 🇹🇿🇺🇸 Based in **Tanzania** / **Louisiana**
+- 🇹🇿🇺🇸 Based in **Tanzania** / remote **Louisiana**
 
 <br>
 
