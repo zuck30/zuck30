@@ -1,6 +1,11 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5" alt="Banner">
+</p>
+
+<p align="center">
+  <a href="https://committers.top/tanzania_private/zuck30">
+    <img src="https://committers.top/tanzania_private/zuck30.svg" alt="committers.top badge">
+  </a>
 </p>
 
 <h1 align="center">Welcome. My name is Timothy Zucker 👋</h1>
@@ -18,16 +23,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="Visitors">
 </p>
 
-<!-- <p align="center">
-  <img src="./src/header.png" alt="Header Image" width="100%">
-</p> -->
-
-
 <p align="center">
-<a href="https://app.daily.dev/timothyzucker"><img src="https://api.daily.dev/devcards/v2/DUDK2FWcCwWKuKQdoUxdU.png?type=wide&r=uua" width="652" alt="Timothy Zucker's Dev Card"/></a>
+  <a href="https://app.daily.dev/timothyzucker">
+    <img src="https://api.daily.dev/devcards/v2/DUDK2FWcCwWKuKQdoUxdU.png?type=wide&r=uua" width="652" alt="Timothy Zucker's Dev Card"/>
+  </a>
 </p>
-
-
 
 ## About Timothy
 
@@ -35,11 +35,6 @@
 - 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
 - 👨‍💻 Most of my projects are built with **Python**
 - 🇹🇿🇺🇸
-
-<br>
-
-
-
 
 <br>
 
@@ -53,121 +48,46 @@
 
 ## My Tech Stack 
 
-<!-- ### Languages -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,cpp,c,bash,md&perline=9" />
 </p>
 
-<!-- ### Frameworks & Libraries -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,react,fastapi,tailwind&perline=6" />
 </p>
 
-<!-- ### Data Science & ML -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
 </p>
 
-<!-- ### Databases -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=2" />
 </p>
 
-<!-- ### Tools -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim,windows,styledcomponents&perline=8" />
 </p>
 
-<!-- ### Cloud -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel&perline=2" />
 </p>
 
 <br>
 
-<!-- ## 📊 GitHub Stats -->
-
 <p align="center">
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuck30&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=radical) |
-| :-: | :-: | :-: |
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077" />
+  <table>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuck30&theme=radical" alt="Stats"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=radical" alt="Repos per language"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=radical" alt="Most commit language"></td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=zuck30&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077" alt="Profile details" />
 </p>
-
-<!-- <br> -->
-<!-- 
-## 🎧 Recently Played on Spotify -->
-<!-- 
-<details align="center">
-  <summary>Check out my recent tracks</summary>
-  <br>
-  <p align="center">
-    <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10" alt="Recently Played">
-    </a>
-  </p>
-</details> -->
-
-<!-- <br> -->
-
-<!-- 
-## 🤓 My Favorite Animes, Tv Series and Movies
 
 <p align="center">
-  <a href="https://github.com/zuck30"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2and3eXdtNTVxZ3d4OGlnOTAzbWNhdnR5b3FlZTBrZm1tc2VqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif" width="40%" style="border-radius:10px;" alt="Anime GIF"></a>
-  <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF5a3F0ZDQzYThmNzRyNjR0NHZkdDlzb2hrNWU1ejFmMXVydDF5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4AbLOQflXqDB81AyyE/giphy.gif" width="40%" style="border-radius:10px;" alt="Anime GIF"></a>
-  <br><br>
-  <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlnZ2R2dWN2MmU4azU3cmJkdG81dXc2Njl4ZjR0dDlpa256ZTNvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11z068pqgqbhHa/giphy.gif" width="40%" style="border-radius:10px;" alt="Breaking Bad GIF"></a>
-  <a href="https://github.com/zuck30"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmODFzN21oZDR6NXljc2xhZTdxaDFjY3Frd3A4ZHd6NzZiYzFqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKWA5fzIsOjv8pndbP/giphy.gif" width="40%" style="border-radius:10px;" alt="The Social Network GIF"></a>
-  <br><br>
-  <a href="https://github.com/zuck30"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg4dDZ4N3A3Ym15Nm4xaWFkMzQyNmhkdm9lYTk4YTI1anYzamgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uol52utDcHQGzM1zJ2/giphy.gif" width="40%" style="border-radius:10px;" alt="Mushle: Magic and Muscles"></a>
-  <a href="https://github.com/zuck30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0M2RreTZxcndqemJxZWFxenRjeGc4bG0xN29jZjlic3R3MTRrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhuJ9DrP2kXd3cig3i/giphy.gif" width="40%" style="border-radius:10px;" alt="Solo levelling"></a>
-  <br><br>
-  <a href="https://github.com/zuck30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29hbTZ3ZHNseXp4aTJhdmQyd2dwYWR6dWgxeHA3eG1la2VuNGk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Dy1Btpt0qUZa/giphy.gif" width="40%" style="border-radius:10px;" alt="true detective"></a>
-  <a href="https://github.com/zuck30"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hzbGJ6aDl5emNoeW1hNndhaXJxaHFucnVwNGFoM3p6NXlxNTZxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="40%" style="border-radius:10px;" alt="Jujutsu kaisen"></a>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=zuck30&data=followers,repositories,stars,commits&theme=radical&title_color=000000" alt="Widgetbox">
 </p>
--->
-
-<br>
-
-<!-- ## 💭 Quote of the Day -->
-
-<!-- <details open align="center">
-  <summary>Today's inspiration</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
-    </a>
-  </p>
-</details> -->
-
-<!-- <br> -->
-
-<!-- ✨ Divider -->
-<!-- <h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3> -->
-
-<!-- ## ☕ Buy Me a Coffee -->
-
-<!-- <p align="center">
-  <a href="https://www.buymeacoffee.com/zuck30" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40px">
-  </a>
-</p> -->
-
-<!-- <p align="center">
-  <i>I need tea to stay alive. Yes, I'm that dumb.</i>
-</p> -->
-
-<!-- <br> -->
-
-<!-- <p align="left">
-  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" alt="Python Logo"></a>
-</p> -->
