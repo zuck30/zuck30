@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel&perline=2" />
+  <img src="https://skillicons.dev/icons?i=supabase,netlify,vercel&perline=2" />
 </p>
 
 <br>
