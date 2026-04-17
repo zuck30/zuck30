@@ -38,6 +38,7 @@
 - **SekelaPOS:** Modern Point of Sale with AI feature to analyze your business and give insights and recommendations.
 - **CiveGpt:** Chatbot app for cive/informatics/UDOM students.
 - **Chuodeep:** AI assistant for college students.
+- **Aurafy:** WebApp that analyzes your spotify listening habits and assigns auras based on audio features.
 
 
 ## 🛠️ Tech Stack
