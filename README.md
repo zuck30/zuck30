@@ -2,16 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Zuck30&textBg=false&desc=(he/him/mwanamume)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5" alt="Banner">
 </p>
 
-<p align="center">
-  <a href="https://committers.top/tanzania_private/zuck30">
-    <img src="https://committers.top/tanzania_private/zuck30.svg" alt="committers.top badge">
-  </a>
-</p>
-
 <h1 align="center">Welcome. My name is Timothy Zucker 👋</h1>
 
 <p align="center">
-  A passionate <strong>Engineer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, working on Machine Learning projects and always exploring new technologies!
+  A passionate <strong>Full-Stack Engineer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, specializing in Web Development, Machine Learning, and AI Orchestration.
 </p>
 
 <p align="center">
@@ -29,24 +23,24 @@
   </a>
 </p>
 
-## About Timothy
+## 📖 About Me
 
-- 💻 Freelance **Developer** with a focus on <a href="https://www.coursera.org/articles/full-stack-developer">web development, AI researches.</a>
-- 🔭 Obsessed with <a href="https://www.python.org/events/python-user-group/1310/">Machine Learning</a>
-- 👨‍💻 Most of my projects are built with **Python**
-- 🇹🇿🇺🇸
+- 💻 **Freelance Web Developer** with a focus on building modern, high-end Tech user interfaces.
+- 🎓 **Computer and Software Engineering Student** dedicated to engineering localized digital solutions for the Tanzanian market.
+- 🔭 **AI Researcher** obsessed with Machine Learning, LLM orchestration, and Computer Vision.
+- 🇹🇿 **Based in Tanzania** (Dar es Salaam / Dodoma).
+- ⚡ **Fun Fact:** I'm an avid fan of Dandadan and Jujutsu Kaisen, and I enjoy writing creative poetry.
 
-<br>
+## 🚀 Key Projects
 
-<div align="center">
-  <img alt="photo" src="https://github-readme-stats.zohan.tech/api?username=zuck30&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
-  <br><br>
-  <img alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=github-dark&hide_border=true" />
-</div>
+- **Kaziboksi:** A unified job and internship platform.
+- **Malaika AI:** AI companion utilizing text, voice and vision language integration.
+- **SekelaPOS:** Modern Point of Sale with AI feature to analyze your business and give insights and recommendations.
+- **CiveGpt:** Chatbot app for cive/informatics/UDOM students.
+- **Chuodeep:** AI assistant for college students.
 
-<br>
 
-## My Tech Stack 
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,cpp,c,bash,md&perline=9" />
@@ -74,20 +68,26 @@
 
 <br>
 
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=zuck30&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
+  <br><br>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=github-dark&hide_border=true" />
+</div>
+
+<br>
+
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuck30&theme=radical" alt="Stats"></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=radical" alt="Repos per language"></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=radical" alt="Most commit language"></td>
-    </tr>
-  </table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuck30&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=2077" alt="Profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=zuck30&data=followers,repositories,stars,commits&theme=radical&title_color=000000" alt="Widgetbox">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=radical">
 </p>
