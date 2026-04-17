@@ -42,27 +42,27 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,cpp,c,bash,md&perline=9" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,react,fastapi,tailwind&perline=6" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=2" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=apple,gmail,npm,docker,notion,vscode,git,github,arduino,coffeescript,linux,postman,latex,vim,windows,styledcomponents&perline=8" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=supabase,netlify,vercel&perline=2" />
 </p>
 
