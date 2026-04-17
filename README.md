@@ -77,10 +77,6 @@
 <br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuck30&theme=radical">
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=radical">
 </p>
 
