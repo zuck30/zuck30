@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="mailto:timothymwalyanga@gmail.com?subject=Hiring%20Opportunity&body=Hi%20Timothy%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20discuss%20a%20role..." target="_blank">
+    <img src="https://img.shields.io/badge/HIRE%20ME%20NOW-%2300E676.svg?&style=for-the-badge&logo=google-chrome&logoColor=white&color=black&labelColor=00E676" alt="Hire Me Now" />
+  </a>
+</p>
+
+<p align="center">
   <!-- <a href="https://github.com/zuck30/zuck30/stargazers"><img src="https://img.shields.io/github/stars/zuck30/zuck30.svg?logo=github" alt="Stars"></a>
   <a href="https://github.com/zuck30/zuck30/network/members"><img src="https://img.shields.io/github/forks/zuck30/zuck30.svg?color=blue&logo=github" alt="Forks"></a> -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="Visitors">
