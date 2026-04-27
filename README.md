@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zuck30/zuck30/stargazers"><img src="https://img.shields.io/github/stars/zuck30/zuck30.svg?logo=github" alt="Stars"></a>
-  <a href="https://github.com/zuck30/zuck30/network/members"><img src="https://img.shields.io/github/forks/zuck30/zuck30.svg?color=blue&logo=github" alt="Forks"></a>
+  <!-- <a href="https://github.com/zuck30/zuck30/stargazers"><img src="https://img.shields.io/github/stars/zuck30/zuck30.svg?logo=github" alt="Stars"></a>
+  <a href="https://github.com/zuck30/zuck30/network/members"><img src="https://img.shields.io/github/forks/zuck30/zuck30.svg?color=blue&logo=github" alt="Forks"></a> -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="Visitors">
 </p>
 
