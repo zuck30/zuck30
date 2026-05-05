@@ -5,7 +5,8 @@
 <h1 align="center">Welcome. My name is Timothy Mwalyanga 👋</h1>
 
 <p align="center">
-  A passionate <strong>Full-Stack Engineer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, specializing in Web Development, Machine Learning, and AI Orchestration.
+  I am a <strong>Software and Data Engineer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, doing Web Development, Machine Learning, and AI Orchestration. 
+   I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop when I joined college. I've built this journey piece by piece, brick by brick, fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
 </p>
 
 <p align="center">
@@ -20,14 +21,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30" alt="Visitors">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://app.daily.dev/timothyzucker">
     <img src="https://api.daily.dev/devcards/v2/DUDK2FWcCwWKuKQdoUxdU.png?type=wide&r=uua" width="652" alt="Timothy Zucker's Dev Card"/>
   </a>
-</p>
+</p> -->
 
-## 📖 About Me
-
+<!-- ## 📖 About Me -->
+<!-- 
 - 💻 **Freelance Web Developer** with a focus on building modern, high-end Tech user interfaces.
 - 🎓 **Computer and Software Engineering Student** dedicated to engineering localized digital solutions for the Tanzanian market.
 - 🔭 **AI Researcher** obsessed with Machine Learning, LLM orchestration, and Computer Vision.
@@ -41,7 +42,7 @@
 - **SekelaPOS:** Modern Point of Sale with AI feature to analyze your business and give insights and recommendations.
 - **CiveGpt:** Chatbot app for cive/informatics/UDOM students.
 - **Chuodeep:** AI assistant for college students.
-- **Aurafy:** WebApp that analyzes your spotify listening habits and assigns auras based on audio features.
+- **Aurafy:** WebApp that analyzes your spotify listening habits and assigns auras based on audio features. -->
 
 
 ## 🛠️ Tech Stack
