@@ -52,7 +52,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,react,fastapi,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,laravel,react,fastapi,tailwind&perline=6" />
 </p>
 
 <p align="left">
