@@ -61,8 +61,8 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <tr>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/kazibox" onerror="this.style.display='none'" />
-<br/><b><a href="https://github.com/zuck30/kaziboksi">Kaziboksi</a></b>
-<br/><sub>Unified job & internship platform for Tanzania. Tochi Mode SMS alerts for low-connectivity users.</sub>
+<br/><b><a href="https://github.com/zuck30/kazibox">Kaziboksi</a></b>
+<br/><sub>Unified job & internship platform for Tanzania. AI job match, CV Parsing, Skill Gap analysis, market fit anaylis,AI CV maker, Tochi Mode SMS alerts for low-connectivity users.</sub>
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/sekela_pos" onerror="this.style.display='none'" />
