@@ -237,7 +237,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 ## 🤝 currently looking for
 
-> **Remote contracts :** in AI/ML, Data Engineering, or Full-Stack Development
+> **Freelancing contracts :** in AI/ML, Data Engineering, or Full-Stack Development
 
 > **Collaboration :** on open source AI projects, especially for East African context
 
