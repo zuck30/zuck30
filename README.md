@@ -5,7 +5,7 @@
 <h1 align="center">Welcome. My name is Shadrackovsky T. Mwalyanga 👋</h1>
 
 <p align="center">
-  I am a <strong>Software and Data Engineer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, doing Web Development, Machine Learning, and AI Orchestration. 
+  I am an aspiring AI Researcher, <strong>Software and Data Engineer</strong> from <a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a>, doing Web Development, Machine Learning, and AI Integration. 
    I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop when I joined college. I've built this journey piece by piece, brick by brick, fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
 </p>
 
