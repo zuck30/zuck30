@@ -211,8 +211,6 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/activity?username=zuck30&theme=github-dark&bg_color=0d1117&hide_border=true" />
-
 ## 🎮 setup
 
 <table>
@@ -236,6 +234,10 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <td align="center" width="14%"><img width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj2Sfss75O_Zs1valWdqkI3LNwp1MC-O02w&s"/><br/><sub><b>Rubber Duck</b><br/>debugging</sub></td>
 </tr>
 </table>
+
+<div>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy" />
+</div>
 
 ## 🤝 currently looking for
 
