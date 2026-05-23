@@ -29,7 +29,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 <br/> 
 
-**Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford.**
+**Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford,  Georgi Gerganov.**
 
 ## 🚀 things i've built
 
