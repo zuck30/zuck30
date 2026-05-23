@@ -207,7 +207,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 | **Backend & IoT** | Supabase, Python, Agriculture Projects that involves ioT and Cloud |
 
 **Certifications targeting:** 
->I'm a Self taught Software Engineer, I'm watching tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
+>I'm a Self taught Software Engineer, I watch tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
 <br/>
 
