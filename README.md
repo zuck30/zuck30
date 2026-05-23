@@ -60,7 +60,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 </tr>
 <tr>
 <td align="center" width="25%">
-<img width="100%" src="https://opengraph.githubassets.com/1/zuck30/kaziboksi" onerror="this.style.display='none'" />
+<img width="100%" src="https://opengraph.githubassets.com/1/zuck30/kazibox" onerror="this.style.display='none'" />
 <br/><b><a href="https://github.com/zuck30/kaziboksi">Kaziboksi</a></b>
 <br/><sub>Unified job & internship platform for Tanzania. Tochi Mode SMS alerts for low-connectivity users.</sub>
 </td>
@@ -127,7 +127,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 </tr>
 <tr>
 <td align="center" width="25%">
-<img width="100%" src="https://opengraph.githubassets.com/1/zuck30/garidesk" />
+<img width="100%" src="https://opengraph.githubassets.com/1/zuck30/garidesk-ai" />
 <br/><b><a href="https://github.com/zuck30/garidesk">Garidesk</a></b>
 <br/><sub>Car & garage management system with AI business analytics. Client build.</sub>
 </td>
