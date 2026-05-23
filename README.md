@@ -50,7 +50,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/mambo" />
 <br/><b><a href="https://github.com/zuck30/mambo">Mambo</a></b>
-<br/><sub>Dating app with AI conversation starters. Swipe, match, chat. Mambo Gold reveals who liked you.</sub>
+<br/><sub>Dating app with AI conversation starters. Connect, Swipe, match, chat.</sub>
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/IoT-AI-Fertilizer-Recommendation" />
