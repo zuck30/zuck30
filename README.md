@@ -8,7 +8,9 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Portfolio-sheddysilicon.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddysilicon.netlify.app)
-[![](https://img.shields.io/badge/LinkedIn-shadrack--john-58a6ff?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/shadrack-john)
+
+[![](https://img.shields.io/badge/sheddydev.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddydev.netlify.app/)
+
 [![](https://img.shields.io/badge/Instagram-sheddysilicon-58a6ff?style=flat-square&labelColor=0d1117&logo=instagram&logoColor=58a6ff)](https://instagram.com/sheddysilicon)
 [![](https://img.shields.io/badge/Email-say%20hello-58a6ff?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=58a6ff)](mailto:mwalyangashadrack@gmail.com)
 [![](https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30&color=58a6ff&labelColor=0d1117)](https://github.com/zuck30)
@@ -29,12 +31,10 @@ I am an aspiring AI Researcher, <strong>Software and Data Engineer</strong> from
 
 <br/>
 
-**Computer Engineering student @ UDOM** · Dodoma, Tanzania 🇹🇿  
-Full-stack dev · AI builder · Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford  
+**Computer Engineering student @ CIVE**  
+Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford  
 
 <br/>
-
----
 
 ## 🚀 things i've built
 
@@ -161,9 +161,8 @@ Full-stack dev · AI builder · Obsessed with Karpathy, Ilya, Hinton, LeCun, Ben
 
 <br/>
 
----
 
-## 🛠 stack
+## 🛠 technologies i use everyday
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,bash,html,css&perline=9"/>
@@ -179,10 +178,6 @@ Full-stack dev · AI builder · Obsessed with Karpathy, Ilya, Hinton, LeCun, Ben
 </p>
 
 <br/>
-
----
-
-## 📊 stats
 
 <div align="center">
 <img src="https://github-readme-stats.zohan.tech/api?username=zuck30&count_private=true&show_icons=true&theme=github_dark&border_radius=10&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&bg_color=0d1117" height="160"/>
@@ -204,23 +199,20 @@ Full-stack dev · AI builder · Obsessed with Karpathy, Ilya, Hinton, LeCun, Ben
 
 <br/>
 
----
-
-## 🧠 roadmap focus
+## 🧠 roadmap I'm focusing
 
 | Area | What I'm mastering |
 |------|---------------------|
 | **GenAI & LLMs** | Fine-tuning (LoRA/QLoRA), RAG systems, Chroma vector DB, Hugging Face |
-| **Python & Data** | FastAPI, Pandas, NumPy, PyTorch, Scikit-learn, OpenCV |
+| **Python & Data** | FastAPI, Pandas, NumPy, PyTorch, AI models and Large Dataset Trainings |
 | **Data Engineering** | SQL, data cleaning, pipelining, API integration |
 | **Cloud & DevOps** | Docker, Git, Linux, Render, Netlify, Vercel |
-| **Frontend** | React, Vite, Tailwind CSS, JavaScript, SCSS |
+| **Frontend** | React, Next, Vite, Tailwind CSS, shadcn-ui |
+| **Backend & IoT** | Supabase, Python, Agriculture Projects that involves ioT and Cloud |
 
-**Certifications targeting:** ML Specialization, Full-Stack, API Development
+**Certifications targeting:** I'm a Self taught Software Engineer, I'm watching tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
 <br/>
-
----
 
 ## 🎮 setup
 
@@ -245,30 +237,19 @@ Full-stack dev · AI builder · Obsessed with Karpathy, Ilya, Hinton, LeCun, Ben
 <td align="center" width="14%"><img width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj2Sfss75O_Zs1valWdqkI3LNwp1MC-O02w&s"/><br/><sub><b>Rubber Duck</b><br/>debugging</sub></td>
 </tr>
 </table>
-
 <br/>
-
-**Full setup:** Wool felt deskmat · Logitech G213 keyboard · 34" curved UHD monitor · Wooden desk shelf · Monitor lightbar · Vaydeer vertical stand · 360° laptop stand · Anti-blue ray glasses · Lenovo HE05X neckband · Chessboard · Coffee mug · Microfiber cloths · Mesh desk organizer
-
-<br/>
-
----
-
 ## 🤝 currently looking for
 
 - **Remote contracts** in AI/ML, Data Engineering, or Full-Stack Development
 - **Collaboration** on open source AI projects, especially for East African context
-- **Internships or full-time** roles starting mid-2026
+- **Remote Internships or full-time** roles I'm Ok with dropping out.
+- **Investors** If you're willing to fund any of my startups.
 
 <br/>
-
----
-
 <div align="center">
 
 **open to contracts + full time · let's talk**
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-mwalyangashadrack@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:mwalyangashadrack@gmail.com?subject=Hiring)
-
 
 </div>
