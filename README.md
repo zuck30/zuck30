@@ -66,7 +66,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/sekela_pos" onerror="this.style.display='none'" />
-<br/><b>Sekela POS</b>
+<br/><b><a href="https://github.com/zuck30/sekela_pos">Sekela POS</a></b>
 <br/><sub>Cloud-native POS with AI business analytics. Startup building for East African MSMEs.</sub>
 </td>
 <td align="center" width="25%">
