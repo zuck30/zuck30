@@ -90,7 +90,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/RYOIKI-TENKAI" />
 <br/><b><a href="https://github.com/zuck30/RYOIKI-TENKAI">RYOIKI-TENKAI</a></b>
 <br/><sub>16 JJK cursed techniques via hand gestures + Three.js particles.</sub>
-<br/><sub>Create branded image cards for social media. <a href="https://zuck30.github.io/RYOIKI-TENKAI/">https://zuck30.github.io/RYOIKI-TENKAI</a></sub>
+<br/><sub>Create branded image cards for social media. <a href="https://zuck30.github.io/RYOIKI-TENKAI/">ryoiki-tenkai</a></sub>
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/jenga3D" />
