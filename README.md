@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:0a1628,100:0d1117&text=Zuck30🇹🇿&textBg=false&desc=Creating.+Focusing.+Dreaming.&descAlign=50&fontAlign=50&descAlignY=68&fontColor=58a6ff&descColor=6e7681&fontSize=78&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:0a1628,100:0d1117&text=Zuck30&textBg=false&desc=Creating.+Focusing.+Dreaming.&descAlign=50&fontAlign=50&descAlignY=68&fontColor=58a6ff&descColor=6e7681&fontSize=78&animation=fadeIn"/>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 <h2 align="center">Welcome. My name is Shadrackovsky T. Mwalyanga 👋</h2>
 
 <p align="center">
-I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey piece by piece, brick by brick, fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
+I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania (🇹🇿), doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey piece by piece, brick by brick, fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
 </p>
 
 <br/>
