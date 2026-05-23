@@ -245,10 +245,9 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 > **Investors :** If you're willing to fund any of my startups.
 
-<br/>
-<p src="https://github-profile-trophy.vercel.app/?username=zuck30&no-bg=true">
-
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zuck30&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+</div>
 <div align="center">
 
 **open to contracts + full time · let's talk**
