@@ -29,7 +29,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 <br/> 
 
-**Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford**
+**Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford.**
 
 ## 🚀 things i've built
 
@@ -38,14 +38,14 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <table>
 <tr>
 <td align="center" width="25%">
-<img width="100%" src="https://raw.githubusercontent.com/zuck30/Malaika/main/assets/preview.png" onerror="this.src='https://opengraph.githubassets.com/1/zuck30/Malaika'" />
+<img width="100%" src="https://raw.githubusercontent.com/zuck30/Malaika/main/assets/preview.png" src="https://opengraph.githubassets.com/1/zuck30/Malaika" />
 <br/><b><a href="https://github.com/zuck30/Malaika">Malaika</a></b>
 <br/><sub>AI companion with memory, vision & voice. Inspired by <i>Her</i>. Now controls my MacBook.</sub>
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/kioni-ai-bro" />
 <br/><b><a href="https://github.com/zuck30/kioni-ai-bro">Kioni</a></b>
-<br/><sub>AI that speaks Swahili, English & Sheng with real cultural intelligence. Kitenge UI. Voice + vision.</sub>
+<br/><sub>AI that speaks Swahili, English & Sheng with real cultural intelligence. Voice + vision.</sub>
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/mambo" />
@@ -89,15 +89,16 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/RYOIKI-TENKAI" />
 <br/><b><a href="https://github.com/zuck30/RYOIKI-TENKAI">RYOIKI-TENKAI</a></b>
-<br/><sub>16 JJK cursed techniques via hand gestures + Three.js particles. If you know, you know.</sub>
+<br/><sub>16 JJK cursed techniques via hand gestures + Three.js particles.</sub>
+<br/><sub>Create branded image cards for social media. <a href="https://zuck30.github.io/RYOIKI-TENKAI/">https://zuck30.github.io/RYOIKI-TENKAI</a></sub>
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/jenga3D" />
 <br/><b><a href="https://github.com/zuck30/jenga3D">Jenga3D</a></b>
-<br/><sub>Theory of Computation — DFA, NFA, ε-NFA — visualized in 3D. Because flat diagrams are boring.</sub>
+<br/><sub>Theory of Computation DFA, NFA, ε-NFA visualized in 3D. Because flat diagrams are boring.</sub>
 </td>
 <td align="center" width="25%">
-<img width="100%" src="https://opengraph.githubassets.com/1/zuck30/university-finder" />
+<img width="100%" src="https://opengraph.githubassets.com/1/zuck30/sekelafinder" />
 <br/><b><a href="https://github.com/zuck30/university-finder">University Finder</a></b>
 <br/><sub>30+ Tanzanian universities with ML-powered course matching recommendations.</sub>
 </td>
@@ -133,7 +134,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/sentinel-v1" />
 <br/><b><a href="https://github.com/zuck30/sentinel-v1">Sentinel</a></b>
-<br/><sub>Automated repo guardian. 9 cron schedules. GUI + CLI + web interface. Set and forget.</sub>
+<br/><sub>Automated repo guardian. 9 cron schedules. GUI + CLI + web interface.</sub>
 </td>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/cash-transaction-risk" />
