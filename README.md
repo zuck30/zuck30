@@ -246,7 +246,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 > **Investors :** If you're willing to fund any of my startups.
 
 <br/>
-<p src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true">
+<p src="https://github-profile-trophy.vercel.app/?username=zuck30&no-bg=true">
 
 </p>
 <div align="center">
