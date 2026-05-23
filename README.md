@@ -237,13 +237,13 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 ## 🤝 currently looking for
 
-> **Remote contracts** in AI/ML, Data Engineering, or Full-Stack Development
+> **Remote contracts :** in AI/ML, Data Engineering, or Full-Stack Development
 
-> **Collaboration** on open source AI projects, especially for East African context
+> **Collaboration :** on open source AI projects, especially for East African context
 
-> **Remote Internships or full-time** roles I'm Ok with dropping out.
+> **Remote Internships or full-time :** roles I'm Ok with dropping out.
 
-> **Investors** If you're willing to fund any of my startups.
+> **Investors :** If you're willing to fund any of my startups.
 
 <br/>
 <div align="center">
