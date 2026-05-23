@@ -234,19 +234,19 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <td align="center" width="14%"><img width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj2Sfss75O_Zs1valWdqkI3LNwp1MC-O02w&s"/><br/><sub><b>Rubber Duck</b><br/>debugging</sub></td>
 </tr>
 </table>
-<br/>
+
 ## 🤝 currently looking for
 
-- **Remote contracts** in AI/ML, Data Engineering, or Full-Stack Development
-- **Collaboration** on open source AI projects, especially for East African context
-- **Remote Internships or full-time** roles I'm Ok with dropping out.
-- **Investors** If you're willing to fund any of my startups.
+> **Remote contracts** in AI/ML, Data Engineering, or Full-Stack Development
+> **Collaboration** on open source AI projects, especially for East African context
+> **Remote Internships or full-time** roles I'm Ok with dropping out.
+> **Investors** If you're willing to fund any of my startups.
 
 <br/>
 <div align="center">
 
 **open to contracts + full time · let's talk**
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-mwalyangashadrack@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:mwalyangashadrack@gmail.com?subject=Hiring)
+> [![Hire Me](https://img.shields.io/badge/Hire%20Me-mwalyangashadrack@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:mwalyangashadrack@gmail.com?subject=Hiring)
 
 </div>
