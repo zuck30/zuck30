@@ -38,7 +38,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <table>
 <tr>
 <td align="center" width="25%">
-<img width="100%" src="https://raw.githubusercontent.com/zuck30/Malaika/main/assets/preview.png" src="https://opengraph.githubassets.com/1/zuck30/Malaika" />
+<img width="100%" src="https://opengraph.githubassets.com/1/zuck30/Malaika" />
 <br/><b><a href="https://github.com/zuck30/Malaika">Malaika</a></b>
 <br/><sub>AI companion with memory, vision & voice. Inspired by <i>Her</i>. Now controls my MacBook.</sub>
 </td>
