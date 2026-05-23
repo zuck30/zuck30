@@ -31,8 +31,7 @@ I am an aspiring AI Researcher, <strong>Software and Data Engineer</strong> from
 
 <br/>
 
-**Computer Engineering student @ CIVE**  
-Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford  
+**Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford**
 
 <br/>
 
@@ -211,6 +210,7 @@ Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford
 | **Backend & IoT** | Supabase, Python, Agriculture Projects that involves ioT and Cloud |
 
 **Certifications targeting:** 
+
 I'm a Self taught Software Engineer, I'm watching tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
 <br/>
