@@ -258,7 +258,5 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 </div>
 
 <div align="center">
-  <h3>🎧 Recently Listening to</h3>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy" />
-  <br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width=900&height=80" />
 </div>
