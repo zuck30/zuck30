@@ -221,7 +221,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <td align="center" width="14%"><img width="70" src="images/360_stand.png"/><br/><sub><b>360° Stand</b><br/>Multi-angle</sub></td>
 <td align="center" width="14%"><img width="70" src="/images/glasses.png"/><br/><sub><b>Anti-blue ray</b><br/>Eye protection</sub></td>
 <td align="center" width="14%"><img width="70" src="/images/lenovo.png"/><br/><sub><b>Neckband</b><br/>Lenovo HE05X</sub></td>
-<td align="center" width="14%"><img width="70" src="/images/chessboard.png"/><br/><sub><b>Chessboard</b><br/>Strategic breaks</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/chessboard.png"/><br/><sub><b>Chessboard</b><br/>Focus and Strategic breaks</sub></td>
 </tr>
 <tr>
 <td align="center" width="14%"><img width="70" src="/images/microfiber.png"/><br/><sub><b>Microfiber</b><br/>Screen cleaning</sub></td>
