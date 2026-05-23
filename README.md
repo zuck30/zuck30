@@ -235,8 +235,11 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 </tr>
 </table>
 
-<div>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy" />
+<div align="center">
+  <h3>🎧 Recently vibing to</h3>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy" />
+  <br/>
+  <sub>Updates with every listen</sub>
 </div>
 
 ## 🤝 currently looking for
