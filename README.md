@@ -210,7 +210,8 @@ Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford
 | **Frontend** | React, Next, Vite, Tailwind CSS, shadcn-ui |
 | **Backend & IoT** | Supabase, Python, Agriculture Projects that involves ioT and Cloud |
 
-**Certifications targeting:** I'm a Self taught Software Engineer, I'm watching tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
+**Certifications targeting:** 
+I'm a Self taught Software Engineer, I'm watching tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
 <br/>
 
