@@ -20,18 +20,16 @@
 <h2 align="center">Welcome. My name is Shadrackovsky T. Mwalyanga 👋</h2>
 
 <p align="center">
-I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop when I joined college. I've built this journey piece by piece, brick by brick, fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
+I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey piece by piece, brick by brick, fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
 </p>
 
 <br/>
 
-> My grandmother bought me my first laptop when I joined college. That was the canon event hahaha. Everything since has been long nights, insatiable curiosity, and a genuine love for understanding how things work.
+> My grandmother, She bought me my first laptop. Everything since has been long nights, insatiable curiosity, and a genuine love for understanding how things work.
 
-<br/>
+<br/> 
 
 **Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford**
-
-<br/>
 
 ## 🚀 things i've built
 
