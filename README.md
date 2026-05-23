@@ -128,7 +128,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <tr>
 <td align="center" width="25%">
 <img width="100%" src="https://opengraph.githubassets.com/1/zuck30/garidesk-ai" />
-<br/><b><a href="https://github.com/zuck30/garidesk">Garidesk</a></b>
+<br/><b><a href="https://github.com/zuck30/garidesk-ai">Garidesk</a></b>
 <br/><sub>Car & garage management system with AI business analytics. Client build.</sub>
 </td>
 <td align="center" width="25%">
