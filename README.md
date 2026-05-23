@@ -211,6 +211,11 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 <br/>
 
+
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zuck30&theme=github_dark&bg_color=0d1117&hide_border=true&layout=compact" />
+
+
 ## 🎮 setup
 
 <table>
