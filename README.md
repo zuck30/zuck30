@@ -235,11 +235,6 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 </tr>
 </table>
 
-<div align="center">
-  <h3>🎧 Recently Listening to</h3>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy" />
-  <br/>
-</div>
 
 ## 🤝 currently looking for
 
@@ -260,4 +255,10 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-mwalyangashadrack@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:mwalyangashadrack@gmail.com?subject=Hiring)
 
+</div>
+
+<div align="center">
+  <h3>🎧 Recently Listening to</h3>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy" />
+  <br/>
 </div>
