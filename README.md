@@ -31,7 +31,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 
 **Obsessed with Karpathy, Ilya, Hinton, LeCun, Bengio, Radford,  Georgi Gerganov.**
 
-## 🚀 things i've built
+<!-- ## 🚀 things i've built
 
 <br/>
 
@@ -155,7 +155,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
   <sub><a href="https://github.com/zuck30?tab=repositories">→ see all repositories on github ←</a></sub>
 </div>
 
-<br/>
+<br/> -->
 
 
 ## 🛠 technologies i use everyday
