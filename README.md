@@ -164,13 +164,13 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,bash,html,css&perline=9"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,fastapi,laravel,tailwind,vite&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,vue,fastapi,flask,laravel,tailwind,vite&perline=6"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3"/>
+<img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,opencv&perline=3"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,docker,git,linux,arduino,postman,vscode,vercel,netlify&perline=6"/>
+<img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,git,github,supabase,docker,git,linux,arduino,postman,vscode,vercel,netlify&perline=8"/>
 </p>
 
 <br/>
