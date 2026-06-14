@@ -176,7 +176,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.zohan.tech/api?username=zuck30&count_private=true&show_icons=true&theme=dracula&border_radius=10&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.zohan.tech/api?username=zuck30&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&bg_color=0d1117" height="160"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=dracula&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" height="160"/>
 </div>
