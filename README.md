@@ -184,9 +184,9 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <br/>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=nord_bright"/>
 &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=nord_bright"/>
 </p>
 
 <p align="center">
