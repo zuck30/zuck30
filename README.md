@@ -164,7 +164,7 @@ I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engi
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,bash,html,css&perline=9"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,fastapi,flask,laravel,tailwind,vite&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,vue,fastapi,flask,tailwind,vite&perline=6"/>
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,sklearn,opencv&perline=3"/>
