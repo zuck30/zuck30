@@ -1,9 +1,7 @@
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:0a1628,100:0d1117&text=Zuck30&textBg=false&desc=Creating.+Focusing.+Dreaming.&descAlign=50&fontAlign=50&descAlignY=68&fontColor=58a6ff&descColor=6e7681&fontSize=78&animation=fadeIn"/>
-</div>
-
-<br/>
+<p align="center">
+    <img src="/images/shadrackovsky.png" alt="zuck30" width="800">
+</p>
 <div align="center">
 
 [![](https://img.shields.io/badge/Me-sheddysilicon.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddysilicon.netlify.app)
@@ -17,17 +15,14 @@
 
 <br/>
 
-<h2 align="center">Welcome. My name is Shadrackovsky T. Mwalyanga 👋</h2>
+<h2 align="center">I'm Shadrackovsky T. John👋</h2>
 
 <p align="center">
-I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey piece by piece, brick by brick, fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
+
+>I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
 </p>
 
 <br/>
-
-> My grandmother, She bought me my first laptop. Everything since has been long nights, insatiable curiosity, and a genuine love for understanding how things work.
-
-<br/> 
 
 **Obsessed with Karpathy, Ilya, LeCun, Bengio, Radford,  Georgi Gerganov.**
 
