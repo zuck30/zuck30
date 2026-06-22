@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/Me-sheddysilicon.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddysilicon.netlify.app)
 [![](https://img.shields.io/badge/Blog-sheddydev.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddydev.netlify.app/)
-[![](https://img.shields.io/badge/Company-ANTERA-58a6ff?style=flat-square&labelColor=0d1117)](https://antera.co.tz)
+[![](https://img.shields.io/badge/Company-AGS-58a6ff?style=flat-square&labelColor=0d1117)](https://antera.co.tz)
 [![](https://img.shields.io/badge/Instagram-sheddysilicon-58a6ff?style=flat-square&labelColor=0d1117&logo=instagram&logoColor=58a6ff)](https://instagram.com/sheddysilicon)
 [![](https://img.shields.io/badge/Email-say%20hello-58a6ff?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=58a6ff)](mailto:mwalyangashadrack@gmail.com)
 [![](https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30&color=58a6ff&labelColor=0d1117)](https://github.com/zuck30)
