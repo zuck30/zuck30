@@ -177,7 +177,7 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=dracula"/>
 &nbsp;
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuck30&theme=dracula"/>
@@ -185,7 +185,7 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuck30&theme=dracula"/>
-</p>
+</p> -->
 
 <br/>
 
