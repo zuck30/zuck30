@@ -168,14 +168,14 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.zohan.tech/api?username=zuck30&count_private=true&show_icons=true&theme=dracula"/>
 
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuck30&theme=dracula&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 </div>
 
-<br/>
+<br/> -->
 
 <!-- <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuck30&theme=dracula"/>
