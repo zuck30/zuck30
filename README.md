@@ -200,7 +200,7 @@
 | **Frontend** | React, Next, Vite, Tailwind CSS, shadcn-ui |
 | **Backend & IoT** | Supabase, Python, Agriculture Projects that involves ioT and Cloud |
 
-# my framework
+# 💻 my framework
 >I'm a Self taught Software Engineer, I watch tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
 <br/>
