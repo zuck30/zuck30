@@ -151,7 +151,7 @@
 <br/> -->
 
 
-## 🛠 technologies i use everyday
+# 🛠 technologies i use everyday
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,bash,html,css&perline=9"/>
@@ -189,7 +189,7 @@
 
 <br/>
 
-## 🧠 roadmap I'm focusing
+# 🧠 roadmap I'm focusing
 
 | Area | What I'm mastering |
 |------|---------------------|
@@ -205,7 +205,7 @@
 
 <br/>
 
-## 🎮 setup
+# 🎮 setup
 
 <table>
 <tr>
@@ -230,7 +230,7 @@
 </table>
 
 
-## 🤝 currently looking for
+# 🤝 currently looking for
 
 > **Freelancing contracts :** in AI/ML, Data Engineering, or Full-Stack Development
 
