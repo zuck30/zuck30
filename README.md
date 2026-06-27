@@ -241,9 +241,6 @@
 > **Investors :** If you're willing to fund any of my startups.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zuck30&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
-</div>
-<div align="center">
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width=900&height=80" />
 </div>
