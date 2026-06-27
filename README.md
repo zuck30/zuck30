@@ -205,7 +205,7 @@
 
 <br/>
 
-# 🎮 setup
+# 🎮 my setup
 
 <table>
 <tr>
