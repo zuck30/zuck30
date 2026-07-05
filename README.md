@@ -232,13 +232,10 @@
 
 # 🤝 currently looking for
 
-> **Freelancing contracts :** in AI/ML, Data Engineering, or Full-Stack Development
-
-> **Collaboration :** on open source AI projects, especially for East African context
-
-> **Remote Internships or full-time :** roles I'm Ok with dropping out.
-
-> **Investors :** If you're willing to fund any of my startups.
+**Freelancing contracts :** in AI/ML, Data Engineering, or Full-Stack Development
+**Collaboration :** on open source AI projects, especially for East African context
+**Remote Internships or full-time :** roles I'm Ok with that.
+**Investors :** If you're willing to fund.
 
 <div align="center">
 <div align="center">
