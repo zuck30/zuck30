@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
     <img src="/images/shadrackovsky.png" alt="zuck30" width="800">
-</p>
+</p> -->
 <div align="center">
 
 [![](https://img.shields.io/badge/Me-sheddysilicon.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddysilicon.netlify.app)
