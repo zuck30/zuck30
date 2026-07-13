@@ -17,7 +17,7 @@
 
 <p align="center">
 
->Hello 👋 I'm Shadrackovsky T. John, I am an aspiring <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
+>Hello 👋 I'm Shadrackovsky T. John, I am an aspiring young <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
 </p>
 
 <br/>
