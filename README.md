@@ -22,7 +22,7 @@
 
 <br/>
 
-**Obsessed with Karpathy, Ilya, LeCun, Bengio, Radford,  Georgi Gerganov.**
+# Obsessed with Karpathy, Ilya, LeCun, Bengio, Radford,  Georgi Gerganov.
 
 <!-- ## 🚀 things i've built
 
