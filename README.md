@@ -242,8 +242,6 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width=900&height=80" />
 </div>
 
-**open to contracts + full time · let's talk**
-
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-mwalyangashadrack@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:mwalyangashadrack@gmail.com?subject=Hiring)
 
 </div>
