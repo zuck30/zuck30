@@ -204,6 +204,7 @@
 | **Backend & IoT** | Supabase, Python, Agriculture Projects that involves ioT and Cloud |
 
 # 💻 my framework
+> [!IMPORTANT]
 >I'm a Self taught Software Engineer, I watch tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
 <br/>
