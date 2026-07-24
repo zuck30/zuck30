@@ -239,11 +239,11 @@
 >[!IMPORTANT]
 >Open for freelance contracts in AI/ML and Full-Stack, open-source AI collaborations, remote engineering roles, and investor funding.
 
-<!-- <div align="center">
+<div align="center">
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width=900&height=80" />
 </div>
-</div> -->
+</div>
 
 >[!IMPORTANT]
 # Hire me
