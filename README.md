@@ -235,6 +235,7 @@
 
 
 # 🤝 currently looking for
+
 [!IMPORTANT]
 >Open for freelance contracts in AI/ML and Full-Stack, open-source AI collaborations, remote engineering roles, and investor funding.
 
@@ -243,7 +244,9 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width=900&height=80" />
 </div>
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-mwalyangashadrack@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:mwalyangashadrack@gmail.com?subject=Hiring)
+[!IMPORTANT]
+# Hire me
+mwalyangashadrack@gmail.com
 
 </div>
 
