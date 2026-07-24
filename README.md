@@ -245,7 +245,7 @@
 </div>
 </div>
 
+# 🚀 Hire me
 >[!IMPORTANT]
-# Hire me
-mwalyangashadrack@gmail.com
+>mwalyangashadrack@gmail.com
 
