@@ -209,7 +209,7 @@
 
 <br/>
 
-# 🎮 my setup
+# 🎮 my desk setup
 
 <table>
 <tr>
