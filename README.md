@@ -236,7 +236,7 @@
 # 🤝 currently looking for
 
 >[!IMPORTANT]
->Open for freelance contracts in AI/ML and Full-Stack, open-source AI collaborations, remote engineering roles, and investor funding.
+>Open for freelance contracts in AI/ML and Full-Stack, open-source AI collaborations, remote engineering roles.
 
 # 🎸 thing i love the most
 <div align="center">
