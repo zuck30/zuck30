@@ -156,7 +156,7 @@
 # 🛠 technologies i use everyday
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,bash,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,django,js,ts,php,c,cpp,bash,html,css&perline=9"/>
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=react,fastapi,flask,tailwind,vite&perline=6"/>
@@ -165,7 +165,7 @@
 <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,sklearn,opencv&perline=3"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,git,github,supabase,docker,githubactions,linux,arduino,vscode,npm,notion,vercel,netlify&perline=8"/>
+<img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,git,github,gitlab,supabase,docker,githubactions,linux,arduino,vscode,npm,notion,vercel,netlify&perline=8"/>
 </p>
 
 <br/>
