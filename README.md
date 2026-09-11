@@ -16,7 +16,8 @@
 <p>
 
 
-> <span style="font-size: 2.5rem; line-height: 1.6;">
+<span style="font-size: 2.5rem; line-height: 1.6;">
+
 > Hello 👋 I'm Shadrackovsky T. John, I am an aspiring young <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
 > </span>
 
@@ -153,7 +154,7 @@
 <br/> -->
 
 
-# 🛠 technologies i use everyday
+# 🛠 technologies i use everyday.
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,js,ts,php,c,cpp,bash,html,css&perline=9"/>
@@ -191,7 +192,7 @@
 
 <br/>
 
-# 🧠 roadmap I'm focusing
+# 🧠 roadmap I'm focusing.
 
 | Area | What I'm mastering |
 |------|---------------------|
@@ -203,13 +204,13 @@
 | **Backend & IoT** | Supabase, Python, Agriculture Projects that involves ioT and Cloud |
 | **Computational Finance** | Quantitative modeling, algorithmic trading, risk analysis, portfolio optimization |
 
-# 💻 my framework
+# 💻 my framework.
 
 >I'm a Self taught Software Engineer, I watch tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
 <br/>
 
-# 🎮 my desk setup
+# 🎮 my desk setup.
 
 <table>
 <tr>
@@ -234,7 +235,7 @@
 </table>
 
 
-# 🤝 currently looking for
+# 🤝 currently looking for.
 
 
 >Open for freelance contracts in AI/ML and Full-Stack, open-source AI collaborations, remote engineering roles.
@@ -246,7 +247,7 @@
 </div>
 </div>
 
-# 🚀 hire me
+# 🚀 hire me.
 
 >mwalyangashadrack@gmail.com
 
