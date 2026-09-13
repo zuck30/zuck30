@@ -201,7 +201,7 @@
 | **Data Engineering** | SQL, data cleaning, pipelining, API integration |
 | **Cloud & DevOps** | Docker, Git, Linux, Render, Netlify, Vercel |
 | **Frontend** | React, Next, Vite, Tailwind CSS, shadcn-ui |
-| **Backend & IoT** | Supabase, Django, Agriculture Projects that involves ioT and Cloud |
+| **Backend** | Supabase, Django |
 | **Computational Finance** | Quantitative modeling, algorithmic trading, risk analysis, portfolio optimization |
 
 # 💻 my framework.
