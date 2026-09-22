@@ -199,7 +199,7 @@
 | **GenAI & LLMs** | Fine-tuning (LoRA/QLoRA), RAG systems, Chroma vector DB, Hugging Face |
 | **Python & Data** | FastAPI, Pandas, NumPy, PyTorch, AI models and Large Dataset Trainings |
 | **Data Engineering** | SQL, data cleaning, pipelining, API integration |
-| **Cloud & DevOps** | Docker, Git, Linux, Render, Netlify, Vercel |
+| **Cloud & DevOps** | Docker, Kurbenetes, Git, Linux, Render, Netlify, Vercel |
 | **Frontend** | React, Next, Vite, Tailwind CSS, shadcn-ui |
 | **Backend** | Supabase, Django |
 | **Computational Finance** | Quantitative modeling, algorithmic trading, risk analysis, portfolio optimization |
