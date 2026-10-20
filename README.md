@@ -254,7 +254,7 @@
     </a>
 </p>
 
-# 𖡎 see swahili-gpt pre-trained model from scratch.
+# 𖡎 see swahili-gpt pre-trained model trained from scratch.
 <p align="center">
     <a href="https://github.com/zuck30/swahili-llm-scratch">
         <img src="/assets/swahili.png" alt="malaika screenshot" width="800">
