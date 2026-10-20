@@ -289,7 +289,7 @@ Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI R
 # 𖡎 see my business antera.
 <p align="center">
     <a href="https://antera.co.tz">
-        <img src="/assets/49.png" alt="ANTERA Logo" width="800">
+        <img src="/assets/tech-showcase-photoroom.png" alt="ANTERA Logo" width="800">
     </a>
 </p>
 
