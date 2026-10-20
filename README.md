@@ -269,7 +269,7 @@
     </a>
 </p>
 
-# 🚀 hire shadrack.
+# 🚀 hire shadrack today.
 
 >mwalyangashadrack@gmail.com
 
