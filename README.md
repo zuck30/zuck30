@@ -247,17 +247,25 @@
 </div>
 </div>
 
-# see malaika ai companion.
+# 𖡎 see malaika my ai companion.
 <p align="center">
     <a href="https://github.com/zuck30/Malaika">
         <img src="/assets/malaika.png" alt="Antera Core Screenshot" width="800">
     </a>
 </p>
 
-# 𖡎 see malaika ai companion.
+# 𖡎 see swahili-gpt pre-trained model from scratch.
 <p align="center">
-    <a href="https://github.com/zuck30/Malaika">
-        <img src="/assets/malaika.png" alt="malaika screenshot" width="800">
+    <a href="https://github.com/zuck30/swahili-llm-scratch">
+        <img src="/assets/swahili.png" alt="malaika screenshot" width="800">
+    </a>
+</p>
+
+
+# 𖡎 we're bootstrapping swahili-lm with Deepseek API by wrapping with prompt engineering tuned for Tanzanian context.
+<p align="center">
+    <a href="https://github.com/zuck30/swahili-llm-scratch">
+        <img src="/assets/swahiba.png" alt="malaika screenshot" width="800">
     </a>
 </p>
 
