@@ -269,15 +269,21 @@ Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI R
     </a>
 </p>
 
-
-# 𖡎 if you wanna build chat agents, you don't need to start from sracth, try bruno and use the component in your app.
+# 𖡎 if you wanna build chat agents, you don't need to start from sracth with bruno.
 <p align="center">
     <a href="https://aibruno.vercel.app/">
         <img src="/assets/bruno.png" alt="bruno screenshot" width="800">
     </a>
 </p>
+
 <p align="center">
-    <a href="https://github.com/zuck30/Bruno">GitHub Repository</a>
+    <a href="https://aibruno.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/zuck30/Bruno">
+        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+    </a>
 </p>
 
 # 🚀 hire shadrackovsky today.
