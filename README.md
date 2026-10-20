@@ -302,7 +302,7 @@ Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI R
 # 𖡎 shadrackovsky loves coffee.
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/gritty-blue.png" alt="Antera Core Screenshot" width="800">
+        <img src="/assets/gritty-blue-photoroom.png" alt="Antera Core Screenshot" width="800">
     </a>
 </p>
 
