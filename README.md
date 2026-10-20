@@ -25,7 +25,7 @@
 
 <br/>
 
-# obsessed with Karpathy, Ilya, LeCun, Andrew Ng, Bengio, Radford,Ian Goodfellow, Alex Krizhevsky, Georgi Gerganov.
+# i'm obsessed with Karpathy, Ilya, LeCun, Andrew Ng, Bengio, Radford,Ian Goodfellow, Alex Krizhevsky, Georgi Gerganov.
 
 <!-- ## 🚀 things i've built
 
