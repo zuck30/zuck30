@@ -157,10 +157,10 @@
 # 🛠 technologies i use everyday.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,js,ts,php,c,cpp,bash,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,django,js,ts,cpp,bash,html,css&perline=9"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=react,fastapi,flask,tailwind,vite&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,react,fastapi,tailwind,vite&perline=6"/>
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,sklearn,opencv&perline=3"/>
@@ -192,19 +192,19 @@
 
 <br/>
 
-# 🧠 roadmap I'm focusing.
+# 🧠 roadmap I'm focusing right now.
 
-| Area | What I'm mastering |
+| Field | What I'm mastering right now |
 |------|---------------------|
 | **GenAI & LLMs** | Fine-tuning (LoRA/QLoRA), RAG systems, Chroma vector DB, Hugging Face |
 | **Python & Data** | FastAPI, Pandas, NumPy, PyTorch, AI models and Large Dataset Trainings |
 | **Data Engineering** | SQL, data cleaning, pipelining, API integration |
 | **Cloud & DevOps** | Docker, Kurbenetes, Git|
 | **Frontend** | React, Next, Vite, Tailwind CSS, shadcn-ui |
-| **Backend** | Supabase, Django |
+| **Backend** | Supabase, Django, Springboot |
 | **Computational Finance** | Quantitative modeling, algorithmic trading, risk analysis, portfolio optimization |
 
-# 💻 my framework.
+# 💻 my learning framework.
 
 >I'm a Self taught Software Engineer, I watch tons of YouTube or Pirated Tutorials and practise, practise to build new skills.
 
