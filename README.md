@@ -269,6 +269,14 @@ Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI R
     </a>
 </p>
 
+
+# 𖡎 if you wanna build chat agents, you don't need to start from sracth with bruno.
+<p align="center">
+    <a href="https://aibruno.vercel.app/">
+        <img src="/assets/bruno.png" alt="malaika screenshot" width="800">
+    </a>
+</p>
+
 # 🚀 hire shadrackovsky today.
 
 >mwalyangashadrack@gmail.com
