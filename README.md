@@ -286,6 +286,25 @@ Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI R
     </a>
 </p>
 
+
+
+
+# 𖡎 see my business antera.
+<p align="center">
+    <a href="https://antera.co.tz">
+        <img src="/assets/anteralogo.png" alt="ANTERA Logo" width="800">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://antera.co.tz">
+        <img src="https://img.shields.io/badge/Visit_ANTERA-000000?style=for-the-badge&logoColor=white" alt="Visit ANTERA">
+    </a>
+</p>
+
+
+
+
 # 🚀 hire shadrackovsky today.
 
 >mwalyangashadrack@gmail.com
