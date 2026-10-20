@@ -269,7 +269,7 @@ Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI R
     </a>
 </p>
 
-# 𖡎 if you wanna build chat agents, you don't need to start from sracth. try bruno and integrate the component in your app.
+# 𖡎 if you wanna build chat agents, you don't need to start from sracth. try bruno and re-use the component in your app.
 <p align="center">
     <a href="https://aibruno.vercel.app/">
         <img src="/assets/bruno-photoroom.png" alt="bruno screenshot" width="800">
