@@ -247,6 +247,20 @@
 </div>
 </div>
 
+# see malaika ai companion.
+<p align="center">
+    <a href="https://github.com/zuck30/Malaika">
+        <img src="/assets/malaika.png" alt="Antera Core Screenshot" width="800">
+    </a>
+</p>
+
+# 𖡎 see malaika ai companion.
+<p align="center">
+    <a href="https://github.com/zuck30/Malaika">
+        <img src="/assets/malaika.png" alt="malaika screenshot" width="800">
+    </a>
+</p>
+
 # 🚀 hire me.
 
 >mwalyangashadrack@gmail.com
