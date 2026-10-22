@@ -1,4 +1,10 @@
 
+<p align="center">
+    <a href="https://github.com/zuck30/Malaika">
+        <img src="/src/header.png" alt="Antera Core Screenshot" width="800">
+    </a>
+</p>
+
 <!-- <p align="center">
     <img src="/images/shadrackovsky.png" alt="zuck30" width="800">
 </p> -->
@@ -18,7 +24,7 @@
 
 <span style="font-size: 2.5rem; line-height: 1.6;">
 
-Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI Researcher</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey fueled by long nights, insatiable curiosity, and a genuine love for understanding how things work.
+Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI / ML</strong> , <strong>Software and Data Engineer</strong> from Tanzania, doing Web Applications Development, Machine Learning, and AI Integration. I didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (Second-hand Old Elitebook) when I joined college. I've built this journey fueled by tiring,long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
  </span>
 
 </p>
@@ -269,7 +275,7 @@ Hello 👋 . I'm Shadrackovsky Timothy John, I am an aspiring young <strong>AI R
     </a>
 </p>
 
-# 𖡎 if you wanna build chat agents, you don't need to start from sracth. try bruno and re-use the component in your app.
+# 𖡎 if you wanna build chat agents, you don't need to start from scratch. try bruno and re-use the component in your app.
 <p align="center">
     <a href="https://aibruno.vercel.app/">
         <img src="/assets/bruno-photoroom.png" alt="bruno screenshot" width="800">
