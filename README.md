@@ -291,6 +291,14 @@ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young <strong>ai / m
     </a>
 </p>
 
+# 𖡎 shadrackovsky is also a co-creator of smarbo digital. smarbo digital is a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.
+<p align="center">
+    <a href="https://smarbodigital.co.tz">
+        <img src="/assets/smarbo-digital.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
 # 𖡎 see my business antera.
 <p align="center">
     <a href="https://antera.co.tz">
