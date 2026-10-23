@@ -14,13 +14,13 @@
 
 </div>
 
-# hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai / ml** and **software engineer** from tanzania, doing web applications development, machine learning, and building systems around frontier models.
+# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai / ml** and **software engineer** from tanzania, doing web applications development, machine learning, and building systems around frontier models.
 
-# i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
+# ✌︎㋡ i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
 
-# i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
+# ✌︎㋡ i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
 
-# i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
+# ✌︎㋡ i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
 
 # 🛠 technologies i use everyday.
 
