@@ -53,7 +53,7 @@
 
 # i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.
 
-# 🎮 my desk  gadgets.
+# 🎮 my desk setup gadgets.
 
 <table>
 <tr>
