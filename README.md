@@ -23,7 +23,7 @@
 
 <span style="font-size: 2.5rem; line-height: 1.6;">
 
-hello 👋 i'm shadrackovsky timothy john, i am an aspiring young <strong>ai / ml</strong> , <strong>software and data engineer</strong> from tanzania, doing web applications development, machine learning, and ai integration. i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college. i've built this journey fueled by tiring,long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
+hello 👋 i'm shadrackovsky timothy john, i am an aspiring young <strong>ai / ml</strong> and <strong>software engineer</strong> from tanzania, doing web applications development, machine learning, and building systems around frontier models. i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college. i've built this journey fueled by tiring,long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
  </span>
 
 </p>
