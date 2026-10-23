@@ -14,7 +14,7 @@
 
 </div>
 
-# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai / ml** and **software engineer** from tanzania, doing web applications development, machine learning, and building systems around frontier models.
+# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai - ml** and **software engineer** from tanzania, doing web applications development, machine learning, and building systems around frontier models.
 
 # ✌︎㋡ i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
 
