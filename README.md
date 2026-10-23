@@ -51,7 +51,7 @@
 
 # 💻 my learning framework.
 
-# i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.
+# i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.![alt text](49.png)
 
 # 🎮 my desk setup gadgets.
 
@@ -91,7 +91,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30/Malaika">
-        <img src="/assets/malaika.png" alt="antera core screenshot" width="800">
+        <img src="/assets/malaika.png" alt="malaika screenshot" width="800">
     </a>
 </p>
 
@@ -99,7 +99,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30/swahili-llm-scratch">
-        <img src="/assets/swahili.png" alt="malaika screenshot" width="800">
+        <img src="/assets/swahili.png" alt="swahili lm screenshot" width="800">
     </a>
 </p>
 
@@ -142,6 +142,7 @@
 <p align="center">
     <a href="https://antera.co.tz">
         <img src="/assets/tech-showcase-photoroom.png" alt="antera logo" width="800">
+        <img src="/assets/antera.jpeg" alt="antera logo" width="800">
     </a>
 </p>
 
