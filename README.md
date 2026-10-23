@@ -53,7 +53,7 @@
 
 # i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.
 
-# 🎮 my desk setup.
+# 🎮 my desk  gadgets.
 
 <table>
 <tr>
@@ -142,12 +142,6 @@
 <p align="center">
     <a href="https://antera.co.tz">
         <img src="/assets/tech-showcase-photoroom.png" alt="antera logo" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://antera.co.tz">
-        <img src="https://img.shields.io/badge/Visit_ANTERA-000000?style=for-the-badge&logoColor=white" alt="visit antera">
     </a>
 </p>
 
