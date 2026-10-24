@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/zuck30/Malaika">
-        <img src="/src/header.png" alt="antera core screenshot" width="800">
+    <a href="https://github.com/zuck30">
+        <img src="/src/header.png" alt="header banner" width="800">
     </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai / ml** and **software engineer** from tanzania, doing web applications development, machine learning, and building systems around frontier models.
+# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai - ml** and **software engineer** from tanzania, doing web applications development, machine learning, and building systems around frontier models.
 
 # ✌︎㋡ i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
 
@@ -51,7 +51,40 @@
 
 # 💻 my learning framework.
 
-# i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.![alt text](49.png)
+# i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.
+
+<p align="center">
+        <img src="/assets/laptop.png" alt="laptop" width="800">
+</p>
+
+
+# 𖡎 i love to craft, build, develop fast software and clean, with unique taste interfaces that actually work. this is how i love to approach software development. 
+
+<p align="center">
+        <img src="/assets/building-a-software.png" alt="building a software" width="800">
+</p>
+
+
+# 𖡎 this is artificial intelligence in tanzania that i created.
+
+<p align="center">
+        <img src="/assets/mind-map-0.png" alt="mind map" width="800">
+</p>
+
+# 𖡎 an ode to implementing data and ai solutions in tanzania.
+
+<p align="center">
+        <img src="/assets/mind-map-1.png" alt="mind map" width="800">
+</p>
+
+
+
+# 𖡎 this is my rubber duck for rubber duck debugging. 
+
+<p align="center">
+        <img src="/assets/rubber-duck-bnw.png" alt="rubber duck" width="800">
+</p>
+
 
 # 🎮 my desk setup gadgets.
 
@@ -137,23 +170,111 @@
     </a>
 </p>
 
+# 𖡎 know who is coming.
+
+<p align="center">
+    <a href="https://smarbodigital.co.tz">
+        <img src="/assets/smarbo-digital-1.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# 𖡎 know who has paid.
+
+<p align="center">
+    <a href="https://smarbodigital.co.tz">
+        <img src="/assets/smarbo-digital-2.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# 𖡎 talk to bongegpt.
+
+<p align="center">
+    <a href="https://smarbodigital.co.tz">
+        <img src="/assets/smarbo-digital-4.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# 𖡎 you can set it up in no time or talk to our team.
+
+<p align="center">
+    <a href="https://smarbodigital.co.tz">
+        <img src="/assets/smarbo-digital-3.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# 𖡎 garuda is my favorite linux distro. i use arch by the way.
+
+<p align="center">
+        <img src="/assets/garuda.png" alt="antera logo" width="800">
+        <img src="/assets/garuda-1.png" alt="antera logo" width="800">
+</p>
+
+# 𖡎 my favorite country artists. Morgan Wallen.
+
+<p align="center">
+    <a href="https://morganwallen.com">
+        <img src="/assets/morgan-wallen.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+# 𖡎 my favorite country artists. Luke Combs.
+
+<p align="center">
+    <a href="https://lukecombs.com">
+        <img src="/assets/luke-combs.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# 𖡎 my favorite keyboard is epomaker x aula f75
+
+<p align="center">
+        <img src="/assets/IMG-1.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/IMG-2.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/IMG-3.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/IMG-4.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/IMG-5.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/IMG-6.png" alt="antera logo" width="800">
+</p>
+
+
 # 𖡎 see my business antera.
 
 <p align="center">
     <a href="https://antera.co.tz">
         <img src="/assets/tech-showcase-photoroom.png" alt="antera logo" width="800">
-        <img src="/assets/antera.jpeg" alt="antera logo" width="800">
+        <img src="/assets/antera.png" alt="antera logo" width="800">
     </a>
 </p>
 
-# 𖡎 shadrackovsky loves coffee.
+# 𖡎 shadrackovsky loves coffee and chess.
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/gritty-blue-photoroom.png" alt="antera core screenshot" width="800">
+        <img src="/assets/gritty-blue-photoroom.png" alt="zuck30" width="800">
+         <img src="/assets/chessboard.png" alt="chess" width="800">
     </a>
 </p>
 
 # 🚀 hire shadrackovsky today.
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/setup.png" alt="zuck30" width="800">
+    </a>
+</p>
 
 # mwalyangashadrack@gmail.com
