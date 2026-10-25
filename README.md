@@ -139,7 +139,7 @@
 # 𖡎 we're bootstrapping swahili-lm with deepseek api by wrapping with prompt engineering tuned for tanzanian context.
 
 <p align="center">
-    <a href="https://github.com/zuck30/swahili-llm-scratch">
+    <a href="https://github.com/zuck30/SWAHIBA">
         <img src="/assets/swahiba.png" alt="malaika screenshot" width="800">
     </a>
 </p>
