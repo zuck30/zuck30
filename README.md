@@ -213,6 +213,15 @@
         <img src="/assets/garuda-1.png" alt="antera logo" width="800">
 </p>
 
+# 𖡎 my favorite country artists. chris stapleton.
+
+<p align="center">
+    <a href="https://chrisstapleton.com/">
+        <img src="/assets/chris-stapleton.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
 # 𖡎 my favorite country artists. morgan wallen.
 
 <p align="center">
