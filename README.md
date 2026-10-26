@@ -65,7 +65,7 @@
 </p>
 
 
-# 𖡎 this is artificial intelligence in tanzania that i created.
+# 𖡎 this is artificial intelligence mind map in tanzania that i created.
 
 <p align="center">
         <img src="/assets/mind-map-0.png" alt="mind map" width="800">
