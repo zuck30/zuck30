@@ -112,7 +112,7 @@
 
 # 🤝 currently looking for.
 
-# open for freelance contracts in ai/ml and full-stack, open-source ai collaborations, remote engineering roles.
+# open for freelance contracts in ai/ml and web development, open-source ai collaborations, remote software engineering roles.
 
 # 🎸 my recently playing music.
 
@@ -213,7 +213,7 @@
         <img src="/assets/garuda-1.png" alt="antera logo" width="800">
 </p>
 
-# 𖡎 my favorite country artists. Morgan Wallen.
+# 𖡎 my favorite country artists. morgan wallen.
 
 <p align="center">
     <a href="https://morganwallen.com">
@@ -221,7 +221,7 @@
     </a>
 </p>
 
-# 𖡎 my favorite country artists. Luke Combs.
+# 𖡎 my favorite country artists. luke combs.
 
 <p align="center">
     <a href="https://lukecombs.com">
