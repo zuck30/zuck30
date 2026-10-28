@@ -287,10 +287,12 @@
 
 # 𖡎 see my business antera.
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://antera.co.tz">
-        <img src="/assets/tech-showcase-photoroom.png" alt="antera logo" width="800">
-        <img src="/assets/antera.png" alt="antera logo" width="800">
+        <img src="/assets/tech-showcase-photoroom.png" alt="antera logo" width="400">
+    </a>
+    <a href="https://antera.co.tz">
+        <img src="/assets/antera.png" alt="antera logo" width="400">
     </a>
 </p>
 
