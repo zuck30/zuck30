@@ -215,7 +215,7 @@
 
 # 𖡎 my favorite country artists. chris stapleton.
 
-<p align="center">
+<p align="center">g
     <a href="https://chrisstapleton.com/">
         <img src="/assets/chris-stapleton.png" alt="antera logo" width="800">
     </a>
@@ -235,6 +235,14 @@
 <p align="center">
     <a href="https://lukecombs.com">
         <img src="/assets/luke-combs.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+# 𖡎 my favorite country artists. luke combs.
+
+<p align="center">
+    <a href="https://www.jacksondeanmusic.com/">
+        <img src="/assets/jackson-dean.png" alt="antera logo" width="800">
     </a>
 </p>
 
