@@ -238,7 +238,7 @@
     </a>
 </p>
 
-# 𖡎 my favorite country artists. luke combs.
+# 𖡎 my favorite country artists. jackson dean.
 
 <p align="center">
     <a href="https://www.jacksondeanmusic.com/">
