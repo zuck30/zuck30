@@ -1,11 +1,5 @@
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/night.png" alt="header banner" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/zuck30">
         <img src="/src/header.png" alt="header banner" width="800">
     </a>
 </p>
