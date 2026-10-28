@@ -247,7 +247,23 @@
 </p>
 
 
-# 𖡎 my favorite keyboard is epomaker x aula f75
+# 𖡎 my first favorite keyboard is logitech g213 prodigy.
+
+<p align="center">
+        <img src="/assets/g213-gallery-1-nb.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/g213-gallery-2-nb.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/g213-gallery-3-nb.png" alt="antera logo" width="800">
+</p>
+<p align="center">
+        <img src="/assets/g213-gallery-4-nb.png" alt="antera logo" width="800">
+</p>
+
+
+# 𖡎 my second favorite keyboard is epomaker x aula f75
 
 <p align="center">
         <img src="/assets/IMG-1.png" alt="antera logo" width="800">
@@ -278,14 +294,14 @@
     </a>
 </p>
 
-# 𖡎 shadrackovsky loves coffee and chess.
+<!-- # 𖡎 shadrackovsky loves coffee and chess.
 
 <p align="center">
     <a href="https://github.com/zuck30">
         <img src="/assets/gritty-blue-photoroom.png" alt="zuck30" width="800">
          <img src="/assets/chessboard.png" alt="chess" width="800">
     </a>
-</p>
+</p> -->
 
 # 🚀 hire shadrackovsky today.
 <p align="center">
