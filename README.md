@@ -213,12 +213,24 @@
     </a>
 </p>
 
+# 🙌 mac os tahoe 26 is my favorite os. the hardware integration is genuinely absurd.
 
-# 🙌 garuda is my favorite linux distro. i use arch by the way.
+<p align="center">
+        <img src="/assets/garuda.png" alt="antera logo" width="800">
+</p>
+
+# 🙌 garuda-linux is my first favorite linux distro. i use arch by the way.
 
 <p align="center">
         <img src="/assets/garuda.png" alt="antera logo" width="800">
         <img src="/assets/garuda-1.png" alt="antera logo" width="800">
+</p>
+
+
+# 🙌 kubuntu is my second favorite linux distro. it just works with kde.
+
+<p align="center">
+        <img src="/assets/kubuntu.png" alt="antera logo" width="800">
 </p>
 
 # 🎷 my favorite country artists. chris stapleton.
