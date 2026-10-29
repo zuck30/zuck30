@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/src/header-1.png" alt="header banner" width="800">
-    </a>
-</p>
-
 <div align="center">
 
 [![](https://img.shields.io/badge/me-sheddysilicon.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddysilicon.netlify.app)
@@ -13,6 +7,13 @@
 [![](https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30&color=58a6ff&labelColor=0d1117)](https://github.com/zuck30)
 
 </div>
+
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/src/header-1.png" alt="header banner" width="800">
+    </a>
+</p>
+
 
 # ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai - ml** and **software engineer** from tanzania 🤓🇹🇿, doing web applications development, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
 
@@ -24,11 +25,11 @@
 
 # 🛠 technologies i use everyday.
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/zuck30">
         <img src="/src/header.png" alt="header banner" width="800">
     </a>
-</p>
+</p> -->
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,js,ts,cpp,bash,html,css&perline=9"/>
