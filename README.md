@@ -79,7 +79,7 @@
 
 
 
-# 𖡎 this is my rubber duck for rubber duck debugging. 
+# 🦆 this is my rubber duck for rubber duck debugging. 
 
 <p align="center">
         <img src="/assets/rubber-duck-bnw.png" alt="rubber duck" width="800">
@@ -162,7 +162,7 @@
     </a>
 </p>
 
-# 𖡎 shadrackovsky is also a co-creator of smarbo digital. smarbo digital is a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.
+# 🪐 shadrackovsky is also a co-creator of smarbo digital. smarbo digital is a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -170,7 +170,7 @@
     </a>
 </p>
 
-# 𖡎 know who is coming.
+# 🏆 know who is coming.
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -179,7 +179,7 @@
 </p>
 
 
-# 𖡎 know who has paid.
+# 💵 know who has paid.
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -188,7 +188,7 @@
 </p>
 
 
-# 𖡎 talk to bongegpt.
+# 🤖 talk to bongegpt.
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -197,7 +197,7 @@
 </p>
 
 
-# 𖡎 you can set it up in no time or talk to our team.
+# ⌛ you can set it up in no time or talk to our team.
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -206,14 +206,14 @@
 </p>
 
 
-# 𖡎 garuda is my favorite linux distro. i use arch by the way.
+# 🙌 garuda is my favorite linux distro. i use arch by the way.
 
 <p align="center">
         <img src="/assets/garuda.png" alt="antera logo" width="800">
         <img src="/assets/garuda-1.png" alt="antera logo" width="800">
 </p>
 
-# 𖡎 my favorite country artists. chris stapleton.
+# 🎷 my favorite country artists. chris stapleton.
 
 <p align="center">g
     <a href="https://chrisstapleton.com/">
@@ -222,7 +222,7 @@
 </p>
 
 
-# 𖡎 my favorite country artists. morgan wallen.
+# 🎸 my favorite country artists. morgan wallen.
 
 <p align="center">
     <a href="https://morganwallen.com">
@@ -230,7 +230,7 @@
     </a>
 </p>
 
-# 𖡎 my favorite country artists. luke combs.
+# 🎧 my favorite country artists. luke combs.
 
 <p align="center">
     <a href="https://lukecombs.com">
@@ -238,7 +238,7 @@
     </a>
 </p>
 
-# 𖡎 my favorite country artists. jackson dean.
+# 🎻 my favorite country artists. jackson dean.
 
 <p align="center">
     <a href="https://www.jacksondeanmusic.com/">
@@ -247,7 +247,7 @@
 </p>
 
 
-# 𖡎 my first favorite keyboard is logitech g213 prodigy.
+# ⌨️ my first favorite keyboard is logitech g213 prodigy.
 
 <p align="center">
         <img src="/assets/g213-gallery-1-nb.png" alt="antera logo" width="800">
@@ -263,7 +263,7 @@
 </p>
 
 
-# 𖡎 my second favorite keyboard is epomaker x aula f75
+# ⌨️ my second favorite keyboard is epomaker x aula f75
 
 <p align="center">
         <img src="/assets/IMG-1.png" alt="antera logo" width="800">
@@ -285,7 +285,7 @@
 </p>
 
 
-# 𖡎 see my business antera.
+# 💼 see my business antera.
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://antera.co.tz">
@@ -305,7 +305,7 @@
     </a>
 </p> -->
 
-# 🚀 hire shadrackovsky today.
+# 💻 hire shadrackovsky today.
 <p align="center">
     <a href="https://github.com/zuck30">
         <img src="/assets/setup.png" alt="zuck30" width="800">
