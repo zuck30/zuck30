@@ -90,7 +90,7 @@
 # 🦆 this is my rubber duck for rubber duck debugging. 
 
 <p align="center">
-        <img src="/assets/rubber-duck-bnw.png" alt="rubber duck" width="800">
+        <img src="/assets/duck.png" alt="rubber duck" width="800">
 </p>
 
 
