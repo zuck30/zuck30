@@ -223,6 +223,12 @@
 
 <p align="center">
         <img src="/assets/garuda.png" alt="antera logo" width="800">
+</p>
+
+
+# 🙌 the agrressive performance tuning is unmatched , instant access to any oftware that i want and btrfs has saved me from a lot of trouble.
+
+<p align="center">
         <img src="/assets/garuda-1.png" alt="antera logo" width="800">
 </p>
 
