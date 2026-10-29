@@ -14,7 +14,7 @@
 
 </div>
 
-# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai - ml** and **software engineer** from tanzania, doing web applications development, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
+# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring young **ai - ml** and **software engineer** from tanzania 🤓🇹🇿, doing web applications development, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
 
 # ✌︎㋡ i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
 
@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,git,github,gitlab,supabase,docker,githubactions,linux,arduino,vscode,npm,notion,vercel,netlify&perline=8"/>
 </p>
 
-# 🧠 roadmap i'm focusing right now.
+# 💡👾 roadmap i'm focusing right now.
 
 | field | what i'm mastering right now |
 |------|---------------------|
