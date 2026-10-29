@@ -216,7 +216,7 @@
 # 🙌 mac os tahoe 26 is my favorite os. the hardware integration is genuinely absurd.
 
 <p align="center">
-        <img src="/assets/garuda.png" alt="antera logo" width="800">
+        <img src="/assets/mac-os.png" alt="antera logo" width="800">
 </p>
 
 # 🙌 garuda-linux is my first favorite linux distro. i use arch by the way.
