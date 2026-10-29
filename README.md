@@ -24,6 +24,12 @@
 
 # 🛠 technologies i use everyday.
 
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/src/header.png" alt="header banner" width="800">
+    </a>
+</p>
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,js,ts,cpp,bash,html,css&perline=9"/>
 </p>
