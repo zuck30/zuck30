@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/src/header-1.png" alt="header banner" width="800">
+        <img src="/src/header.png" alt="header banner" width="800">
     </a>
 </p>
 
