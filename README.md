@@ -219,7 +219,7 @@
         <img src="/assets/mac-os.png" alt="antera logo" width="800">
 </p>
 
-# 🙌 garuda-linux dragonized edition is my first favorite linux distro. i use arch by the way.
+# 🙌 garuda-linux dragonized gaming edition is my first favorite linux distro. i use arch by the way.
 
 <p align="center">
         <img src="/assets/garuda.png" alt="antera logo" width="800">
