@@ -128,8 +128,8 @@
 
 # 🎸 my recently playing music.
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width=900&height=80&radius=0" />
+<div align="center" style="border-radius: 0;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&width=900&height=80&radius=0" style="border-radius: 0;" />
 </div>
 
 # 𖡎 see malaika my ai companion.
