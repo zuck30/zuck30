@@ -65,6 +65,10 @@
         <img src="/assets/laptop.png" alt="laptop" width="800">
 </p>
 
+<p align="center">
+        <img src="/assets/setapu-photoroom.png" alt="laptop" width="800">
+</p>
+
 
 # 𖡎 i love to craft, build, develop fast software and clean, with unique taste interfaces that actually work. this is how i love to approach software development. 
 
@@ -90,7 +94,7 @@
 # 🦆 this is my rubber duck for rubber duck debugging. 
 
 <p align="center">
-        <img src="/assets/duck.png" alt="rubber duck" width="800">
+        <img src="/assets/duck-photorom.png" alt="rubber duck" width="800">
 </p>
 
 
@@ -332,6 +336,7 @@
 </p> -->
 
 # 💻 hire shadrackovsky today.
+
 <p align="center">
     <a href="https://github.com/zuck30">
         <img src="/assets/setup.png" alt="zuck30" width="800">
