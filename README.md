@@ -377,9 +377,6 @@
     <a href="https://github.com/zuck30">
         <img src="/assets/sauti-1.png" alt="antera logo" width="800">
     </a>
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-2.png" alt="antera logo" width="800">
-    </a>
 </p>
 
 
