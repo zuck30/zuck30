@@ -382,12 +382,20 @@
 
 # 𖡎 shadrackovsky loves coffee and chess.
 
-<p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/images/chessboard.png" alt="zuck30" width="800">
-         <img src="/assets/mug.png" alt="chess" width="400">
-    </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://github.com/zuck30">
+        <img src="/images/chessboard.png" alt="chessboard" width="400">
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://github.com/zuck30">
+        <img src="/assets/mug.png" alt="coffee mug" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 💻 hire shadrackovsky today.
 
