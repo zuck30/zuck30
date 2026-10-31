@@ -386,13 +386,15 @@
   <tr>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://github.com/zuck30">
-        <img src="/images/chessboard.png" alt="chessboard" width="400">
+        <img src="/images/chessboard.png" alt="chess" width="400">
       </a>
+      <p align="center"><strong>chess</strong></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://github.com/zuck30">
-        <img src="/assets/mug.png" alt="coffee mug" width="400">
+        <img src="/assets/mug.png" alt="coffee" width="400">
       </a>
+      <p align="center"><strong>coffee</strong></p>
     </td>
   </tr>
 </table>
