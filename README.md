@@ -217,6 +217,16 @@
     </a>
 </p>
 
+
+
+# ⌛ login and create your smarbo digital account today.
+
+<p align="center">
+    <a href="https://smarbodigital.co.tz/login">
+        <img src="/assets/smarbo-sign-in.png" alt="antera logo" width="800">
+    </a>
+</p>
+
 # 🙌 mac os tahoe 26 is my favorite os. the hardware integration is genuinely absurd.
 
 <p align="center">
@@ -326,14 +336,44 @@
     </a>
 </p>
 
-<!-- # 𖡎 shadrackovsky loves coffee and chess.
+
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <a href="https://antera.co.tz">
+        <img src="/assets/moja.png" alt="antera logo" width="400">
+    </a>
+    <a href="https://antera.co.tz">
+        <img src="/assets/moja-1.png" alt="antera logo" width="400">
+    </a>
+</p>
+
+# 💻 what is shadrackovsky building right now?
+
+# ⌛ What i'm currently building. cvchapu ai. cvchapu is an ai-powered platform that helps you build professional, ats-friendly cvs, analyze your skill gaps, and track your career progress in one simple dashboard.
+
+<p align="center">
+    <a href="https://cvchapu.co.tz">
+        <img src="/assets/chapu.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# ⌛ What i'm currently building. cvchapu ai. cvchapu is an ai-powered platform that helps you build professional, ats-friendly cvs, analyze your skill gaps, and track your career progress in one simple dashboard.
+
+<p align="center">
+    <a href="https://cvchapu.co.tz">
+        <img src="/assets/chapu.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# 𖡎 shadrackovsky loves coffee and chess.
 
 <p align="center">
     <a href="https://github.com/zuck30">
         <img src="/assets/gritty-blue-photoroom.png" alt="zuck30" width="800">
          <img src="/assets/chessboard.png" alt="chess" width="800">
     </a>
-</p> -->
+</p>
 
 # 💻 hire shadrackovsky today.
 
