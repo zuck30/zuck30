@@ -362,7 +362,7 @@
 
 # 💻 what is shadrackovsky building right now?
 
-# ⌛ What i'm currently building. cvchapu ai. cvchapu is an ai-powered platform that helps you build professional, ats-friendly cvs, analyze your skill gaps, and track your career progress in one simple dashboard.
+# ⌛ cvchapu ai. cvchapu is an ai-powered platform that helps you build professional, ats-friendly cvs, analyze your skill gaps, and track your career progress in one simple dashboard.
 
 <p align="center">
     <a href="https://cvchapu.co.tz">
