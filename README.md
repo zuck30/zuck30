@@ -394,7 +394,7 @@
       <a href="https://github.com/zuck30">
         <img src="/assets/mug.png" alt="coffee" width="400">
       </a>
-      <p align="center"><strong>my coffee mug</strong></p>
+      <p align="center"><strong>my coffee mug.</strong></p>
     </td>
   </tr>
 </table>
