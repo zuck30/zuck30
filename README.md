@@ -388,13 +388,13 @@
       <a href="https://github.com/zuck30">
         <img src="/images/chessboard.png" alt="chess" width="400">
       </a>
-      <p align="center"><strong>chess</strong></p>
+      <p align="center"><strong>my wooden chess board.</strong></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://github.com/zuck30">
         <img src="/assets/mug.png" alt="coffee" width="400">
       </a>
-      <p align="center"><strong>coffee</strong></p>
+      <p align="center"><strong>my coffee mug</strong></p>
     </td>
   </tr>
 </table>
