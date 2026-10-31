@@ -327,24 +327,32 @@
 
 # 💼 see my business antera.
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://antera.co.tz">
+<table align="center">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://antera.co.tz">
         <img src="/assets/tech-showcase-photoroom.png" alt="antera logo" width="400">
-    </a>
-    <a href="https://antera.co.tz">
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://antera.co.tz">
         <img src="/assets/antera.png" alt="antera logo" width="400">
-    </a>
-</p>
-
-
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://antera.co.tz">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://antera.co.tz">
         <img src="/assets/moja.png" alt="antera logo" width="400">
-    </a>
-    <a href="https://antera.co.tz">
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://antera.co.tz">
         <img src="/assets/moja-1.png" alt="antera logo" width="400">
-    </a>
-</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 💻 what is shadrackovsky building right now?
 
