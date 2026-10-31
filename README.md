@@ -384,7 +384,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/chess.png" alt="zuck30" width="800">
+        <img src="/images/chessboard.png" alt="zuck30" width="800">
          <img src="/assets/mug.png" alt="chess" width="400">
     </a>
 </p>
