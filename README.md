@@ -253,38 +253,38 @@
         <img src="/assets/kubuntu.png" alt="antera logo" width="800">
 </p>
 
-# 🎷 my favorite country artists. chris stapleton.
+# 🤠 my favorite country artists.
 
-<p align="center">
-    <a href="https://chrisstapleton.com/">
-        <img src="/assets/chris-stapleton.png" alt="antera logo" width="800">
-    </a>
-</p>
-
-
-# 🎸 my favorite country artists. morgan wallen.
-
-<p align="center">
-    <a href="https://morganwallen.com">
-        <img src="/assets/morgan-wallen.png" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 🎧 my favorite country artists. luke combs.
-
-<p align="center">
-    <a href="https://lukecombs.com">
-        <img src="/assets/luke-combs.png" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 🎻 my favorite country artists. jackson dean.
-
-<p align="center">
-    <a href="https://www.jacksondeanmusic.com/">
-        <img src="/assets/jackson-dean.png" alt="antera logo" width="800">
-    </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://chrisstapleton.com/">
+        <img src="/assets/chris-stapleton.png" alt="chris stapleton" width="400">
+      </a>
+      <p align="center"><b>🎷 chris stapleton</b></p>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://morganwallen.com">
+        <img src="/assets/morgan-wallen.png" alt="morgan wallen" width="400">
+      </a>
+      <p align="center"><b>🎸 morgan wallen</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://lukecombs.com">
+        <img src="/assets/luke-combs.png" alt="luke combs" width="400">
+      </a>
+      <p align="center"><b>🎧 luke combs</b></p>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://www.jacksondeanmusic.com/">
+        <img src="/assets/jackson-dean.png" alt="jackson dean" width="400">
+      </a>
+      <p align="center"><b>🎻 jackson dean</b></p>
+    </td>
+  </tr>
+</table>
 
 
 # ⌨️ my first favorite keyboard is logitech g213 prodigy.
