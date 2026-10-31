@@ -289,18 +289,24 @@
 
 # ⌨️ my first favorite keyboard is logitech g213 prodigy.
 
-<p align="center">
-        <img src="/assets/g213-gallery-1-nb.png" alt="antera logo" width="800">
-</p>
-<p align="center">
-        <img src="/assets/g213-gallery-2-nb.png" alt="antera logo" width="800">
-</p>
-<p align="center">
-        <img src="/assets/g213-gallery-3-nb.png" alt="antera logo" width="800">
-</p>
-<p align="center">
-        <img src="/assets/g213-gallery-4-nb.png" alt="antera logo" width="800">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="/assets/g213-gallery-1-nb.png" alt="Logitech G213 Gallery 1" width="400">
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="/assets/g213-gallery-2-nb.png" alt="Logitech G213 Gallery 2" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="/assets/g213-gallery-3-nb.png" alt="Logitech G213 Gallery 3" width="400">
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="/assets/g213-gallery-4-nb.png" alt="Logitech G213 Gallery 4" width="400">
+    </td>
+  </tr>
+</table>
 
 
 # ⌨️ my second favorite keyboard is epomaker x aula f75
