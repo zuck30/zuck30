@@ -371,11 +371,14 @@
 </p>
 
 
-# ⌛ What i'm currently building. cvchapu ai. cvchapu is an ai-powered platform that helps you build professional, ats-friendly cvs, analyze your skill gaps, and track your career progress in one simple dashboard.
+# ⌛ sauti connect. it's is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
 
 <p align="center">
-    <a href="https://cvchapu.co.tz">
-        <img src="/assets/chapu.png" alt="antera logo" width="800">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/sauti-1.png" alt="antera logo" width="800">
+    </a>
+    <a href="https://github.com/zuck30">
+        <img src="/assets/sauti-2.png" alt="antera logo" width="800">
     </a>
 </p>
 
