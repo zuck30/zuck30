@@ -384,8 +384,8 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/gritty-blue-photoroom.png" alt="zuck30" width="800">
-         <img src="/assets/chessboard.png" alt="chess" width="800">
+        <img src="/assets/chessboard.png" alt="zuck30" width="800">
+         <img src="/assets/mug.png" alt="chess" width="800">
     </a>
 </p>
 
