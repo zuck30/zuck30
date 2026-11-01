@@ -380,6 +380,15 @@
 </p>
 
 
+# ⌛ pimafarm. it's a smart farming platform. think of pimafarm like a helper that watches your farm for you. it sees how your tractors and machines are working, and tells you simple things you can do to make things better.
+
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/pima.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+
 # 𖡎 shadrackovsky loves coffee and chess.
 
 <table align="center">
