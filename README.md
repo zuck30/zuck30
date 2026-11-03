@@ -178,6 +178,12 @@
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
+        <img src="/assets/smarbo-digital-5.png" alt="antera logo" width="800">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://smarbodigital.co.tz">
         <img src="/assets/smarbo-digital.png" alt="antera logo" width="800">
     </a>
 </p>
@@ -407,6 +413,33 @@
     </td>
   </tr>
 </table>
+
+
+
+# 💻 tools that i prefer are deepseek, opencode, qwen or anything chinese and a bit of claude code (deepseek api billing).
+
+# qwen code.
+
+<p align="center">
+        <img src="/assets/qwen.png" alt="zuck30" width="800">
+</p>
+
+# opencode.
+
+<p align="center">
+        <img src="/assets/opencode.png" alt="zuck30" width="800">
+</p>
+
+
+# claude code.
+
+<p align="center">
+        <img src="/assets/claude.png" alt="zuck30" width="800">
+</p>
+
+
+
+
 
 # 💻 hire shadrackovsky today.
 
