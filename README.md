@@ -432,7 +432,13 @@
 </p>
 
 
+# 💻 if you want to book a safari, please checkout to: blacksandadventures
 
+<p align="center">
+    <a href="https://blacksandadventures.com/">
+        <img src="/assets/blacksand.png" alt="zuck30" width="800">
+    </a>
+</p>
 
 
 # 💻 hire shadrackovsky today.
