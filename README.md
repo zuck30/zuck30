@@ -176,7 +176,7 @@
 
 # 🪐 shadrackovsky is also a co-creator of smarbo digital. smarbo digital is a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.
 
-🏆 know who is coming
+# 🏆 know who's coming. 
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -184,6 +184,7 @@
     </a>
 </p>
 
+# 🏆 see what's happening days before your event.
 <p align="center">
     <a href="https://smarbodigital.co.tz">
         <img src="/assets/smarbo-digital.png" alt="antera logo" width="800">
