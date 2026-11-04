@@ -55,6 +55,7 @@
 | **cloud & devops** | docker, kurbenetes, git |
 | **frontend** | react, next, vite, tailwind css, shadcn-ui |
 | **backend** | supabase, django, springboot |
+| **desktop applications** | tauri, electron, pyqt, tkinter, wpf |
 | **computational finance** | quantitative modeling, algorithmic trading, risk analysis, portfolio optimization |
 
 # 💻 my learning framework.
