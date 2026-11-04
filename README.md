@@ -141,7 +141,7 @@
     </a>
 </p>
 
-# 𖡎 see swahili-gpt pre-trained model trained from scratch.
+# 𖡎 see swahili-gpt. a swahili language model i pre-trained from scratch.
 
 <p align="center">
     <a href="https://github.com/zuck30/swahili-llm-scratch">
