@@ -412,20 +412,20 @@
 
 # 💻 tools that i prefer are deepseek, opencode, qwen or anything chinese and a bit of claude code (deepseek api billing).
 
-# qwen code.
+# qwen code - with deepseek api.
 
 <p align="center">
         <img src="/assets/qwen.png" alt="zuck30" width="800">
 </p>
 
-# opencode.
+# opencode - with deepseek api.
 
 <p align="center">
         <img src="/assets/opencode.png" alt="zuck30" width="800">
 </p>
 
 
-# claude code.
+# claude code - with deepseek api.
 
 <p align="center">
         <img src="/assets/claude.png" alt="zuck30" width="800">
