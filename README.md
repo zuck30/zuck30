@@ -425,12 +425,11 @@
 </p>
 
 
-# claude code - with deepseek api.
+# kilocode - with deepseek api.
 
 <p align="center">
-        <img src="/assets/claude.png" alt="zuck30" width="800">
+        <img src="/assets/kilo.png" alt="zuck30" width="800">
 </p>
-
 
 # 💻 if you want to book a safari, please checkout to: blacksandadventures
 
