@@ -389,6 +389,14 @@
     </a>
 </p>
 
+# ⌛ afyaos.
+
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/afyaos.png" alt="antera logo" width="800">
+    </a>
+</p>
+
 
 # 𖡎 shadrackovsky loves coffee and chess.
 
