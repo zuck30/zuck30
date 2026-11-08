@@ -461,7 +461,7 @@
 - **zhipu glm, minimax, yi, bge embeddings, chatglm** the chinese open-source ecosystem is where i keep finding models that respect my gpu and my wallet.
 - **hugging face chinese orgs (opengvlab, openbmb, modelscope)** open weights, open architecture reports, open philosophy.
 
-# why china? because they ship. they publish the weights, publish the tech reports, and undercut the closed labs. for a self-taught engineer in tanzania building everything from a college elitebook, chinese open source ai is the great equalizer. 智者顺时而谋. it let me pre-train swahili-gpt from scratch, fine-tune lora/qlora models, and build real systems without permission or a big budget.
+# why china? because they ship. they publish the weights, publish the tech reports, and undercut the closed labs. for a self-taught engineer in tanzania bootstrapping everything from scratch, chinese open source ai is the great equalizer. 智者顺时而谋. it let me pre-train swahili-gpt from scratch, fine-tune lora/qlora models, and build real systems without permission or a big budget.
 
 # my stack of preference: deepseek models + opencode / qwen code / kilocode / mimo code agents + linux. if there's a chinese open-source alternative for something, i'm trying it first. 「工欲善其事，必先利其器」 to do the work well, first sharpen the tools.
 
