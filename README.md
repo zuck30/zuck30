@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/src/header-1.png" alt="header banner" width="800">
+        <img src="/src/header-1.webp" alt="header banner" width="800">
     </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <!-- <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/src/header.png" alt="header banner" width="800">
+        <img src="/src/header.webp" alt="header banner" width="800">
     </a>
 </p> -->
 
@@ -63,31 +63,31 @@
 # i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.
 
 <p align="center">
-        <img src="/assets/laptop.png" alt="laptop" width="800">
+        <img src="/assets/laptop.webp" alt="laptop" width="800">
 </p>
 
 <p align="center">
-        <img src="/assets/setapu-photoroom.png" alt="laptop" width="800">
+        <img src="/assets/setapu-photoroom.webp" alt="laptop" width="800">
 </p>
 
 
 # 𖡎 i love to craft, build, develop fast software and clean, with unique taste interfaces that actually work. this is how i love to approach software development. 
 
 <p align="center">
-        <img src="/assets/building-a-software.png" alt="building a software" width="800">
+        <img src="/assets/building-a-software.webp" alt="building a software" width="800">
 </p>
 
 
 # 𖡎 this is artificial intelligence mind map in tanzania that i created.
 
 <p align="center">
-        <img src="/assets/mind-map-0.png" alt="mind map" width="800">
+        <img src="/assets/mind-map-0.webp" alt="mind map" width="800">
 </p>
 
 # 𖡎 an ode to implementing data and ai solutions in tanzania.
 
 <p align="center">
-        <img src="/assets/mind-map-1.png" alt="mind map" width="800">
+        <img src="/assets/mind-map-1.webp" alt="mind map" width="800">
 </p>
 
 
@@ -95,7 +95,7 @@
 # 🦆 this is my rubber duck for rubber duck debugging. 
 
 <p align="center">
-        <img src="/assets/duck-photorom.png" alt="rubber duck" width="800">
+        <img src="/assets/duck-photorom.webp" alt="rubber duck" width="800">
 </p>
 
 
@@ -103,17 +103,17 @@
 
 <table>
 <tr>
-<td align="center" width="14%"><img width="70" src="/images/MacBook_Pro_14-inch_M4_chip_Silv.png"/><br/><sub><b>m3 macbook pro</b><br/>14" · 1tb</sub></td>
-<td align="center" width="14%"><img width="70" src="/images/lymax-l1-plus-led-monitor.png"/><br/><sub><b>monitor lightbar</b><br/>lymax l1 plus</sub></td>
-<td align="center" width="14%"><img width="70" src="/images/vaydeer.png"/><br/><sub><b>vertical stand</b><br/>vaydeer dock</sub></td>
-<td align="center" width="14%"><img width="70" src="images/360_stand.png"/><br/><sub><b>360° stand</b><br/>multi-angle</sub></td>
-<td align="center" width="14%"><img width="70" src="/images/glasses.png"/><br/><sub><b>anti-blue ray</b><br/>eye protection</sub></td>
-<td align="center" width="14%"><img width="70" src="/images/lenovo.png"/><br/><sub><b>neckband</b><br/>lenovo he05x</sub></td>
-<td align="center" width="14%"><img width="70" src="/images/chessboard.png"/><br/><sub><b>chessboard</b><br/>focus and strategic breaks</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/MacBook_Pro_14-inch_M4_chip_Silv.webp"/><br/><sub><b>m3 macbook pro</b><br/>14" · 1tb</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/lymax-l1-plus-led-monitor.webp"/><br/><sub><b>monitor lightbar</b><br/>lymax l1 plus</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/vaydeer.webp"/><br/><sub><b>vertical stand</b><br/>vaydeer dock</sub></td>
+<td align="center" width="14%"><img width="70" src="images/360_stand.webp"/><br/><sub><b>360° stand</b><br/>multi-angle</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/glasses.webp"/><br/><sub><b>anti-blue ray</b><br/>eye protection</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/lenovo.webp"/><br/><sub><b>neckband</b><br/>lenovo he05x</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/chessboard.webp"/><br/><sub><b>chessboard</b><br/>focus and strategic breaks</sub></td>
 </tr>
 <tr>
-<td align="center" width="14%"><img width="70" src="/images/microfiber.png"/><br/><sub><b>microfiber</b><br/>screen cleaning</sub></td>
-<td align="center" width="14%"><img width="70" src="/images/mesh_holder.png"/><br/><sub><b>desk organizer</b><br/>mesh holder</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/microfiber.webp"/><br/><sub><b>microfiber</b><br/>screen cleaning</sub></td>
+<td align="center" width="14%"><img width="70" src="/images/mesh_holder.webp"/><br/><sub><b>desk organizer</b><br/>mesh holder</sub></td>
 <td align="center" width="14%"><img width="70" src="https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/non-braid/g213-finch/g213-gallery-1-nb.png?v=1"/><br/><sub><b>logitech g213</b><br/>keyboard</sub></td>
 <td align="center" width="14%"><img width="70" src="https://image.rakuten.co.jp/koorui-japan/cabinet/10614646/imgrc0088998953.jpg"/><br/><sub><b>34" curved</b><br/>uhd monitor</sub></td>
 <td align="center" width="14%"><img width="70" src="https://www.arkergonomics.com/cdn/shop/products/desk-shelf-155385.jpg?v=1693121152&width=300"/><br/><sub><b>wooden shelf</b><br/>desk shelf</sub></td>
@@ -137,7 +137,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30/Malaika">
-        <img src="/assets/malaika.png" alt="malaika screenshot" width="800">
+        <img src="/assets/malaika.webp" alt="malaika screenshot" width="800">
     </a>
 </p>
 
@@ -145,7 +145,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30/swahili-llm-scratch">
-        <img src="/assets/swahili.png" alt="swahili lm screenshot" width="800">
+        <img src="/assets/swahili.webp" alt="swahili lm screenshot" width="800">
     </a>
 </p>
 
@@ -153,7 +153,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30/SWAHIBA">
-        <img src="/assets/swahiba.png" alt="malaika screenshot" width="800">
+        <img src="/assets/swahiba.webp" alt="malaika screenshot" width="800">
     </a>
 </p>
 
@@ -161,7 +161,7 @@
 
 <p align="center">
     <a href="https://aibruno.vercel.app/">
-        <img src="/assets/bruno-photoroom.png" alt="bruno screenshot" width="800">
+        <img src="/assets/bruno-photoroom.webp" alt="bruno screenshot" width="800">
     </a>
 </p>
 
@@ -181,14 +181,14 @@
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-5.png" alt="antera logo" width="800">
+        <img src="/assets/smarbo-digital-5.webp" alt="antera logo" width="800">
     </a>
 </p>
 
 # 🏆 see what's happening days before your event.
 <p align="center">
     <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital.png" alt="antera logo" width="800">
+        <img src="/assets/smarbo-digital.webp" alt="antera logo" width="800">
     </a>
 </p>
 
@@ -196,7 +196,7 @@
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-2.png" alt="antera logo" width="800">
+        <img src="/assets/smarbo-digital-2.webp" alt="antera logo" width="800">
     </a>
 </p>
 
@@ -205,7 +205,7 @@
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-4.png" alt="antera logo" width="800">
+        <img src="/assets/smarbo-digital-4.webp" alt="antera logo" width="800">
     </a>
 </p>
 
@@ -214,7 +214,7 @@
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-3.png" alt="antera logo" width="800">
+        <img src="/assets/smarbo-digital-3.webp" alt="antera logo" width="800">
     </a>
 </p>
 
@@ -224,34 +224,34 @@
 
 <p align="center">
     <a href="https://smarbodigital.co.tz/login">
-        <img src="/assets/smarbo-sign-in.png" alt="antera logo" width="800">
+        <img src="/assets/smarbo-sign-in.webp" alt="antera logo" width="800">
     </a>
 </p>
 
 # 🙌 mac os tahoe 26 is my favorite os. the hardware integration is genuinely absurd.
 
 <p align="center">
-        <img src="/assets/mac-os.png" alt="antera logo" width="800">
+        <img src="/assets/mac-os.webp" alt="antera logo" width="800">
 </p>
 
 # 🙌 garuda-linux dragonized gaming edition is my first favorite linux distro. i use arch by the way.
 
 <p align="center">
-        <img src="/assets/garuda.png" alt="antera logo" width="800">
+        <img src="/assets/garuda.webp" alt="antera logo" width="800">
 </p>
 
 
 # 🙌 the agrressive performance tuning is unmatched , instant access to any software that i want and btrfs has saved me from a lot of trouble.
 
 <p align="center">
-        <img src="/assets/garuda-1.png" alt="antera logo" width="800">
+        <img src="/assets/garuda-1.webp" alt="antera logo" width="800">
 </p>
 
 
 # 🙌 kubuntu is my second favorite linux distro. it just works with kde.
 
 <p align="center">
-        <img src="/assets/kubuntu.png" alt="antera logo" width="800">
+        <img src="/assets/kubuntu.webp" alt="antera logo" width="800">
 </p>
 
 # 🤠 my favorite country artists.
@@ -260,13 +260,13 @@
   <tr>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://chrisstapleton.com/">
-        <img src="/assets/chris-stapleton.png" alt="chris stapleton" width="400">
+        <img src="/assets/chris-stapleton.webp" alt="chris stapleton" width="400">
       </a>
       <p align="center"><b>🎷 chris stapleton</b></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://morganwallen.com">
-        <img src="/assets/morgan-wallen.png" alt="morgan wallen" width="400">
+        <img src="/assets/morgan-wallen.webp" alt="morgan wallen" width="400">
       </a>
       <p align="center"><b>🎸 morgan wallen</b></p>
     </td>
@@ -274,13 +274,13 @@
   <tr>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://lukecombs.com">
-        <img src="/assets/luke-combs.png" alt="luke combs" width="400">
+        <img src="/assets/luke-combs.webp" alt="luke combs" width="400">
       </a>
       <p align="center"><b>🎧 luke combs</b></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://www.jacksondeanmusic.com/">
-        <img src="/assets/jackson-dean.png" alt="jackson dean" width="400">
+        <img src="/assets/jackson-dean.webp" alt="jackson dean" width="400">
       </a>
       <p align="center"><b>🎻 jackson dean</b></p>
     </td>
@@ -293,18 +293,18 @@
 <table align="center">
   <tr>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-1-nb.png" alt="Logitech G213 Gallery 1" width="400">
+      <img src="/assets/g213-gallery-1-nb.webp" alt="Logitech G213 Gallery 1" width="400">
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-2-nb.png" alt="Logitech G213 Gallery 2" width="400">
+      <img src="/assets/g213-gallery-2-nb.webp" alt="Logitech G213 Gallery 2" width="400">
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-3-nb.png" alt="Logitech G213 Gallery 3" width="400">
+      <img src="/assets/g213-gallery-3-nb.webp" alt="Logitech G213 Gallery 3" width="400">
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-4-nb.png" alt="Logitech G213 Gallery 4" width="400">
+      <img src="/assets/g213-gallery-4-nb.webp" alt="Logitech G213 Gallery 4" width="400">
     </td>
   </tr>
 </table>
@@ -313,22 +313,22 @@
 # ⌨️ my second favorite keyboard is epomaker x aula f75
 
 <p align="center">
-        <img src="/assets/IMG-1.png" alt="antera logo" width="800">
+        <img src="/assets/IMG-1.webp" alt="antera logo" width="800">
 </p>
 <p align="center">
-        <img src="/assets/IMG-2.png" alt="antera logo" width="800">
+        <img src="/assets/IMG-2.webp" alt="antera logo" width="800">
 </p>
 <p align="center">
-        <img src="/assets/IMG-3.png" alt="antera logo" width="800">
+        <img src="/assets/IMG-3.webp" alt="antera logo" width="800">
 </p>
 <p align="center">
-        <img src="/assets/IMG-4.png" alt="antera logo" width="800">
+        <img src="/assets/IMG-4.webp" alt="antera logo" width="800">
 </p>
 <p align="center">
-        <img src="/assets/IMG-5.png" alt="antera logo" width="800">
+        <img src="/assets/IMG-5.webp" alt="antera logo" width="800">
 </p>
 <p align="center">
-        <img src="/assets/IMG-6.png" alt="antera logo" width="800">
+        <img src="/assets/IMG-6.webp" alt="antera logo" width="800">
 </p>
 
 
@@ -338,24 +338,24 @@
   <tr>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://antera.co.tz">
-        <img src="/assets/tech-showcase-photoroom.png" alt="antera logo" width="400">
+        <img src="/assets/tech-showcase-photoroom.webp" alt="antera logo" width="400">
       </a>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://antera.co.tz">
-        <img src="/assets/antera.png" alt="antera logo" width="400">
+        <img src="/assets/antera.webp" alt="antera logo" width="400">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://antera.co.tz">
-        <img src="/assets/moja.png" alt="antera logo" width="400">
+        <img src="/assets/moja.webp" alt="antera logo" width="400">
       </a>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://antera.co.tz">
-        <img src="/assets/moja-1.png" alt="antera logo" width="400">
+        <img src="/assets/moja-1.webp" alt="antera logo" width="400">
       </a>
     </td>
   </tr>
@@ -363,20 +363,48 @@
 
 # 💻 what is shadrackovsky building right now?
 
-# ⌛ cvchapu ai. cvchapu is an ai-powered platform that helps you build professional, ats-friendly cvs, analyze your skill gaps, and track your career progress in one simple dashboard.
-
+# ⌛ ajira connect is a next.js-based talent management platform empowering tanzanian career seekers and transforming businesses.
 <p align="center">
-    <a href="https://cvchapu.co.tz">
-        <img src="/assets/chapu.png" alt="antera logo" width="800">
+    <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/ajira-0.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+
+# ⌛ it helps professionals build ai-enhanced cvs and cover letters, analyze skill gaps against job descriptions, and land jobs.
+<p align="center">
+    <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/ajira-1.webp" alt="antera logo" width="800">
     </a>
 </p>
 
 
 # ⌛ sauti connect. it's is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
-
+# 1
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-1.png" alt="antera logo" width="800">
+        <img src="/assets/sauti-1.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# 2
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/sauti-2.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# 3
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/sauti-3.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# 4
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/sauti-4.webp" alt="antera logo" width="800">
     </a>
 </p>
 
@@ -385,7 +413,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/pima.png" alt="antera logo" width="800">
+        <img src="/assets/pima.webp" alt="antera logo" width="800">
     </a>
 </p>
 
@@ -393,7 +421,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/afyaos.png" alt="antera logo" width="800">
+        <img src="/assets/afyaos.webp" alt="antera logo" width="800">
     </a>
 </p>
 
@@ -404,13 +432,13 @@
   <tr>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://github.com/zuck30">
-        <img src="/images/chessboard.png" alt="chess" width="400">
+        <img src="/images/chessboard.webp" alt="chess" width="400">
       </a>
       <p align="center"><strong>my wooden chess board.</strong></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://github.com/zuck30">
-        <img src="/assets/mug.png" alt="coffee" width="400">
+        <img src="/assets/mug.webp" alt="coffee" width="400">
       </a>
       <p align="center"><strong>my coffee mug.</strong></p>
     </td>
@@ -424,27 +452,27 @@
 # qwen code - with deepseek api.
 
 <p align="center">
-        <img src="/assets/qwen.png" alt="zuck30" width="800">
+        <img src="/assets/qwen.webp" alt="zuck30" width="800">
 </p>
 
 # opencode - with deepseek api.
 
 <p align="center">
-        <img src="/assets/opencode.png" alt="zuck30" width="800">
+        <img src="/assets/opencode.webp" alt="zuck30" width="800">
 </p>
 
 
 # kilocode - with deepseek api.
 
 <p align="center">
-        <img src="/assets/kilo.png" alt="zuck30" width="800">
+        <img src="/assets/kilo.webp" alt="zuck30" width="800">
 </p>
 
 # 💻 if you want to book a safari, please checkout to: blacksandadventures
 
 <p align="center">
     <a href="https://blacksandadventures.com/">
-        <img src="/assets/blacksand.png" alt="zuck30" width="800">
+        <img src="/assets/blacksand.webp" alt="zuck30" width="800">
     </a>
 </p>
 
@@ -453,7 +481,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/setup.png" alt="zuck30" width="800">
+        <img src="/assets/setup.webp" alt="zuck30" width="800">
     </a>
 </p>
 
