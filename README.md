@@ -447,7 +447,7 @@
 
 
 
-# 💻 tools that i prefer are deepseek, opencode, qwen or anything chinese and a bit of claude code (deepseek api billing).
+# 💻 tools that i prefer are deepseek, opencode, qwen, kilocode cli's or anything chinese. (deepseek api billing).
 
 # qwen code - with deepseek api.
 
