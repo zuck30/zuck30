@@ -447,25 +447,31 @@
 
 
 
-# 💻 tools that i prefer are deepseek, opencode, qwen, kilocode cli's or anything chinese. (deepseek api billing).
+# 💻 tools that i prefer are deepseek, opencode, qwencode, kilocode, mimocode cli's or anything chinese. (deepseek api billing).
 
-# qwen code - with deepseek api.
+# qwen code - free, with deepseek api or subscription.
 
 <p align="center">
         <img src="/assets/qwen.webp" alt="zuck30" width="800">
 </p>
 
-# opencode - with deepseek api.
+# opencode - free, with deepseek api or subscription.
 
 <p align="center">
         <img src="/assets/opencode.webp" alt="zuck30" width="800">
 </p>
 
 
-# kilocode - with deepseek api.
+# kilocode - free, with deepseek api or subscription.
 
 <p align="center">
         <img src="/assets/kilo.webp" alt="zuck30" width="800">
+</p>
+
+# xiaomi mimocode - free, with deepseek api or subscription.
+
+<p align="center">
+        <img src="/assets/mimo.webp" alt="zuck30" width="800">
 </p>
 
 # 💻 if you want to book a safari, please checkout to: blacksandadventures
