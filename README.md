@@ -447,7 +447,7 @@
 
 
 
-# 🔴 more about my personality, culture and creative workflow.
+# 🤠 more about my personality, culture and creative workflow.
 
 # i'm shadrackovsky — calm, deliberate, and quietly obsessive. i think in systems, i work in silence, and i let the work speak. i resonate very deeply with chinese culture in that: the discipline, the patience, the 书香 tradition of mastering your craft before announcing it, and the idea of 匠心 (jiàngxīn) — an artisan's heart — building things with full attention and no shortcuts.
 
