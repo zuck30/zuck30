@@ -71,13 +71,13 @@
 }
 
 html {
-  font-size: 24px;
+  font-size: 21px;
   scroll-behavior: smooth;
 }
 
 body {
   font-family: var(--font-sans);
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   line-height: 1.8;
   color: var(--text-primary);
   background-color: var(--bg);
