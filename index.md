@@ -350,7 +350,7 @@ layout: default
               <sub><strong>Logitech G213</strong><br>Keyboard</sub>
             </td>
             <td align="center" style="padding: var(--spacing-sm);">
-              <img src="https://image.rakuten.co.jp/koorui-japan/cabinet/10614646/imgrc0088998953.jpg" alt="34\" Curved UHD Monitor" width="70" loading="lazy"><br>
+              <img src="https://image.rakuten.co.jp/koorui-japan/cabinet/10614646/imgrc0088998953.jpg" alt="34 inch Curved UHD Monitor" width="70" loading="lazy"><br>
               <sub><strong>34" Curved</strong><br>UHD Monitor</sub>
             </td>
             <td align="center" style="padding: var(--spacing-sm);">
