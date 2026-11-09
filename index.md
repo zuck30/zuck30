@@ -387,7 +387,7 @@ layout: default
       
       <div class="project-gallery-cta">
         <a href="https://github.com/zuck30" target="_blank" rel="noopener" class="btn btn-primary">
-          <img src="https://cdn-icons-png.flaticon.com/128/25/25471.png" alt="" class="flaticon" style="width:18px;height:18px;">
+          <img src="https://cdn-icons-png.flaticon.com/128/5968/5968846.png" alt="" class="flaticon" style="width:18px;height:18px;">
           View All on GitHub
         </a>
       </div>
