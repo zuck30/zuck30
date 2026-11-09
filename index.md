@@ -142,28 +142,6 @@ layout: default
         <p>Why China? Because they ship. They publish the weights, publish the tech reports, and undercut the closed labs. For a self-taught engineer in Tanzania bootstrapping everything from scratch, Chinese open source AI is the great equalizer. 智者顺时而谋. It let me pre-train Swahili-GPT from scratch, fine-tune LoRA/QLoRA models, and build real systems without permission or a big budget.</p>
         
         <p>My stack of preference: DeepSeek models + opencode / qwen code / kilocode / mimo code agents + Linux. If there's a Chinese open-source alternative for something, I'm trying it first. 「工欲善其事，必先利其器」 : to do the work well, first sharpen the tools.</p>
-        
-        <div class="tools-showcase">
-          <h3>Tools I Prefer</h3>
-          <div class="tools-grid">
-            <a href="https://deepseek.com" target="_blank" rel="noopener" class="tool-card">
-              <img src="{{ '/assets/qwen.webp' | relative_url }}" alt="Qwen" loading="lazy">
-              <span>Qwen Code : free, with DeepSeek API</span>
-            </a>
-            <a href="https://github.com/sst/opencode" target="_blank" rel="noopener" class="tool-card">
-              <img src="{{ '/assets/opencode.webp' | relative_url }}" alt="OpenCode" loading="lazy">
-              <span>OpenCode : free, with DeepSeek API</span>
-            </a>
-            <a href="https://kilocode.ai" target="_blank" rel="noopener" class="tool-card">
-              <img src="{{ '/assets/kilo.webp' | relative_url }}" alt="KiloCode" loading="lazy">
-              <span>KiloCode : free, with DeepSeek API</span>
-            </a>
-            <a href="https://xiaomi.com" target="_blank" rel="noopener" class="tool-card">
-              <img src="{{ '/assets/mimo.webp' | relative_url }}" alt="Xiaomi MimoCode" loading="lazy">
-              <span>Xiaomi MimoCode : free, with DeepSeek API</span>
-            </a>
-          </div>
-        </div>
       </div>
     </div>
   </section>
