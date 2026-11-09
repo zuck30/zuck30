@@ -352,6 +352,23 @@
 # 💻 what is shadrackovsky building right now?
 
 # ⌛ ajira connect is a next.js-based talent management platform empowering tanzanian career seekers and transforming businesses.
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/window-1.png" alt="antera logo" width="800">
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/window-2.webp" alt="antera logo" width="800">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/ajira-0.webp" alt="antera logo" width="800">
