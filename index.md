@@ -42,7 +42,6 @@ layout: default
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" class="tech-logo" title="Bash">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" class="tech-logo" title="HTML5">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" class="tech-logo" title="CSS3">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" class="tech-logo" title="Django">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" class="tech-logo" title="FastAPI">
         </div>
         <a href="#" class="card-btn">Explore →</a>
@@ -306,83 +305,72 @@ layout: default
       
       <div class="project-gallery-item">
         <h3 class="project-caption">Desk Setup Gadgets</h3>
-        <div class="gadgets-grid">
-          <div class="gadget-item">
-            <img src="{{ '/images/MacBook_Pro_14-inch_M4_chip_Silv.webp' | relative_url }}" alt="M3 MacBook Pro" width="70" loading="lazy">
-            <p class="gadget-name">M3 MacBook Pro</p>
-            <p class="gadget-spec">14" · 1TB</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/lymax-l1-plus-led-monitor.webp' | relative_url }}" alt="Monitor Lightbar" width="70" loading="lazy">
-            <p class="gadget-name">Monitor Lightbar</p>
-            <p class="gadget-spec">Lymax L1 Plus</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/vaydeer.webp' | relative_url }}" alt="Vertical Stand" width="70" loading="lazy">
-            <p class="gadget-name">Vertical Stand</p>
-            <p class="gadget-spec">Vaydeer Dock</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/360_stand.webp' | relative_url }}" alt="360° Stand" width="70" loading="lazy">
-            <p class="gadget-name">360° Stand</p>
-            <p class="gadget-spec">Multi-angle</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/glasses.webp' | relative_url }}" alt="Anti-Blue Ray Glasses" width="70" loading="lazy">
-            <p class="gadget-name">Anti-Blue Ray</p>
-            <p class="gadget-spec">Eye Protection</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/lenovo.webp' | relative_url }}" alt="Lenovo Neckband" width="70" loading="lazy">
-            <p class="gadget-name">Neckband</p>
-            <p class="gadget-spec">Lenovo HE05X</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/chessboard.webp' | relative_url }}" alt="Chessboard" width="70" loading="lazy">
-            <p class="gadget-name">Chessboard</p>
-            <p class="gadget-spec">Focus & Strategic Breaks</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/microfiber.webp' | relative_url }}" alt="Microfiber" width="70" loading="lazy">
-            <p class="gadget-name">Microfiber</p>
-            <p class="gadget-spec">Screen Cleaning</p>
-          </div>
-          <div class="gadget-item">
-            <img src="{{ '/images/mesh_holder.webp' | relative_url }}" alt="Desk Organizer" width="70" loading="lazy">
-            <p class="gadget-name">Desk Organizer</p>
-            <p class="gadget-spec">Mesh Holder</p>
-          </div>
-          <div class="gadget-item">
-            <img src="https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/non-braid/g213-finch/g213-gallery-1-nb.png?v=1" alt="Logitech G213" width="70" loading="lazy">
-            <p class="gadget-name">Logitech G213</p>
-            <p class="gadget-spec">Keyboard</p>
-          </div>
-          <div class="gadget-item">
-            <img src="https://image.rakuten.co.jp/koorui-japan/cabinet/10614646/imgrc0088998953.jpg" alt="34\" Curved UHD Monitor" width="70" loading="lazy">
-            <p class="gadget-name">34" Curved</p>
-            <p class="gadget-spec">UHD Monitor</p>
-          </div>
-          <div class="gadget-item">
-            <img src="https://www.arkergonomics.com/cdn/shop/products/desk-shelf-155385.jpg?v=1693121152&width=300" alt="Wooden Shelf" width="70" loading="lazy">
-            <p class="gadget-name">Wooden Shelf</p>
-            <p class="gadget-spec">Desk Shelf</p>
-          </div>
-          <div class="gadget-item">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XfMXN1tUb47sU8DFV16mj_OVt2DvnWyPwA&s" alt="The Broken Wings" width="70" loading="lazy">
-            <p class="gadget-name">The Broken Wings</p>
-            <p class="gadget-spec">Kahlil Gibran</p>
-          </div>
-          <div class="gadget-item">
-            <img src="https://www.penguin.co.uk/_next/image?url=https%3A%2F%2Fcdn.penguin.co.uk%2Fdam-assets%2Fbooks%2F9780099477778%2F9780099477778-jacket-large.jpg&w=819&q=100" alt="Island by Aldous Huxley" width="70" loading="lazy">
-            <p class="gadget-name">Island</p>
-            <p class="gadget-spec">Aldous Huxley</p>
-          </div>
-          <div class="gadget-item">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj2Sfss75O_Zs1valWdqkI3LNwp1MC-O02w&s" alt="Rubber Duck" width="70" loading="lazy">
-            <p class="gadget-name">Rubber Duck</p>
-            <p class="gadget-spec">Debugging</p>
-          </div>
-        </div>
+        <table class="gadgets-table" align="center">
+          <tr>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/MacBook_Pro_14-inch_M4_chip_Silv.webp' | relative_url }}" alt="M3 MacBook Pro" width="70" loading="lazy"><br>
+              <sub><strong>M3 MacBook Pro</strong><br>14" · 1TB</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/lymax-l1-plus-led-monitor.webp' | relative_url }}" alt="Monitor Lightbar" width="70" loading="lazy"><br>
+              <sub><strong>Monitor Lightbar</strong><br>Lymax L1 Plus</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/vaydeer.webp' | relative_url }}" alt="Vertical Stand" width="70" loading="lazy"><br>
+              <sub><strong>Vertical Stand</strong><br>Vaydeer Dock</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/360_stand.webp' | relative_url }}" alt="360° Stand" width="70" loading="lazy"><br>
+              <sub><strong>360° Stand</strong><br>Multi-angle</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/glasses.webp' | relative_url }}" alt="Anti-Blue Ray Glasses" width="70" loading="lazy"><br>
+              <sub><strong>Anti-Blue Ray</strong><br>Eye Protection</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/lenovo.webp' | relative_url }}" alt="Lenovo Neckband" width="70" loading="lazy"><br>
+              <sub><strong>Neckband</strong><br>Lenovo HE05X</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/chessboard.webp' | relative_url }}" alt="Chessboard" width="70" loading="lazy"><br>
+              <sub><strong>Chessboard</strong><br>Focus & Strategic Breaks</sub>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/microfiber.webp' | relative_url }}" alt="Microfiber" width="70" loading="lazy"><br>
+              <sub><strong>Microfiber</strong><br>Screen Cleaning</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="{{ '/images/mesh_holder.webp' | relative_url }}" alt="Desk Organizer" width="70" loading="lazy"><br>
+              <sub><strong>Desk Organizer</strong><br>Mesh Holder</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/non-braid/g213-finch/g213-gallery-1-nb.png?v=1" alt="Logitech G213" width="70" loading="lazy"><br>
+              <sub><strong>Logitech G213</strong><br>Keyboard</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="https://image.rakuten.co.jp/koorui-japan/cabinet/10614646/imgrc0088998953.jpg" alt="34\" Curved UHD Monitor" width="70" loading="lazy"><br>
+              <sub><strong>34" Curved</strong><br>UHD Monitor</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="https://www.arkergonomics.com/cdn/shop/products/desk-shelf-155385.jpg?v=1693121152&width=300" alt="Wooden Shelf" width="70" loading="lazy"><br>
+              <sub><strong>Wooden Shelf</strong><br>Desk Shelf</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XfMXN1tUb47sU8DFV16mj_OVt2DvnWyPwA&s" alt="The Broken Wings" width="70" loading="lazy"><br>
+              <sub><strong>The Broken Wings</strong><br>Kahlil Gibran</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="https://www.penguin.co.uk/_next/image?url=https%3A%2F%2Fcdn.penguin.co.uk%2Fdam-assets%2Fbooks%2F9780099477778%2F9780099477778-jacket-large.jpg&w=819&q=100" alt="Island by Aldous Huxley" width="70" loading="lazy"><br>
+              <sub><strong>Island</strong><br>Aldous Huxley</sub>
+            </td>
+            <td align="center" style="padding: var(--spacing-sm);">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj2Sfss75O_Zs1valWdqkI3LNwp1MC-O02w&s" alt="Rubber Duck" width="70" loading="lazy"><br>
+              <sub><strong>Rubber Duck</strong><br>Debugging</sub>
+            </td>
+          </tr>
+        </table>
       </div>
       
       <div class="project-gallery-cta">
