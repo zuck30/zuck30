@@ -81,6 +81,10 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  outline: none !important;
 }
 
 a {

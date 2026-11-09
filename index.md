@@ -78,6 +78,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
         </div>
+        <img src="{{ '/assets/malaika.webp' | relative_url }}" alt="Malaika screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">Malaika</h3>
         <p class="card-desc">My AI companion - a personal assistant built with LLMs</p>
         <a href="https://github.com/zuck30/Malaika" class="card-btn" target="_blank" rel="noopener">View on GitHub →</a>
@@ -86,6 +87,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></svg>
         </div>
+        <img src="{{ '/assets/swahili.webp' | relative_url }}" alt="Swahili-GPT screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">Swahili-GPT</h3>
         <p class="card-desc">Swahili language model pre-trained from scratch</p>
         <a href="https://github.com/zuck30/swahili-llm-scratch" class="card-btn" target="_blank" rel="noopener">View on GitHub →</a>
@@ -94,6 +96,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
         </div>
+        <img src="{{ '/assets/swahiba.webp' | relative_url }}" alt="SWAHIBA screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">SWAHIBA</h3>
         <p class="card-desc">Bootstrapping Swahili-LM with DeepSeek API & prompt engineering</p>
         <a href="https://github.com/zuck30/SWAHIBA" class="card-btn" target="_blank" rel="noopener">View on GitHub →</a>
@@ -102,6 +105,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><path d="M8 21h8"></path><path d="M12 17v4"></path></svg>
         </div>
+        <img src="{{ '/assets/bruno-photoroom.webp' | relative_url }}" alt="Bruno screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">Bruno</h3>
         <p class="card-desc">Chat agents component library for reusable AI interfaces</p>
         <a href="https://aibruno.vercel.app/" class="card-btn" target="_blank" rel="noopener">Live Demo →</a>
@@ -110,6 +114,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>
         </div>
+        <img src="{{ '/assets/smarbo-digital.webp' | relative_url }}" alt="Smarbo Digital screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">Smarbo Digital</h3>
         <p class="card-desc">Event management platform for invitations, contributions & attendance</p>
         <a href="https://smarbodigital.co.tz" class="card-btn" target="_blank" rel="noopener">Visit Site →</a>
@@ -118,6 +123,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
         </div>
+        <img src="{{ '/assets/ajira-0.webp' | relative_url }}" alt="Ajira Connect screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">Ajira Connect</h3>
         <p class="card-desc">Talent management platform for Tanzanian career seekers</p>
         <a href="https://ajiraconnect.co.tz" class="card-btn" target="_blank" rel="noopener">Visit Site →</a>
@@ -126,6 +132,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
         </div>
+        <img src="{{ '/assets/sauti-1.webp' | relative_url }}" alt="Sauti Connect screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">Sauti Connect</h3>
         <p class="card-desc">Customer service call center management system</p>
         <a href="#" class="card-btn">Learn More →</a>
@@ -134,6 +141,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
         </div>
+        <img src="{{ '/assets/pima.webp' | relative_url }}" alt="PimaFarm screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">PimaFarm</h3>
         <p class="card-desc">Smart farming platform for tractor & machine monitoring</p>
         <a href="#" class="card-btn">Learn More →</a>
@@ -142,6 +150,7 @@ layout: default
         <div class="card-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
         </div>
+        <img src="{{ '/assets/afyaos.webp' | relative_url }}" alt="AfyaOS screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
         <h3 class="card-title">AfyaOS</h3>
         <p class="card-desc">Healthcare operating system for clinical workflows</p>
         <a href="#" class="card-btn">Learn More →</a>
