@@ -91,7 +91,84 @@ layout: default
   </div>
 </section>
 
-<section class="section" id="projects" aria-labelledby="projects-title">
+  <section class="section" id="roadmap" aria-labelledby="roadmap-title">
+    <div class="wrapper">
+      <header class="section-header">
+        <h2 id="roadmap-title" class="section-title">Roadmap</h2>
+      </header>
+      <div class="roadmap-table-wrapper">
+        <table class="roadmap-table">
+          <thead>
+            <tr>
+              <th>Field</th>
+              <th>What I'm Mastering Right Now</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>GenAI & LLMs</strong></td><td>fine-tuning (LoRA/QLoRA), RAG systems, Chroma vector DB, Hugging Face</td></tr>
+            <tr><td><strong>Python & Data</strong></td><td>FastAPI, pandas, NumPy, PyTorch, AI models and large dataset trainings</td></tr>
+            <tr><td><strong>Data Engineering</strong></td><td>SQL, data cleaning, pipelining, API integration</td></tr>
+            <tr><td><strong>Cloud & DevOps</strong></td><td>Docker, Kubernetes, Git</td></tr>
+            <tr><td><strong>Frontend</strong></td><td>React, Next.js, Vite, Tailwind CSS, shadcn/ui</td></tr>
+            <tr><td><strong>Backend</strong></td><td>Supabase, Django, Spring Boot</td></tr>
+            <tr><td><strong>Desktop Applications</strong></td><td>Tauri, Electron, PyQt, Tkinter, Rust</td></tr>
+            <tr><td><strong>Computational Finance</strong></td><td>Quantitative modeling, algorithmic trading, risk analysis, portfolio optimization</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="personality" aria-labelledby="personality-title">
+    <div class="wrapper">
+      <header class="section-header">
+        <h2 id="personality-title" class="section-title">Personality, Culture & Creative Workflow</h2>
+      </header>
+      <div class="personality-content">
+        <p>I'm shadrackovsky, calm, deliberate, and quietly obsessive. I think in systems, I work in silence, and I let the work speak. I resonate very deeply with Chinese culture in that: the discipline, the patience, the 书香 (shūxiāng) tradition of mastering your craft before announcing it, and the idea of 匠心 (jiàngxīn), an artisan's heart, building things with full attention and no shortcuts.</p>
+        
+        <p>My creative workflow follows that spirit. I observe first, prototype fast, iterate relentlessly, and polish until it feels right. I keep a small desk, a rubber duck, a chessboard for strategic breaks, and long late-night sessions where ideas compound quietly. 巧者劳而智者忧. Deep work over noise. Finish over talk.</p>
+        
+        <p>And yes, I am genuinely obsessed with Chinese AI, Chinese models, Chinese tools and Chinese open source. This is not a phase, it's a conviction:</p>
+        
+        <ul>
+          <li><strong>DeepSeek (深度求索)</strong> — my main API. Open weights, brutal efficiency, honest research. My Swahili-LM and Malaika are bootstrapped on it. DeepSeek-V3 and R1 proved that open source can stand at the frontier.</li>
+          <li><strong>Qwen (通义千问)</strong> — the most complete open model family on the planet, and qwencode is my daily terminal coding agent.</li>
+          <li><strong>Xiaomi Mimo</strong> — small, sharp, free. Proof that focus beats bloat.</li>
+          <li><strong>Zhipu GLM, MiniMax, Yi, BGE embeddings, ChatGLM</strong> — the Chinese open-source ecosystem is where I keep finding models that respect my GPU and my wallet.</li>
+          <li><strong>Hugging Face Chinese orgs (OpenGVLab, OpenBMB, ModelScope)</strong> — open weights, open architecture reports, open philosophy.</li>
+        </ul>
+        
+        <p>Why China? Because they ship. They publish the weights, publish the tech reports, and undercut the closed labs. For a self-taught engineer in Tanzania bootstrapping everything from scratch, Chinese open source AI is the great equalizer. 智者顺时而谋. It let me pre-train Swahili-GPT from scratch, fine-tune LoRA/QLoRA models, and build real systems without permission or a big budget.</p>
+        
+        <p>My stack of preference: DeepSeek models + opencode / qwen code / kilocode / mimo code agents + Linux. If there's a Chinese open-source alternative for something, I'm trying it first. 「工欲善其事，必先利其器」 — to do the work well, first sharpen the tools.</p>
+        
+        <div class="tools-showcase">
+          <h3>Tools I Prefer</h3>
+          <div class="tools-grid">
+            <a href="https://deepseek.com" target="_blank" rel="noopener" class="tool-card">
+              <img src="{{ '/assets/qwen.webp' | relative_url }}" alt="Qwen" loading="lazy">
+              <span>Qwen Code — free, with DeepSeek API</span>
+            </a>
+            <a href="https://github.com/sst/opencode" target="_blank" rel="noopener" class="tool-card">
+              <img src="{{ '/assets/opencode.webp' | relative_url }}" alt="OpenCode" loading="lazy">
+              <span>OpenCode — free, with DeepSeek API</span>
+            </a>
+            <a href="https://kilocode.ai" target="_blank" rel="noopener" class="tool-card">
+              <img src="{{ '/assets/kilo.webp' | relative_url }}" alt="KiloCode" loading="lazy">
+              <span>KiloCode — free, with DeepSeek API</span>
+            </a>
+            <a href="https://xiaomi.com" target="_blank" rel="noopener" class="tool-card">
+              <img src="{{ '/assets/mimo.webp' | relative_url }}" alt="Xiaomi MimoCode" loading="lazy">
+              <span>Xiaomi MimoCode — free, with DeepSeek API</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="projects" aria-labelledby="projects-title">
   <div class="wrapper">
     <header class="section-header">
       <h2 id="projects-title" class="section-title">Projects & Showcase</h2>
