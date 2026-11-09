@@ -95,82 +95,147 @@ layout: default
 <section class="section" id="projects" aria-labelledby="projects-title">
   <div class="wrapper">
     <header class="section-header">
-      <h2 id="projects-title" class="section-title">Projects</h2>
+      <h2 id="projects-title" class="section-title">Projects & Showcase</h2>
     </header>
     <div class="project-gallery">
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">My Learning Framework</h3>
+        <p class="project-desc">I'm a self taught software engineer, I watch tons of youtube or pirated tutorials and practise, practise to build new skills.</p>
         <img src="{{ '/assets/laptop.webp' | relative_url }}" alt="Laptop" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
         <img src="{{ '/assets/setapu-photoroom.webp' | relative_url }}" alt="Setup" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Building Software</h3>
+        <p class="project-desc">I love to craft, build, develop fast software and clean, with unique taste interfaces that actually work. This is how I love to approach software development.</p>
         <img src="{{ '/assets/building-a-software.webp' | relative_url }}" alt="Building Software" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">AI Mind Map — Tanzania</h3>
+        <p class="project-desc">This is artificial intelligence mind map in Tanzania that I created.</p>
         <img src="{{ '/assets/mind-map-0.webp' | relative_url }}" alt="AI Mind Map Tanzania" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Implementing Data & AI in Tanzania</h3>
+        <p class="project-desc">An ode to implementing data and AI solutions in Tanzania.</p>
         <img src="{{ '/assets/mind-map-1.webp' | relative_url }}" alt="AI Mind Map Tanzania 2" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Rubber Duck Debugging</h3>
+        <p class="project-desc">This is my rubber duck for rubber duck debugging.</p>
         <img src="{{ '/assets/duck-photorom.webp' | relative_url }}" alt="Rubber Duck" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Malaika — My AI Companion</h3>
+        <p class="project-desc">See Malaika, my AI companion.</p>
         <img src="{{ '/assets/malaika.webp' | relative_url }}" alt="Malaika AI Companion" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Swahili-GPT</h3>
+        <p class="project-desc">A Swahili language model I pre-trained from scratch.</p>
         <img src="{{ '/assets/swahili.webp' | relative_url }}" alt="Swahili-GPT" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">SWAHIBA</h3>
+        <p class="project-desc">We're bootstrapping Swahili-LM with DeepSeek API by wrapping with prompt engineering tuned for Tanzanian context.</p>
         <img src="{{ '/assets/swahiba.webp' | relative_url }}" alt="SWAHIBA" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Bruno — Chat Agents Component Library</h3>
+        <p class="project-desc">If you wanna build chat agents, you don't need to start from scratch. Try Bruno and re-use the component in your app.</p>
         <img src="{{ '/assets/bruno-photoroom.webp' | relative_url }}" alt="Bruno Chat Agents" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Smarbo Digital</h3>
+        <p class="project-desc">Shadrackovsky is also a co-creator of Smarbo Digital — a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.</p>
+      </div>
+      
+      <div class="project-gallery-item">
+        <h3 class="project-caption">Know Who's Coming</h3>
         <img src="{{ '/assets/smarbo-digital-5.webp' | relative_url }}" alt="Smarbo Digital" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">See What's Happening Days Before Your Event</h3>
         <img src="{{ '/assets/smarbo-digital.webp' | relative_url }}" alt="Smarbo Digital Dashboard" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Know Who Has Paid</h3>
         <img src="{{ '/assets/smarbo-digital-2.webp' | relative_url }}" alt="Smarbo Digital Payments" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Talk to BongeGPT</h3>
         <img src="{{ '/assets/smarbo-digital-4.webp' | relative_url }}" alt="Smarbo Digital BongeGPT" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Set Up in No Time</h3>
+        <p class="project-desc">You can set it up in no time or talk to our team.</p>
         <img src="{{ '/assets/smarbo-digital-3.webp' | relative_url }}" alt="Smarbo Digital Setup" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Login & Create Account</h3>
+        <p class="project-desc">Login and create your Smarbo Digital account today.</p>
         <img src="{{ '/assets/smarbo-sign-in.webp' | relative_url }}" alt="Smarbo Sign In" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">macOS Tahoe 26</h3>
+        <p class="project-desc">macOS Tahoe 26 is my favorite OS. The hardware integration is genuinely absurd.</p>
         <img src="{{ '/assets/mac-os.webp' | relative_url }}" alt="macOS Tahoe" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Garuda Linux Dragonized Gaming Edition</h3>
+        <p class="project-desc">Garuda Linux Dragonized Gaming Edition is my first favorite Linux distro. I use Arch by the way.</p>
         <img src="{{ '/assets/garuda.webp' | relative_url }}" alt="Garuda Linux" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Aggressive Performance Tuning</h3>
+        <p class="project-desc">The aggressive performance tuning is unmatched, instant access to any software that I want and Btrfs has saved me from a lot of trouble.</p>
         <img src="{{ '/assets/garuda-1.webp' | relative_url }}" alt="Garuda Linux Dragonized" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Kubuntu</h3>
+        <p class="project-desc">Kubuntu is my second favorite Linux distro. It just works with KDE.</p>
         <img src="{{ '/assets/kubuntu.webp' | relative_url }}" alt="Kubuntu" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Favorite Country Artists</h3>
         <img src="{{ '/assets/chris-stapleton.webp' | relative_url }}" alt="Chris Stapleton" width="400" loading="lazy">
         <img src="{{ '/assets/morgan-wallen.webp' | relative_url }}" alt="Morgan Wallen" width="400" loading="lazy">
         <img src="{{ '/assets/luke-combs.webp' | relative_url }}" alt="Luke Combs" width="400" loading="lazy">
         <img src="{{ '/assets/jackson-dean.webp' | relative_url }}" alt="Jackson Dean" width="400" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Logitech G213 Prodigy — First Favorite Keyboard</h3>
         <img src="{{ '/assets/g213-gallery-1-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
         <img src="{{ '/assets/g213-gallery-2-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
         <img src="{{ '/assets/g213-gallery-3-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
         <img src="{{ '/assets/g213-gallery-4-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Epomaker x Aula F75 — Second Favorite Keyboard</h3>
         <img src="{{ '/assets/IMG-1.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
         <img src="{{ '/assets/IMG-2.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
         <img src="{{ '/assets/IMG-3.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
@@ -178,44 +243,67 @@ layout: default
         <img src="{{ '/assets/IMG-5.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
         <img src="{{ '/assets/IMG-6.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Antera — My Business</h3>
         <img src="{{ '/assets/tech-showcase-photoroom.webp' | relative_url }}" alt="Antera Tech Showcase" width="400" loading="lazy">
         <img src="{{ '/assets/antera.webp' | relative_url }}" alt="Antera Logo" width="400" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Ajira Connect</h3>
+        <p class="project-desc">Ajira Connect is a Next.js-based talent management platform empowering Tanzanian career seekers and transforming businesses.</p>
         <img src="{{ '/assets/window.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
         <img src="{{ '/assets/ajira-0.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
         <img src="{{ '/assets/ajira-1.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Sauti Connect</h3>
+        <p class="project-desc">Sauti Connect is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.</p>
         <img src="{{ '/assets/sauti-1.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
         <img src="{{ '/assets/sauti-2.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
         <img src="{{ '/assets/sauti-3.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
         <img src="{{ '/assets/sauti-4.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">PimaFarm</h3>
+        <p class="project-desc">PimaFarm is a smart farming platform. Think of PimaFarm like a helper that watches your farm for you. It sees how your tractors and machines are working, and tells you simple things you can do to make things better.</p>
         <img src="{{ '/assets/pima.webp' | relative_url }}" alt="PimaFarm" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">AfyaOS</h3>
         <img src="{{ '/assets/afyaos.webp' | relative_url }}" alt="AfyaOS" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Coffee & Chess</h3>
+        <p class="project-desc">Shadrackovsky loves coffee and chess.</p>
         <img src="{{ '/assets/mug.webp' | relative_url }}" alt="Coffee Mug" width="400" loading="lazy">
         <img src="{{ '/assets/chessboard.webp' | relative_url }}" alt="Chess Board" width="400" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Chinese AI Tools I Use</h3>
         <img src="{{ '/assets/qwen.webp' | relative_url }}" alt="Qwen" width="800" loading="lazy">
         <img src="{{ '/assets/opencode.webp' | relative_url }}" alt="OpenCode" width="800" loading="lazy">
         <img src="{{ '/assets/kilo.webp' | relative_url }}" alt="KiloCode" width="800" loading="lazy">
         <img src="{{ '/assets/mimo.webp' | relative_url }}" alt="Xiaomi MimoCode" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Black Sand Adventures</h3>
         <img src="{{ '/assets/blacksand.webp' | relative_url }}" alt="Black Sand Adventures" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-item">
+        <h3 class="project-caption">Desk Setup</h3>
         <img src="{{ '/assets/setup.webp' | relative_url }}" alt="Desk Setup" width="800" loading="lazy">
-        <img src="{{ '/assets/setup-2.png' | relative_url }}" alt="Desk Setup 2" width="800" loading="lazy">
+        <img src="{{ '/assets/setup-2.webp' | relative_url }}" alt="Desk Setup 2" width="800" loading="lazy">
       </div>
+      
       <div class="project-gallery-cta">
         <a href="https://github.com/zuck30" target="_blank" rel="noopener" class="btn btn-primary">
           <img src="https://cdn-icons-png.flaticon.com/128/25/25471.png" alt="" class="flaticon" style="width:18px;height:18px;">
