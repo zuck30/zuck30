@@ -347,18 +347,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" style="border: none; padding: 10px;">
-      <a href="https://antera.co.tz">
-        <img src="/assets/moja.webp" alt="antera logo" width="400">
-      </a>
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <a href="https://antera.co.tz">
-        <img src="/assets/moja-1.webp" alt="antera logo" width="400">
-      </a>
-    </td>
-  </tr>
 </table>
 
 # 💻 what is shadrackovsky building right now?
