@@ -1,0 +1,40 @@
+title: shadrackovsky
+description: AI/ML & Software Engineer from Tanzania
+theme: minima
+remote_theme: pages-themes/minima@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+baseurl: "/zuck30"
+url: "https://zuck30.github.io"
+
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .DS_Store
+
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "assets"
+    values:
+      image: true
+
+sass:
+  style: compressed
