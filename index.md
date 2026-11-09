@@ -132,35 +132,35 @@ layout: default
         <p>And yes, I am genuinely obsessed with Chinese AI, Chinese models, Chinese tools and Chinese open source. This is not a phase, it's a conviction:</p>
         
         <ul>
-          <li><strong>DeepSeek (深度求索)</strong> — my main API. Open weights, brutal efficiency, honest research. My Swahili-LM and Malaika are bootstrapped on it. DeepSeek-V3 and R1 proved that open source can stand at the frontier.</li>
-          <li><strong>Qwen (通义千问)</strong> — the most complete open model family on the planet, and qwencode is my daily terminal coding agent.</li>
-          <li><strong>Xiaomi Mimo</strong> — small, sharp, free. Proof that focus beats bloat.</li>
-          <li><strong>Zhipu GLM, MiniMax, Yi, BGE embeddings, ChatGLM</strong> — the Chinese open-source ecosystem is where I keep finding models that respect my GPU and my wallet.</li>
-          <li><strong>Hugging Face Chinese orgs (OpenGVLab, OpenBMB, ModelScope)</strong> — open weights, open architecture reports, open philosophy.</li>
+          <li><strong>DeepSeek (深度求索)</strong> : my main API. Open weights, brutal efficiency, honest research. My Swahili-LM and Malaika are bootstrapped on it. DeepSeek-V3 and R1 proved that open source can stand at the frontier.</li>
+          <li><strong>Qwen (通义千问)</strong> : the most complete open model family on the planet, and qwencode is my daily terminal coding agent.</li>
+          <li><strong>Xiaomi Mimo</strong> : small, sharp, free. Proof that focus beats bloat.</li>
+          <li><strong>Zhipu GLM, MiniMax, Yi, BGE embeddings, ChatGLM</strong> : the Chinese open-source ecosystem is where I keep finding models that respect my GPU and my wallet.</li>
+          <li><strong>Hugging Face Chinese orgs (OpenGVLab, OpenBMB, ModelScope)</strong> : open weights, open architecture reports, open philosophy.</li>
         </ul>
         
         <p>Why China? Because they ship. They publish the weights, publish the tech reports, and undercut the closed labs. For a self-taught engineer in Tanzania bootstrapping everything from scratch, Chinese open source AI is the great equalizer. 智者顺时而谋. It let me pre-train Swahili-GPT from scratch, fine-tune LoRA/QLoRA models, and build real systems without permission or a big budget.</p>
         
-        <p>My stack of preference: DeepSeek models + opencode / qwen code / kilocode / mimo code agents + Linux. If there's a Chinese open-source alternative for something, I'm trying it first. 「工欲善其事，必先利其器」 — to do the work well, first sharpen the tools.</p>
+        <p>My stack of preference: DeepSeek models + opencode / qwen code / kilocode / mimo code agents + Linux. If there's a Chinese open-source alternative for something, I'm trying it first. 「工欲善其事，必先利其器」 : to do the work well, first sharpen the tools.</p>
         
         <div class="tools-showcase">
           <h3>Tools I Prefer</h3>
           <div class="tools-grid">
             <a href="https://deepseek.com" target="_blank" rel="noopener" class="tool-card">
               <img src="{{ '/assets/qwen.webp' | relative_url }}" alt="Qwen" loading="lazy">
-              <span>Qwen Code — free, with DeepSeek API</span>
+              <span>Qwen Code : free, with DeepSeek API</span>
             </a>
             <a href="https://github.com/sst/opencode" target="_blank" rel="noopener" class="tool-card">
               <img src="{{ '/assets/opencode.webp' | relative_url }}" alt="OpenCode" loading="lazy">
-              <span>OpenCode — free, with DeepSeek API</span>
+              <span>OpenCode : free, with DeepSeek API</span>
             </a>
             <a href="https://kilocode.ai" target="_blank" rel="noopener" class="tool-card">
               <img src="{{ '/assets/kilo.webp' | relative_url }}" alt="KiloCode" loading="lazy">
-              <span>KiloCode — free, with DeepSeek API</span>
+              <span>KiloCode : free, with DeepSeek API</span>
             </a>
             <a href="https://xiaomi.com" target="_blank" rel="noopener" class="tool-card">
               <img src="{{ '/assets/mimo.webp' | relative_url }}" alt="Xiaomi MimoCode" loading="lazy">
-              <span>Xiaomi MimoCode — free, with DeepSeek API</span>
+              <span>Xiaomi MimoCode : free, with DeepSeek API</span>
             </a>
           </div>
         </div>
@@ -192,7 +192,7 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
-        <h3 class="project-caption">AI Mind Map — Tanzania</h3>
+        <h3 class="project-caption">AI Mind Map : Tanzania</h3>
         <p class="project-desc">This is artificial intelligence mind map in Tanzania that I created.</p>
         <img src="{{ '/assets/mind-map-0.webp' | relative_url }}" alt="AI Mind Map Tanzania" width="800" loading="lazy">
       </div>
@@ -210,7 +210,7 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
-        <h3 class="project-caption">Malaika — My AI Companion</h3>
+        <h3 class="project-caption">Malaika : My AI Companion</h3>
         <p class="project-desc">See Malaika, my AI companion.</p>
         <img src="{{ '/assets/malaika.webp' | relative_url }}" alt="Malaika AI Companion" width="800" loading="lazy">
       </div>
@@ -228,14 +228,14 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
-        <h3 class="project-caption">Bruno — Chat Agents Component Library</h3>
+        <h3 class="project-caption">Bruno : Chat Agents Component Library</h3>
         <p class="project-desc">If you wanna build chat agents, you don't need to start from scratch. Try Bruno and re-use the component in your app.</p>
         <img src="{{ '/assets/bruno-photoroom.webp' | relative_url }}" alt="Bruno Chat Agents" width="800" loading="lazy">
       </div>
       
       <div class="project-gallery-item">
         <h3 class="project-caption">Smarbo Digital</h3>
-        <p class="project-desc">Shadrackovsky is also a co-creator of Smarbo Digital — a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.</p>
+        <p class="project-desc">Shadrackovsky is also a co-creator of Smarbo Digital : a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.</p>
       </div>
       
       <div class="project-gallery-item">
@@ -303,7 +303,7 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
-        <h3 class="project-caption">Logitech G213 Prodigy — First Favorite Keyboard</h3>
+        <h3 class="project-caption">Logitech G213 Prodigy : First Favorite Keyboard</h3>
         <img src="{{ '/assets/g213-gallery-1-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
         <img src="{{ '/assets/g213-gallery-2-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
         <img src="{{ '/assets/g213-gallery-3-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
@@ -311,7 +311,7 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
-        <h3 class="project-caption">Epomaker x Aula F75 — Second Favorite Keyboard</h3>
+        <h3 class="project-caption">Epomaker x Aula F75 : Second Favorite Keyboard</h3>
         <img src="{{ '/assets/IMG-1.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
         <img src="{{ '/assets/IMG-2.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
         <img src="{{ '/assets/IMG-3.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
@@ -321,7 +321,7 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
-        <h3 class="project-caption">Antera — My Business</h3>
+        <h3 class="project-caption">Antera : My Business</h3>
         <img src="{{ '/assets/tech-showcase-photoroom.webp' | relative_url }}" alt="Antera Tech Showcase" width="400" loading="lazy">
         <img src="{{ '/assets/antera.webp' | relative_url }}" alt="Antera Logo" width="400" loading="lazy">
       </div>
@@ -358,7 +358,7 @@ layout: default
         <h3 class="project-caption">Coffee & Chess</h3>
         <p class="project-desc">Shadrackovsky loves coffee and chess.</p>
         <img src="{{ '/assets/mug.webp' | relative_url }}" alt="Coffee Mug" width="400" loading="lazy">
-        <img src="{{ '/assets/chessboard.webp' | relative_url }}" alt="Chess Board" width="400" loading="lazy">
+        <img src="{{ '/images/chessboard.webp' | relative_url }}" alt="Chess Board" width="400" loading="lazy">
       </div>
       
       <div class="project-gallery-item">
