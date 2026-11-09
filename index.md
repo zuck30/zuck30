@@ -97,88 +97,131 @@ layout: default
     <header class="section-header">
       <h2 id="projects-title" class="section-title">Projects</h2>
     </header>
-    <div class="cards-grid">
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-        </div>
-        <img src="{{ '/assets/malaika.webp' | relative_url }}" alt="Malaika screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">Malaika</h3>
-        <p class="card-desc">My AI companion - a personal assistant built with LLMs</p>
-        <a href="https://github.com/zuck30/Malaika" class="card-btn" target="_blank" rel="noopener">View on GitHub →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></svg>
-        </div>
-        <img src="{{ '/assets/swahili.webp' | relative_url }}" alt="Swahili-GPT screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">Swahili-GPT</h3>
-        <p class="card-desc">Swahili language model pre-trained from scratch</p>
-        <a href="https://github.com/zuck30/swahili-llm-scratch" class="card-btn" target="_blank" rel="noopener">View on GitHub →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
-        </div>
-        <img src="{{ '/assets/swahiba.webp' | relative_url }}" alt="SWAHIBA screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">SWAHIBA</h3>
-        <p class="card-desc">Bootstrapping Swahili-LM with DeepSeek API & prompt engineering</p>
-        <a href="https://github.com/zuck30/SWAHIBA" class="card-btn" target="_blank" rel="noopener">View on GitHub →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><path d="M8 21h8"></path><path d="M12 17v4"></path></svg>
-        </div>
-        <img src="{{ '/assets/bruno-photoroom.webp' | relative_url }}" alt="Bruno screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">Bruno</h3>
-        <p class="card-desc">Chat agents component library for reusable AI interfaces</p>
-        <a href="https://aibruno.vercel.app/" class="card-btn" target="_blank" rel="noopener">Live Demo →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>
-        </div>
-        <img src="{{ '/assets/smarbo-digital.webp' | relative_url }}" alt="Smarbo Digital screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">Smarbo Digital</h3>
-        <p class="card-desc">Event management platform for invitations, contributions & attendance</p>
-        <a href="https://smarbodigital.co.tz" class="card-btn" target="_blank" rel="noopener">Visit Site →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-        </div>
-        <img src="{{ '/assets/ajira-0.webp' | relative_url }}" alt="Ajira Connect screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">Ajira Connect</h3>
-        <p class="card-desc">Talent management platform for Tanzanian career seekers</p>
-        <a href="https://ajiraconnect.co.tz" class="card-btn" target="_blank" rel="noopener">Visit Site →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
-        </div>
-        <img src="{{ '/assets/sauti-1.webp' | relative_url }}" alt="Sauti Connect screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">Sauti Connect</h3>
-        <p class="card-desc">Customer service call center management system</p>
-        <a href="#" class="card-btn">Learn More →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-        </div>
-        <img src="{{ '/assets/pima.webp' | relative_url }}" alt="PimaFarm screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">PimaFarm</h3>
-        <p class="card-desc">Smart farming platform for tractor & machine monitoring</p>
-        <a href="#" class="card-btn">Learn More →</a>
-      </article>
-      <article class="card">
-        <div class="card-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-        </div>
-        <img src="{{ '/assets/afyaos.webp' | relative_url }}" alt="AfyaOS screenshot" style="width:100%;height:auto;display:block;margin:var(--spacing-md) 0;border:none;box-shadow:none;border-radius:0;">
-        <h3 class="card-title">AfyaOS</h3>
-        <p class="card-desc">Healthcare operating system for clinical workflows</p>
-        <a href="#" class="card-btn">Learn More →</a>
-      </article>
+    <div class="project-gallery">
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/laptop.webp' | relative_url }}" alt="Laptop" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/setapu-photoroom.webp' | relative_url }}" alt="Setup" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/building-a-software.webp' | relative_url }}" alt="Building Software" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/mind-map-0.webp' | relative_url }}" alt="AI Mind Map Tanzania" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/mind-map-1.webp' | relative_url }}" alt="AI Mind Map Tanzania 2" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/duck-photorom.webp' | relative_url }}" alt="Rubber Duck" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/malaika.webp' | relative_url }}" alt="Malaika AI Companion" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/swahili.webp' | relative_url }}" alt="Swahili-GPT" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/swahiba.webp' | relative_url }}" alt="SWAHIBA" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/bruno-photoroom.webp' | relative_url }}" alt="Bruno Chat Agents" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/smarbo-digital-5.webp' | relative_url }}" alt="Smarbo Digital" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/smarbo-digital.webp' | relative_url }}" alt="Smarbo Digital Dashboard" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/smarbo-digital-2.webp' | relative_url }}" alt="Smarbo Digital Payments" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/smarbo-digital-4.webp' | relative_url }}" alt="Smarbo Digital BongeGPT" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/smarbo-digital-3.webp' | relative_url }}" alt="Smarbo Digital Setup" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/smarbo-sign-in.webp' | relative_url }}" alt="Smarbo Sign In" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/mac-os.webp' | relative_url }}" alt="macOS Tahoe" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/garuda.webp' | relative_url }}" alt="Garuda Linux" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/garuda-1.webp' | relative_url }}" alt="Garuda Linux Dragonized" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/kubuntu.webp' | relative_url }}" alt="Kubuntu" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/chris-stapleton.webp' | relative_url }}" alt="Chris Stapleton" width="400" loading="lazy">
+        <img src="{{ '/assets/morgan-wallen.webp' | relative_url }}" alt="Morgan Wallen" width="400" loading="lazy">
+        <img src="{{ '/assets/luke-combs.webp' | relative_url }}" alt="Luke Combs" width="400" loading="lazy">
+        <img src="{{ '/assets/jackson-dean.webp' | relative_url }}" alt="Jackson Dean" width="400" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/g213-gallery-1-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
+        <img src="{{ '/assets/g213-gallery-2-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
+        <img src="{{ '/assets/g213-gallery-3-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
+        <img src="{{ '/assets/g213-gallery-4-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/IMG-1.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
+        <img src="{{ '/assets/IMG-2.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
+        <img src="{{ '/assets/IMG-3.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
+        <img src="{{ '/assets/IMG-4.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
+        <img src="{{ '/assets/IMG-5.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
+        <img src="{{ '/assets/IMG-6.webp' | relative_url }}" alt="Epomaker x Aula F75" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/tech-showcase-photoroom.webp' | relative_url }}" alt="Antera Tech Showcase" width="400" loading="lazy">
+        <img src="{{ '/assets/antera.webp' | relative_url }}" alt="Antera Logo" width="400" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/window.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
+        <img src="{{ '/assets/ajira-0.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
+        <img src="{{ '/assets/ajira-1.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/sauti-1.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
+        <img src="{{ '/assets/sauti-2.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
+        <img src="{{ '/assets/sauti-3.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
+        <img src="{{ '/assets/sauti-4.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/pima.webp' | relative_url }}" alt="PimaFarm" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/afyaos.webp' | relative_url }}" alt="AfyaOS" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/mug.webp' | relative_url }}" alt="Coffee Mug" width="400" loading="lazy">
+        <img src="{{ '/assets/chessboard.webp' | relative_url }}" alt="Chess Board" width="400" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/qwen.webp' | relative_url }}" alt="Qwen" width="800" loading="lazy">
+        <img src="{{ '/assets/opencode.webp' | relative_url }}" alt="OpenCode" width="800" loading="lazy">
+        <img src="{{ '/assets/kilo.webp' | relative_url }}" alt="KiloCode" width="800" loading="lazy">
+        <img src="{{ '/assets/mimo.webp' | relative_url }}" alt="Xiaomi MimoCode" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/blacksand.webp' | relative_url }}" alt="Black Sand Adventures" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-item">
+        <img src="{{ '/assets/setup.webp' | relative_url }}" alt="Desk Setup" width="800" loading="lazy">
+        <img src="{{ '/assets/setup-2.png' | relative_url }}" alt="Desk Setup 2" width="800" loading="lazy">
+      </div>
+      <div class="project-gallery-cta">
+        <a href="https://github.com/zuck30" target="_blank" rel="noopener" class="btn btn-primary">
+          <img src="https://cdn-icons-png.flaticon.com/128/25/25471.png" alt="" class="flaticon" style="width:18px;height:18px;">
+          View All on GitHub
+        </a>
+      </div>
     </div>
   </div>
 </section>
@@ -190,7 +233,10 @@ layout: default
     </header>
     <div style="max-width: 500px; margin: 0 auto; text-align: center;">
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-bottom: var(--spacing-lg);">Open for freelance contracts in AI/ML and web development, open-source AI collaborations, remote software engineering roles.</p>
-      <a href="mailto:mwalyangashadrack@gmail.com" class="btn btn-primary" style="width: 100%; max-width: 300px;">Email Me →</a>
+      <a href="mailto:mwalyangashadrack@gmail.com" class="btn btn-primary" style="width: 100%; max-width: 300px; display:inline-flex;align-items:center;gap:var(--spacing-sm);">
+        <img src="https://cdn-icons-png.flaticon.com/128/15047/15047587.png" alt="" class="flaticon" style="width:18px;height:18px;">
+        Email Me
+      </a>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm); margin-top: var(--spacing-xl);">
         <a href="https://sheddysilicon.netlify.app" target="_blank" rel="noopener" style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-secondary); padding: var(--spacing-xs) var(--spacing-md); border: 1px solid var(--border); border-radius: var(--radius-md); transition: all var(--transition);" onmouseover="this.style.borderColor='var(--accent)'; this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)'; this.style.color='var(--text-secondary)'">Portfolio</a>
         <a href="https://sheddydev.netlify.app/" target="_blank" rel="noopener" style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-secondary); padding: var(--spacing-xs) var(--spacing-md); border: 1px solid var(--border); border-radius: var(--radius-md); transition: all var(--transition);" onmouseover="this.style.borderColor='var(--accent)'; this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)'; this.style.color='var(--text-secondary)'">Blog</a>

@@ -446,6 +446,35 @@ a:focus-visible {
   text-decoration: none;
 }
 
+.project-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xl);
+  align-items: center;
+}
+
+.project-gallery-item {
+  width: 100%;
+  max-width: 900px;
+  text-align: center;
+}
+
+.project-gallery-item img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  margin: 0 var(--spacing-xs);
+}
+
+.project-gallery-cta {
+  margin-top: var(--spacing-xl);
+  padding-top: var(--spacing-xl);
+  border-top: 1px solid var(--border);
+  width: 100%;
+  max-width: 900px;
+  text-align: center;
+}
+
 .section {
   padding: var(--spacing-xl) 0;
 }
