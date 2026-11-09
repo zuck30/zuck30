@@ -151,6 +151,20 @@ layout: default
           <a href="https://antera.co.tz" target="_blank">Antera</a>
         </div>
       </section>
+
+      <section id="hire" class="section">
+        <h2>Hire Me</h2>
+        <p align="center">
+          <a href="https://github.com/zuck30">
+            <img src="{{ '/assets/setup.webp' | relative_url }}" alt="Desk setup" width="800" class="hire-image">
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/zuck30">
+            <img src="{{ '/assets/setup-2.webp' | relative_url }}" alt="Desk setup 2" width="800" class="hire-image">
+          </a>
+        </p>
+      </section>
     </div>
   </main>
 
