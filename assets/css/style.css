@@ -724,14 +724,6 @@ a:focus-visible {
   border-bottom: 1px solid var(--border);
 }
 
-.section-title::before,
-.section-title::after {
-  content: '';
-  width: 24px;
-  height: 1px;
-  background: var(--border);
-}
-
 .cards-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
