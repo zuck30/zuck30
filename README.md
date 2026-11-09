@@ -505,4 +505,10 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/setup-2.png" alt="zuck30" width="800">
+    </a>
+</p>
+
 # 📩 mwalyangashadrack@gmail.com
