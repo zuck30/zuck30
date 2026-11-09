@@ -357,11 +357,6 @@
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/window-1.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://ajiraconnect.co.tz">
         <img src="/assets/window-2.webp" alt="antera logo" width="800">
     </a>
 </p>
