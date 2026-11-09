@@ -358,7 +358,7 @@
   <tr>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/window-1.png" alt="antera logo" width="800">
+        <img src="/assets/window-1.webp" alt="antera logo" width="800">
       </a>
     </td>
     <td align="center" style="border: none; padding: 10px;">
