@@ -354,20 +354,17 @@
 # ⌛ ajira connect is a next.js-based talent management platform empowering tanzanian career seekers and transforming businesses.
 
 
-<table align="center">
-  <tr>
-    <td align="center" style="border: none; padding: 10px;">
-      <a href="https://ajiraconnect.co.tz">
+<p align="center">
+    <a href="https://ajiraconnect.co.tz">
         <img src="/assets/window-1.webp" alt="antera logo" width="800">
-      </a>
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <a href="https://ajiraconnect.co.tz">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://ajiraconnect.co.tz">
         <img src="/assets/window-2.webp" alt="antera logo" width="800">
-      </a>
-    </td>
-  </tr>
-</table>
+    </a>
+</p>
 
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
