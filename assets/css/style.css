@@ -720,12 +720,11 @@ a:focus-visible {
 .footer-social .flaticon {
   width: 22px;
   height: 22px;
-  filter: brightness(0) saturate(100%) invert(60%);
-  transition: filter var(--transition);
+  transition: opacity var(--transition);
 }
 
 .footer-social a:hover .flaticon {
-  filter: brightness(0) saturate(100%) invert(80%) sepia(30%) saturate(800%) hue-rotate(170deg);
+  opacity: 0.8;
 }
 
 .footer-text {
