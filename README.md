@@ -417,8 +417,8 @@
 
 # ⌛ramani. it is a map of the good web uis worth stealing from, tools worth keeping.
 <p align="center">
-    <a href="zuck30.github.io/ramani">
-        <img src="/assets/ramani-2.png" alt="header banner" width="800">
+    <a href="https://zuck30.github.io/ramani/">
+        <img src="{{ '/assets/ramani-2.png' | relative_url }}" alt="Ramani Screenshot" width="800">
     </a>
 </p>
 

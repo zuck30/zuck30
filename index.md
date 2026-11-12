@@ -333,6 +333,14 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
+        <h3 class="project-caption">Ramani</h3>
+        <p class="project-desc">Ramani is a map of the good web UIs worth stealing from, tools worth keeping.</p>
+        <a href="https://zuck30.github.io/ramani/" target="_blank" rel="noopener">
+        <img src="{{ '/assets/ramani-2.png' | relative_url }}" alt="Ramani Screenshot" width="800" loading="lazy">
+      </a>
+      </div>
+      
+      <div class="project-gallery-item">
         <h3 class="project-caption">Coffee & Chess</h3>
         <p class="project-desc">Shadrackovsky loves coffee and chess.</p>
         <img src="{{ '/assets/mug.webp' | relative_url }}" alt="Coffee Mug" width="400" loading="lazy">
