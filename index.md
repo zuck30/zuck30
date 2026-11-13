@@ -339,7 +339,22 @@ layout: default
         <img src="{{ '/assets/ramani-2.png' | relative_url }}" alt="Ramani Screenshot" width="800" loading="lazy">
       </a>
       </div>
-      
+
+      <div class="project-gallery-item">
+        <h3 class="project-caption">DanDaDan : Anime Recommendation Engine</h3>
+        <p class="project-desc">A cinematic, single-page anime recommendation engine. Type your mood, thoughts, or previous anime and the engine recommends an anime for you.</p>
+        <a href="https://animedandadan.vercel.app" target="_blank" rel="noopener">
+        <img src="{{ '/assets/dan-1.webp' | relative_url }}" alt="DanDaDan" width="800" loading="lazy">
+        </a>
+      </div>
+
+      <div class="project-gallery-item">
+        <h3 class="project-caption">DanDaDan : Recommendations</h3>
+        <a href="https://animedandadan.vercel.app" target="_blank" rel="noopener">
+        <img src="{{ '/assets/dan-2.webp' | relative_url }}" alt="DanDaDan Recommendations" width="800" loading="lazy">
+        </a>
+      </div>
+
       <div class="project-gallery-item">
         <h3 class="project-caption">Coffee & Chess</h3>
         <p class="project-desc">Shadrackovsky loves coffee and chess.</p>

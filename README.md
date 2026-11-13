@@ -430,6 +430,22 @@
     </a>
 </p>
 
+# ⌛ dandadan.
+# this project is a cinematic, single-page anime recommendation engine.
+
+<p align="center">
+    <a href="https://animedandadan.vercel.app">
+        <img src="/assets/dan-1.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# you just type your mood or thoughts or previous anime that you watched and the engine recommends an anime for you. 
+<p align="center">
+    <a href="https://animedandadan.vercel.app">
+        <img src="/assets/dan-2.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
 # 𖡎 shadrackovsky loves coffee and chess.
 
 <table align="center">
