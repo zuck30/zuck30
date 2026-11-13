@@ -475,11 +475,11 @@
 
 # 🐉 and yes, i am genuinely obsessed with chinese ai, chinese models, chinese tools and chinese open source. this is not a phase, it's a conviction:
 
-- **deepseek (深度求索)** my main api. open weights, brutal efficiency, honest research. my swahili-lm and malaika are bootstrapped on it. deepseek-v3 and r1 proved that open source can stand at the frontier.
-- **qwen (通义千问)** the most complete open model family on the planet, and qwencode is my daily terminal coding agent.
-- **xiaomi mimo** small, sharp, free. proof that focus beats bloat.
-- **zhipu glm, minimax, yi, bge embeddings, chatglm** the chinese open-source ecosystem is where i keep finding models that respect my gpu and my wallet.
-- **hugging face chinese orgs (opengvlab, openbmb, modelscope)** open weights, open architecture reports, open philosophy.
+# **deepseek (深度求索)** my main api. open weights, brutal efficiency, honest research. my swahili-lm and malaika are bootstrapped on it. deepseek-v3 and r1 proved that open source can stand at the frontier.
+# **qwen (通义千问)** the most complete open model family on the planet, and qwencode is my daily terminal coding agent.
+# **xiaomi mimo** small, sharp, free. proof that focus beats bloat.
+# **zhipu glm, minimax, yi, bge embeddings, chatglm** the chinese open-source ecosystem is where i keep finding models that respect my gpu and my wallet.
+# **hugging face chinese orgs (opengvlab, openbmb, modelscope)** open weights, open architecture reports, open philosophy.
 
 # why china? because they ship. they publish the weights, publish the tech reports, and undercut the closed labs. for a self-taught engineer in tanzania bootstrapping everything from scratch, chinese open source ai is the great equalizer. 智者顺时而谋. it let me pre-train swahili-gpt from scratch, fine-tune lora/qlora models, and build real systems without permission or a big budget.
 
