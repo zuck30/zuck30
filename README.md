@@ -1,12 +1,5 @@
 <div align="center">
 
-[![](https://img.shields.io/badge/me-sheddysilicon.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddysilicon.netlify.app)
-[![](https://img.shields.io/badge/blog-sheddydev.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddydev.netlify.app/)
-[![](https://img.shields.io/badge/business-ags-58a6ff?style=flat-square&labelColor=0d1117)](https://antera.co.tz)
-[![](https://img.shields.io/badge/instagram-sheddysilicon-58a6ff?style=flat-square&labelColor=0d1117&logo=instagram&logoColor=58a6ff)](https://instagram.com/sheddysilicon)
-[![](https://img.shields.io/badge/website-zuck30.github.io-58a6ff?style=flat-square&labelColor=0d1117&logo=github&logoColor=58a6ff)](https://zuck30.github.io/zuck30)
-[![](https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30&color=58a6ff&labelColor=0d1117)](https://github.com/zuck30)
-
 # ✌︎㋡ this is shadrackovsky timothy john mwalyanga (sheldon).
 </div>
 
@@ -15,6 +8,14 @@
         <img src="/src/header-1.webp" alt="header banner" width="800">
     </a>
 </p>
+
+[![](https://img.shields.io/badge/blog-sheddydev.netlify.app-58a6ff?style=flat-square&labelColor=0d1117)](https://sheddydev.netlify.app/)
+[![](https://img.shields.io/badge/business-ags-58a6ff?style=flat-square&labelColor=0d1117)](https://antera.co.tz)
+[![](https://img.shields.io/badge/instagram-sheddysilicon-58a6ff?style=flat-square&labelColor=0d1117&logo=instagram&logoColor=58a6ff)](https://instagram.com/sheddysilicon)
+[![](https://img.shields.io/badge/website-zuck30.github.io-58a6ff?style=flat-square&labelColor=0d1117&logo=github&logoColor=58a6ff)](https://zuck30.github.io/zuck30)
+[![](https://visitor-badge.laobi.icu/badge?page_id=zuck30.zuck30&color=58a6ff&labelColor=0d1117)](https://github.com/zuck30)
+[![EN](https://img.shields.io/badge/EN-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.md)
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.zh.md)
 
 
 # ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am an aspiring **ai - ml** and **software engineer** from tanzania 🤓🇹🇿, doing web applications development, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
