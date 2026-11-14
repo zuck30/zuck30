@@ -470,10 +470,16 @@ layout: default
     </header>
     <div style="max-width: 500px; margin: 0 auto; text-align: center;">
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-bottom: var(--spacing-lg);">Open for freelance contracts in AI/ML and web development, open-source AI collaborations, remote software engineering roles.</p>
-      <a href="mailto:mwalyangashadrack@gmail.com" class="btn btn-primary" style="width: 100%; max-width: 300px; display:inline-flex;align-items:center;gap:var(--spacing-sm);">
-        <img src="https://cdn-icons-png.flaticon.com/128/15047/15047587.png" alt="" class="flaticon" style="width:18px;height:18px;">
-        Email Me
-      </a>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm);">
+        <a href="mailto:mwalyangashadrack@gmail.com" class="btn btn-primary" style="width: 100%; max-width: 300px; display:inline-flex;align-items:center;justify-content:center;gap:var(--spacing-sm);">
+          <img src="https://cdn-icons-png.flaticon.com/128/15047/15047587.png" alt="" class="flaticon" style="width:18px;height:18px;">
+          Email Me
+        </a>
+        <a href="mailto:sheldoncodesdaily@gmail.com" class="btn btn-primary" style="width: 100%; max-width: 300px; display:inline-flex;align-items:center;justify-content:center;gap:var(--spacing-sm);">
+          <img src="https://cdn-icons-png.flaticon.com/128/15047/15047587.png" alt="" class="flaticon" style="width:18px;height:18px;">
+          sheldoncodesdaily@gmail.com
+        </a>
+      </div>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm); margin-top: var(--spacing-xl);">
         <a href="https://sheddysilicon.netlify.app" target="_blank" rel="noopener" style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-secondary); padding: var(--spacing-xs) var(--spacing-md); border: 1px solid var(--border); border-radius: var(--radius-md); transition: all var(--transition);" onmouseover="this.style.borderColor='var(--accent)'; this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)'; this.style.color='var(--text-secondary)'">Portfolio</a>
         <a href="https://sheddydev.netlify.app/" target="_blank" rel="noopener" style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-secondary); padding: var(--spacing-xs) var(--spacing-md); border: 1px solid var(--border); border-radius: var(--radius-md); transition: all var(--transition);" onmouseover="this.style.borderColor='var(--accent)'; this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)'; this.style.color='var(--text-secondary)'">Blog</a>
