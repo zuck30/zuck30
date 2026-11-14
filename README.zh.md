@@ -353,7 +353,7 @@
 
 # 💻 shadrackovsky 现在正在构建什么？
 
-# ⌛ ajira connect 是一个基于 next.js 的人才管理平台，赋能坦桑尼亚求职者并改变企业。
+# ⌛ ajira connect 是一个人才管理平台，赋能坦桑尼亚求职者并改变企业。
 
 
 <p align="center">
@@ -369,13 +369,26 @@
 </p>
 
 
-# ⌛ 它帮助专业人士构建 AI 增强的简历与求职信，对照职位描述分析技能差距，并成功求职。
+# ⌛ 它帮助专业人士构建 AI 增强的简历与求职信。
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/ajira-1.webp" alt="antera logo" width="800">
     </a>
 </p>
 
+# ⌛ 对照职位描述分析技能差距，并成功求职。
+<p align="center">
+    <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/ajira-2.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# ⌛ 我们的智能引擎利用 AI 将你的经历转化为有影响力、以成就为导向的内容。
+<p align="center">
+    <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/cv-builder.webp" alt="antera logo" width="800">
+    </a>
+</p>
 
 # ⌛ sauti connect。它是一支客户服务坐席团队，在集中地点或远程管理呼入与呼出电话。
 # 1

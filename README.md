@@ -353,7 +353,7 @@
 
 # 💻 what is shadrackovsky building right now?
 
-# ⌛ ajira connect is a next.js-based talent management platform empowering tanzanian career seekers and transforming businesses.
+# ⌛ ajira connect is a talent management platform empowering tanzanian career seekers and transforming businesses.
 
 
 <p align="center">
@@ -369,13 +369,26 @@
 </p>
 
 
-# ⌛ it helps professionals build ai-enhanced cvs and cover letters, analyze skill gaps against job descriptions, and land jobs.
+# ⌛ it helps professionals build ai-enhanced cvs and cover letters.
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/ajira-1.webp" alt="antera logo" width="800">
     </a>
 </p>
 
+# ⌛ analyze skill gaps against job descriptions, and land jobs.
+<p align="center">
+    <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/ajira-2.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# ⌛ our intelligent engine uses ai to transform your experience into impactful, achievement-focused content.
+<p align="center">
+    <a href="https://ajiraconnect.co.tz">
+        <img src="/assets/cv-builder.webp" alt="antera logo" width="800">
+    </a>
+</p>
 
 # ⌛ sauti connect. it's is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
 # 1
