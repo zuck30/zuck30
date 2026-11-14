@@ -306,10 +306,12 @@ layout: default
       
       <div class="project-gallery-item">
         <h3 class="project-caption">Ajira Connect</h3>
-        <p class="project-desc">Ajira Connect is a Next.js-based talent management platform empowering Tanzanian career seekers and transforming businesses.</p>
+        <p class="project-desc">Ajira Connect is a talent management platform empowering Tanzanian career seekers and transforming businesses. It helps professionals build AI-enhanced CVs and cover letters, analyze skill gaps against job descriptions, and land jobs.</p>
         <img src="{{ '/assets/window.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
         <img src="{{ '/assets/ajira-0.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
         <img src="{{ '/assets/ajira-1.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
+        <img src="{{ '/assets/ajira-2.webp' | relative_url }}" alt="Ajira Connect" width="800" loading="lazy">
+        <img src="{{ '/assets/cv-builder.webp' | relative_url }}" alt="Ajira Connect CV Builder" width="800" loading="lazy">
       </div>
       
       <div class="project-gallery-item">
