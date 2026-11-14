@@ -432,7 +432,7 @@
 </p>
 
 # ⌛ dandadan.
-# this project is a cinematic, single-page anime recommendation engine.
+# this project is a cinematic, spa anime recommendation engine.
 
 <p align="center">
     <a href="https://animedandadan.vercel.app">
