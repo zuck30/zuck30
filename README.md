@@ -549,5 +549,4 @@
     </a>
 </p>
 
-# 📩 mwalyangashadrack@gmail.com 
-# 📩 sheldoncodesdaily@gmail.com
+# 📩 mwalyangashadrack@gmail.com or sheldoncodesdaily@gmail.com
