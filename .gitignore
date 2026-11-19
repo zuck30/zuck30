@@ -7,3 +7,5 @@
 *.bak
 # Backup files
 *.tmp
+# private tender documents
+tenders/

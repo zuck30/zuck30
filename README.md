@@ -35,7 +35,7 @@
 </p> -->
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,js,ts,cpp,bash,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,ruby,django,js,ts,cpp,bash,html,css&perline=9"/>
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=java,react,fastapi,tailwind,vite&perline=6"/>
@@ -49,16 +49,48 @@
 
 # 💡👾 roadmap i'm focusing right now.
 
-| field | what i'm mastering right now |
-|------|---------------------|
-| **genai & llms** | fine-tuning (lora/qlora), rag systems, chroma vector db, hugging face |
-| **python & data** | fastapi, pandas, numpy, pytorch, ai models and large dataset trainings |
-| **data engineering** | sql, data cleaning, pipelining, api integration |
-| **cloud & devops** | docker, kurbenetes, git |
-| **frontend** | react, next, vite, tailwind css, shadcn-ui |
-| **backend** | supabase, django, springboot |
-| **desktop applications** | tauri, electron, pyqt, tkinter, rust|
-| **computational finance** | quantitative modeling, algorithmic trading, risk analysis, portfolio optimization |
+<table width="100%" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th style="border: 4px double #8b949e; padding: 10px; text-align: left;">field</th>
+      <th style="border: 4px double #8b949e; padding: 10px; text-align: left;">what i'm mastering right now</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>genai &amp; llms</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">fine-tuning (lora/qlora), rag systems,<br>chroma vector db, hugging face</td>
+    </tr>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>python &amp; data</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">fastapi, pandas, numpy, pytorch,<br>ai models and large dataset trainings</td>
+    </tr>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>data engineering</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">sql, data cleaning,<br>pipelining, api integration</td>
+    </tr>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>cloud &amp; devops</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">docker, kurbenetes,<br>git</td>
+    </tr>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>frontend</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">react, next, vite,<br>tailwind css, shadcn-ui</td>
+    </tr>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>backend</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">supabase, django,<br>springboot</td>
+    </tr>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>desktop applications</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">tauri, electron, pyqt,<br>tkinter, rust</td>
+    </tr>
+    <tr>
+      <td style="border: 4px double #8b949e; padding: 10px;"><strong>computational finance</strong></td>
+      <td style="border: 4px double #8b949e; padding: 10px;">quantitative modeling, algorithmic trading,<br>risk analysis, portfolio optimization</td>
+    </tr>
+  </tbody>
+</table>
 
 # 💻 my learning framework.
 
