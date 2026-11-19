@@ -347,32 +347,17 @@
     </a>
 </p>
 
-# ⌛ sauti connect。它是一支客户服务坐席团队，在集中地点或远程管理呼入与呼出电话。
-# 1
+# ⌛ nest studio。它是一支客户服务坐席团队，在集中地点或远程管理呼入与呼出电话。
+
 <p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-1.webp" alt="antera logo" width="800">
+    <a href="https://neststudio.netlify.app">
+        <img src="/assets/nest-0.webp" alt="nest studio" width="800">
     </a>
 </p>
 
-# 2
 <p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 3
-<p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-3.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 4
-<p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-4.webp" alt="antera logo" width="800">
+    <a href="https://neststudio.netlify.app">
+        <img src="/assets/nest-1.webp" alt="nest studio" width="800">
     </a>
 </p>
 

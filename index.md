@@ -36,6 +36,7 @@ layout: default
         <h3 class="card-title">Languages & Core</h3>
         <div class="skills-logos">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="tech-logo" title="Python">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" class="tech-logo" title="Ruby">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" class="tech-logo" title="JavaScript">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" class="tech-logo" title="TypeScript">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" class="tech-logo" title="C++">
@@ -220,34 +221,7 @@ layout: default
         <h3 class="project-caption">Know Who's Coming</h3>
         <img src="{{ '/assets/smarbo-digital-5.webp' | relative_url }}" alt="Smarbo Digital" width="800" loading="lazy">
       </div>
-      
-      <div class="project-gallery-item">
-        <h3 class="project-caption">See What's Happening Days Before Your Event</h3>
-        <img src="{{ '/assets/smarbo-digital.webp' | relative_url }}" alt="Smarbo Digital Dashboard" width="800" loading="lazy">
-      </div>
-      
-      <div class="project-gallery-item">
-        <h3 class="project-caption">Know Who Has Paid</h3>
-        <img src="{{ '/assets/smarbo-digital-2.webp' | relative_url }}" alt="Smarbo Digital Payments" width="800" loading="lazy">
-      </div>
-      
-      <div class="project-gallery-item">
-        <h3 class="project-caption">Talk to BongeGPT</h3>
-        <img src="{{ '/assets/smarbo-digital-4.webp' | relative_url }}" alt="Smarbo Digital BongeGPT" width="800" loading="lazy">
-      </div>
-      
-      <div class="project-gallery-item">
-        <h3 class="project-caption">Set Up in No Time</h3>
-        <p class="project-desc">You can set it up in no time or talk to our team.</p>
-        <img src="{{ '/assets/smarbo-digital-3.webp' | relative_url }}" alt="Smarbo Digital Setup" width="800" loading="lazy">
-      </div>
-      
-      <div class="project-gallery-item">
-        <h3 class="project-caption">Login & Create Account</h3>
-        <p class="project-desc">Login and create your Smarbo Digital account today.</p>
-        <img src="{{ '/assets/smarbo-sign-in.webp' | relative_url }}" alt="Smarbo Sign In" width="800" loading="lazy">
-      </div>
-      
+
       <div class="project-gallery-item">
         <h3 class="project-caption">macOS Tahoe 26</h3>
         <p class="project-desc">macOS Tahoe 26 is my favorite OS. The hardware integration is genuinely absurd.</p>
@@ -315,12 +289,12 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
-        <h3 class="project-caption">Sauti Connect</h3>
-        <p class="project-desc">Sauti Connect is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.</p>
-        <img src="{{ '/assets/sauti-1.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
-        <img src="{{ '/assets/sauti-2.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
-        <img src="{{ '/assets/sauti-3.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
-        <img src="{{ '/assets/sauti-4.webp' | relative_url }}" alt="Sauti Connect" width="800" loading="lazy">
+        <h3 class="project-caption">Nest Studio</h3>
+        <p class="project-desc">Nest Studio is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.</p>
+        <a href="https://neststudio.netlify.app" target="_blank" rel="noopener">
+        <img src="{{ '/assets/nest-0.webp' | relative_url }}" alt="Nest Studio" width="800" loading="lazy">
+        <img src="{{ '/assets/nest-1.webp' | relative_url }}" alt="Nest Studio" width="800" loading="lazy">
+        </a>
       </div>
       
       <div class="project-gallery-item">
