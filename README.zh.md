@@ -35,7 +35,7 @@
 </p> -->
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,js,ts,cpp,bash,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,ruby,django,js,ts,cpp,bash,html,css&perline=9"/>
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=java,react,fastapi,tailwind,vite&perline=6"/>
@@ -483,7 +483,7 @@
 
 # 🤠 更多关于我的个性、文化与创作流程。
 
-# 我是 shadrackovsky，冷静、从容、安静而执着。我以系统思考，在沉默中工作，让作品说话。我与中华文化有着极深的共鸣：那份自律、耐心、书香传统中先精通技艺再对外宣告的理念，以及 匠心（jiàngxīn）——匠人之心，全神贯注地打造，绝不走捷径。
+# 我是 shadrackovsky，冷静、从容、安静而执着。我以系统思考，在沉默中工作，让作品说话。我与中华文化有着极深的共鸣：那份自律、耐心、书香传统中先精通技艺再对外宣告的理念，以及 匠心（jiàngxīn） - 匠人之心，全神贯注地打造，绝不走捷径。
 
 # 我的创作流程遵循这种精神。我先观察，快速原型，无情迭代，打磨到感觉对了为止。我保持一张小书桌、一只小黄鸭、一副用于策略性休息的棋盘，以及漫长的深夜时光，让想法在安静中复利。巧者劳而智者忧。深度工作胜过喧嚣。完成胜过空谈。
 
