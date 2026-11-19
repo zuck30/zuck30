@@ -187,49 +187,6 @@
     </a>
 </p>
 
-# 🏆 在活动开始前几天了解正在发生什么。
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 💵 知道谁已经付款。
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-
-# 🤖 与 bongegpt 对话。
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-4.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-
-# ⌛ 你可以瞬间完成设置，或与我们的团队沟通。
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-3.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-
-
-# ⌛ 今天就登录并创建你的 smarbo digital 账户。
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz/login">
-        <img src="/assets/smarbo-sign-in.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
 # 🙌 mac os tahoe 26 是我最喜欢的操作系统。它的硬件整合确实令人惊叹。
 
 <p align="center">

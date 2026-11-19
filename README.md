@@ -219,49 +219,6 @@
     </a>
 </p>
 
-# 🏆 see what's happening days before your event.
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 💵 know who has paid.
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-
-# 🤖 talk to bongegpt.
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-4.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-
-# ⌛ you can set it up in no time or talk to our team.
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz">
-        <img src="/assets/smarbo-digital-3.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-
-
-# ⌛ login and create your smarbo digital account today.
-
-<p align="center">
-    <a href="https://smarbodigital.co.tz/login">
-        <img src="/assets/smarbo-sign-in.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
 # 🙌 mac os tahoe 26 is my favorite os. the hardware integration is genuinely absurd.
 
 <p align="center">
