@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<table border="1" cellspacing="1" cellpadding="8" align="center" style="border-collapse: separate; border-spacing: 1px; margin-left: auto; margin-right: auto;">
+<table border="1" cellspacing="1" cellpadding="8" align="center" style="border-collapse: separate; border-spacing: 1px; margin-left: auto; margin-right: auto; font-size: 14px;">
   <tr>
     <th style="border: 1px solid #8b949e; padding: 8px;">field</th>
     <th style="border: 1px solid #8b949e; padding: 8px;">what i'm mastering right now</th>
