@@ -379,32 +379,17 @@
     </a>
 </p>
 
-# ⌛ sauti connect. it's is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
-# 1
+# ⌛ nest studio. it is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
+
 <p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-1.webp" alt="antera logo" width="800">
+    <a href="https://neststudio.netlify.app">
+        <img src="/assets/nest-0.webp" alt="nest studio" width="800">
     </a>
 </p>
 
-# 2
 <p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 3
-<p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-3.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# 4
-<p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/sauti-4.webp" alt="antera logo" width="800">
+    <a href="https://neststudio.netlify.app">
+        <img src="/assets/nest-1.webp" alt="nest studio" width="800">
     </a>
 </p>
 
