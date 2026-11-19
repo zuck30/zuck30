@@ -49,48 +49,48 @@
 
 # 💡👾 roadmap i'm focusing right now.
 
-<table width="100%" cellpadding="0" cellspacing="0">
-  <thead>
-    <tr>
-      <th style="border: 4px double #8b949e; padding: 10px; text-align: left;">field</th>
-      <th style="border: 4px double #8b949e; padding: 10px; text-align: left;">what i'm mastering right now</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>genai &amp; llms</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">fine-tuning (lora/qlora), rag systems,<br>chroma vector db, hugging face</td>
-    </tr>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>python &amp; data</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">fastapi, pandas, numpy, pytorch,<br>ai models and large dataset trainings</td>
-    </tr>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>data engineering</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">sql, data cleaning,<br>pipelining, api integration</td>
-    </tr>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>cloud &amp; devops</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">docker, kurbenetes,<br>git</td>
-    </tr>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>frontend</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">react, next, vite,<br>tailwind css, shadcn-ui</td>
-    </tr>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>backend</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">supabase, django,<br>springboot</td>
-    </tr>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>desktop applications</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">tauri, electron, pyqt,<br>tkinter, rust</td>
-    </tr>
-    <tr>
-      <td style="border: 4px double #8b949e; padding: 10px;"><strong>computational finance</strong></td>
-      <td style="border: 4px double #8b949e; padding: 10px;">quantitative modeling, algorithmic trading,<br>risk analysis, portfolio optimization</td>
-    </tr>
-  </tbody>
+<div align="center">
+
+<table border="1" cellspacing="1" cellpadding="8" align="center" style="border-collapse: separate; border-spacing: 1px; margin-left: auto; margin-right: auto;">
+  <tr>
+    <th style="border: 1px solid #8b949e; padding: 8px;">field</th>
+    <th style="border: 1px solid #8b949e; padding: 8px;">what i'm mastering right now</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>genai &amp; llms</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">fine-tuning (lora/qlora), rag systems, chroma vector db, hugging face</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>python &amp; data</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">fastapi, pandas, numpy, pytorch, ai models and large dataset trainings</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>data engineering</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">sql, data cleaning, pipelining, api integration</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>cloud &amp; devops</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">docker, kurbenetes, git</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>frontend</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">react, next, vite, tailwind css, shadcn-ui</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>backend</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">supabase, django, springboot</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>desktop applications</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">tauri, electron, pyqt, tkinter, rust</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>computational finance</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">quantitative modeling, algorithmic trading, risk analysis, portfolio optimization</td>
+  </tr>
 </table>
+
+</div>
 
 # 💻 my learning framework.
 
