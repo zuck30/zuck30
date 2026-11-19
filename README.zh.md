@@ -374,7 +374,7 @@
 # ⌛ramani。它是一张值得借鉴的优秀 Web UI 地图，也是值得保留的工具。
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-2.png" alt="Ramani Screenshot" width="800">
+        <img src="/assets/ramani-2.webp" alt="Ramani Screenshot" width="800">
     </a>
 </p>
 
