@@ -500,7 +500,7 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/setup-2.webp" alt="zuck30" width="800">
+        <img src="/assets/pixel.webp" alt="zuck30" width="800">
     </a>
 </p>
 

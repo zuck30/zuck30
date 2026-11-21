@@ -361,7 +361,7 @@ layout: default
       <div class="project-gallery-item">
         <h3 class="project-caption">Desk Setup</h3>
         <img src="{{ '/assets/setup.webp' | relative_url }}" alt="Desk Setup" width="800" loading="lazy">
-        <img src="{{ '/assets/setup-2.webp' | relative_url }}" alt="Desk Setup 2" width="800" loading="lazy">
+        <img src="{{ '/assets/pixel.webp' | relative_url }}" alt="Desk Setup 2" width="800" loading="lazy">
         <img src="{{ '/assets/grovemade-studio-pad-wool-dark-m.webp' | relative_url }}" alt="Desk Setup 3" width="800" loading="lazy">
       </div>
       
