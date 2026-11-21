@@ -6,7 +6,7 @@ layout: default
   <div class="hero-badge">MADE FOR A HUMAN</div>
   <h1 id="hero-title" class="hero-title">shadrackovsky</h1>
   <h2 class="hero-headline">AI/ML & Software Engineer from <span class="highlight">Tanzania</span></h2>
-  <p class="hero-subtitle">Building intelligent systems with LLMs, RAG, fine-tuning, and modern web technologies. Self-taught, late-night coder, obsessed with Chinese open-source AI.</p>
+  <p class="hero-subtitle">Building intelligent systems with LLMs, RAG, fine-tuning, and modern web and desktop technologies. Self-taught, late-night coder, obsessed with Chinese open-source AI.</p>
   <div class="hero-buttons">
     <a href="#projects" class="btn btn-primary">View Projects</a>
     <a href="#contact" class="btn btn-outline">Get In Touch</a>
@@ -20,7 +20,7 @@ layout: default
     </header>
     <div style="max-width: 700px; margin: 0 auto; text-align: center;">
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8;">Hello 👋 I'm <strong>shadrackovsky timothy john</strong>, a ferocious <strong>AI/ML</strong> and <strong>Software Engineer</strong> from Tanzania 🇹🇿.</p>
-      <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-top: var(--spacing-md);">I build web applications, machine learning systems, RAG pipelines, and fine-tune models. My journey started with a second-hand laptop from my grandmother, fueled by curiosity and late nights.</p>
+      <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-top: var(--spacing-md);">I build web and desktop applications, machine learning systems, RAG pipelines, and fine-tune models. My journey started with a second-hand laptop from my grandmother, fueled by curiosity and late nights.</p>
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-top: var(--spacing-md);">Obsessed with: Karpathy, Ilya, LeCun, Andrew Ng, Bengio, and the Chinese open-source AI ecosystem (DeepSeek, Qwen, Zhipu, MiniMax).</p>
     </div>
   </div>

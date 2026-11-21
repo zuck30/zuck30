@@ -18,7 +18,7 @@
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.zh.md)
 
 
-# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am a ferocious **ai - ml** and **software engineer** from tanzania 🤓🇹🇿, doing web applications development, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
+# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am a ferocious **ai - ml** and **software engineer** from tanzania 🤓🇹🇿, doing web applications development, desktop applications, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
 
 # ✌︎㋡ i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
 
