@@ -491,4 +491,10 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/grovemade-studio-pad-wool-dark-m.webp" alt="zuck30" width="800">
+    </a>
+</p>
+
 # 📩 mwalyangashadrack@gmail.com or sheldoncodesdaily@gmail.com
