@@ -255,6 +255,13 @@ layout: default
       </div>
       
       <div class="project-gallery-item">
+        <h3 class="project-caption">Cepter Cosmo TKL : My First Mechanical Keyboard</h3>
+        <img src="{{ '/assets/cosmo-1.webp' | relative_url }}" alt="Cepter Cosmo TKL" width="800" loading="lazy">
+        <img src="{{ '/assets/cosmo-2.webp' | relative_url }}" alt="Cepter Cosmo TKL" width="800" loading="lazy">
+        <img src="{{ '/assets/cosmo-3.webp' | relative_url }}" alt="Cepter Cosmo TKL" width="800" loading="lazy">
+      </div>
+      
+      <div class="project-gallery-item">
         <h3 class="project-caption">Logitech G213 Prodigy : First Favorite Keyboard</h3>
         <img src="{{ '/assets/g213-gallery-1-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">
         <img src="{{ '/assets/g213-gallery-2-nb.webp' | relative_url }}" alt="Logitech G213" width="400" loading="lazy">

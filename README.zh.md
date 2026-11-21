@@ -247,6 +247,19 @@
 </table>
 
 
+# ⌨️ 我的第一把机械键盘是 cepter cosmo tkl。
+
+<p align="center">
+        <img src="/assets/cosmo-1.webp" alt="cepter cosmo tkl" width="800">
+</p>
+<p align="center">
+        <img src="/assets/cosmo-2.webp" alt="cepter cosmo tkl" width="800">
+</p>
+<p align="center">
+        <img src="/assets/cosmo-3.webp" alt="cepter cosmo tkl" width="800">
+</p>
+
+
 # ⌨️ 我最喜欢的第一个键盘是 logitech g213 prodigy。
 
 <table align="center">
