@@ -279,7 +279,7 @@
 </table>
 
 
-# ⌨️ my first mechanical keyboard was the cepter cosmo tkl.
+# ⌨️ my first favorite keyboard is the cepter cosmo tkl, my first mechanical keyboard.
 
 <p align="center">
         <img src="/assets/cosmo-1.webp" alt="cepter cosmo tkl" width="800">
@@ -292,7 +292,7 @@
 </p>
 
 
-# ⌨️ my first favorite keyboard is logitech g213 prodigy.
+# ⌨️ my second favorite keyboard is logitech g213 prodigy.
 
 <table align="center">
   <tr>
@@ -314,7 +314,7 @@
 </table>
 
 
-# ⌨️ my second favorite keyboard is epomaker x aula f75
+# ⌨️ my third favorite keyboard is epomaker x aula f75
 
 <p align="center">
         <img src="/assets/IMG-1.webp" alt="antera logo" width="800">

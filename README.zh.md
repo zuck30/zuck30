@@ -247,7 +247,7 @@
 </table>
 
 
-# ⌨️ 我的第一把机械键盘是 cepter cosmo tkl。
+# ⌨️ 我最喜欢的第一个键盘是 cepter cosmo tkl，也是我的第一把机械键盘。
 
 <p align="center">
         <img src="/assets/cosmo-1.webp" alt="cepter cosmo tkl" width="800">
@@ -260,7 +260,7 @@
 </p>
 
 
-# ⌨️ 我最喜欢的第一个键盘是 logitech g213 prodigy。
+# ⌨️ 我最喜欢的第二个键盘是 logitech g213 prodigy。
 
 <table align="center">
   <tr>
@@ -282,7 +282,7 @@
 </table>
 
 
-# ⌨️ 我最喜欢的第二个键盘是 epomaker x aula f75
+# ⌨️ 我最喜欢的第三个键盘是 epomaker x aula f75
 
 <p align="center">
         <img src="/assets/IMG-1.webp" alt="antera logo" width="800">
