@@ -19,7 +19,7 @@ layout: default
       <h2 id="about-title" class="section-title">About</h2>
     </header>
     <div style="max-width: 700px; margin: 0 auto; text-align: center;">
-      <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8;">Hello 👋 I'm <strong>shadrackovsky timothy john</strong>, an aspiring <strong>AI/ML</strong> and <strong>Software Engineer</strong> from Tanzania 🇹🇿.</p>
+      <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8;">Hello 👋 I'm <strong>shadrackovsky timothy john</strong>, a ferocious <strong>AI/ML</strong> and <strong>Software Engineer</strong> from Tanzania 🇹🇿.</p>
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-top: var(--spacing-md);">I build web applications, machine learning systems, RAG pipelines, and fine-tune models. My journey started with a second-hand laptop from my grandmother, fueled by curiosity and late nights.</p>
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-top: var(--spacing-md);">Obsessed with: Karpathy, Ilya, LeCun, Andrew Ng, Bengio, and the Chinese open-source AI ecosystem (DeepSeek, Qwen, Zhipu, MiniMax).</p>
     </div>
