@@ -279,6 +279,19 @@
 </table>
 
 
+# ⌨️ my first mechanical keyboard was the cepter cosmo tkl.
+
+<p align="center">
+        <img src="/assets/cosmo-1.webp" alt="cepter cosmo tkl" width="800">
+</p>
+<p align="center">
+        <img src="/assets/cosmo-2.webp" alt="cepter cosmo tkl" width="800">
+</p>
+<p align="center">
+        <img src="/assets/cosmo-3.webp" alt="cepter cosmo tkl" width="800">
+</p>
+
+
 # ⌨️ my first favorite keyboard is logitech g213 prodigy.
 
 <table align="center">
