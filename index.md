@@ -335,7 +335,6 @@ layout: default
         <p class="project-desc">Ramani is a map of the good web UIs worth stealing from, tools worth keeping.</p>
         <a href="https://zuck30.github.io/ramani/" target="_blank" rel="noopener">
         <img src="{{ '/assets/ramani-shot-1.webp' | relative_url }}" alt="Ramani Screenshot 1" width="800" loading="lazy">
-        <img src="{{ '/assets/ramani-shot-2.webp' | relative_url }}" alt="Ramani Screenshot 2" width="800" loading="lazy">
         <img src="{{ '/assets/ramani-shot-3.webp' | relative_url }}" alt="Ramani Screenshot 3" width="800" loading="lazy">
         </a>
       </div>

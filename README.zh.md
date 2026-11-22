@@ -418,12 +418,6 @@
 
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-shot-2.webp" alt="Ramani Screenshot 2" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://zuck30.github.io/ramani/">
         <img src="/assets/ramani-shot-3.webp" alt="Ramani Screenshot 3" width="800">
     </a>
 </p>
