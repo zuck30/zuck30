@@ -384,13 +384,6 @@
 </p>
 
 
-# ⌛ramani。它是一张值得借鉴的优秀 Web UI 地图，也是值得保留的工具。
-<p align="center">
-    <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-2.webp" alt="Ramani Screenshot" width="800">
-    </a>
-</p>
-
 # ⌛ afyaos。
 
 <p align="center">
@@ -412,6 +405,26 @@
 <p align="center">
     <a href="https://animedandadan.vercel.app">
         <img src="/assets/dan-2.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# ⌛ ramani。它是一张值得借鉴的优秀 Web UI 地图，也是值得保留的工具。
+
+<p align="center">
+    <a href="https://zuck30.github.io/ramani/">
+        <img src="/assets/ramani-shot-1.webp" alt="Ramani Screenshot 1" width="800">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://zuck30.github.io/ramani/">
+        <img src="/assets/ramani-shot-2.webp" alt="Ramani Screenshot 2" width="800">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://zuck30.github.io/ramani/">
+        <img src="/assets/ramani-shot-3.webp" alt="Ramani Screenshot 3" width="800">
     </a>
 </p>
 

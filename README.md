@@ -416,13 +416,6 @@
 </p>
 
 
-# ⌛ramani. it is a map of the good web uis worth stealing from, tools worth keeping.
-<p align="center">
-    <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-2.webp" alt="Ramani Screenshot" width="800">
-    </a>
-</p>
-
 # ⌛ afyaos.
 
 <p align="center">
@@ -444,6 +437,26 @@
 <p align="center">
     <a href="https://animedandadan.vercel.app">
         <img src="/assets/dan-2.webp" alt="antera logo" width="800">
+    </a>
+</p>
+
+# ⌛ ramani. it is a map of the good web uis worth stealing from, tools worth keeping.
+
+<p align="center">
+    <a href="https://zuck30.github.io/ramani/">
+        <img src="/assets/ramani-shot-1.webp" alt="Ramani Screenshot 1" width="800">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://zuck30.github.io/ramani/">
+        <img src="/assets/ramani-shot-2.webp" alt="Ramani Screenshot 2" width="800">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://zuck30.github.io/ramani/">
+        <img src="/assets/ramani-shot-3.webp" alt="Ramani Screenshot 3" width="800">
     </a>
 </p>
 
