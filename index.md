@@ -458,7 +458,7 @@ layout: default
         </a>
         <a href="mailto:sheldoncodesdaily@gmail.com" class="btn btn-primary" style="width: 100%; max-width: 320px; display:inline-flex;align-items:center;justify-content:center;gap:8px;white-space:normal;overflow-wrap:anywhere;font-size:0.8rem;line-height:1.35;padding:12px 14px;">
           <img src="https://cdn-icons-png.flaticon.com/128/15047/15047587.png" alt="" class="flaticon" style="width:18px;height:18px;">
-          sheldoncodesdaily@gmail.com
+          Email Me
         </a>
       </div>
     </div>
