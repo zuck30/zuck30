@@ -94,7 +94,14 @@
         </p>
       </div>
     </footer>
-    
+
+    <div class="command-overlay" id="commandPalette" role="dialog" aria-modal="true" aria-label="Quick navigation">
+      <div class="command-palette">
+        <input type="text" id="commandInput" class="command-input" placeholder="Search sections and projects" aria-label="Search sections and projects" autocomplete="off" aria-controls="commandList">
+        <ul class="command-list" id="commandList" role="listbox" aria-label="Results"></ul>
+      </div>
+    </div>
+
     <script>
       (function() {
         const themeToggle = document.querySelector('.theme-toggle');
@@ -126,6 +133,144 @@
           const newDark = !document.documentElement.style.getPropertyValue('--bg').includes('0f0f11');
           setTheme(newDark);
           localStorage.setItem('theme', newDark ? 'dark' : 'light');
+        });
+      })();
+    </script>
+
+    <script>
+      (function() {
+        const overlay = document.getElementById('commandPalette');
+        const input = document.getElementById('commandInput');
+        const list = document.getElementById('commandList');
+        const searchBtn = document.querySelector('.search-btn');
+        if (!overlay || !input || !list) return;
+
+        const sections = [
+          { label: 'About', href: '#about', kind: 'Section' },
+          { label: 'Skills', href: '#skills', kind: 'Section' },
+          { label: 'Roadmap', href: '#roadmap', kind: 'Section' },
+          { label: 'Personality', href: '#personality', kind: 'Section' },
+          { label: 'Projects', href: '#projects', kind: 'Section' },
+          { label: 'Contact', href: '#contact', kind: 'Section' }
+        ];
+
+        const projects = Array.from(document.querySelectorAll('.project-gallery-item'))
+          .map(function(item) {
+            const caption = item.querySelector('.project-caption');
+            return caption ? { label: caption.textContent.trim(), el: item, kind: 'Project' } : null;
+          })
+          .filter(Boolean);
+
+        const items = sections.concat(projects);
+        let filtered = items.slice();
+        let activeIndex = 0;
+
+        function setActive(i) {
+          activeIndex = i;
+          Array.from(list.children).forEach(function(child, idx) {
+            child.classList.toggle('active', idx === i);
+            child.setAttribute('aria-selected', idx === i ? 'true' : 'false');
+          });
+          const active = list.children[i];
+          if (active && active.scrollIntoView) active.scrollIntoView({ block: 'nearest' });
+        }
+
+        function render() {
+          list.innerHTML = '';
+          if (!filtered.length) {
+            const empty = document.createElement('li');
+            empty.className = 'command-empty';
+            empty.textContent = 'No results';
+            list.appendChild(empty);
+            return;
+          }
+          filtered.forEach(function(item, i) {
+            const li = document.createElement('li');
+            li.className = 'command-item' + (i === activeIndex ? ' active' : '');
+            li.setAttribute('role', 'option');
+            li.setAttribute('aria-selected', i === activeIndex ? 'true' : 'false');
+
+            const label = document.createElement('span');
+            label.textContent = item.label;
+
+            const kind = document.createElement('span');
+            kind.className = 'command-kind';
+            kind.textContent = item.kind;
+
+            li.appendChild(label);
+            li.appendChild(kind);
+
+            li.addEventListener('click', function() { select(i); });
+            li.addEventListener('mouseenter', function() { setActive(i); });
+
+            list.appendChild(li);
+          });
+          const active = list.children[activeIndex];
+          if (active && active.scrollIntoView) active.scrollIntoView({ block: 'nearest' });
+        }
+
+        function select(i) {
+          const item = filtered[i];
+          if (!item) return;
+          close();
+          if (item.el) {
+            item.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          } else {
+            const target = document.querySelector(item.href);
+            if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        }
+
+        function open() {
+          overlay.classList.add('open');
+          document.body.style.overflow = 'hidden';
+          input.value = '';
+          filtered = items.slice();
+          activeIndex = 0;
+          render();
+          input.focus();
+        }
+
+        function close() {
+          overlay.classList.remove('open');
+          document.body.style.overflow = '';
+          if (searchBtn) searchBtn.focus();
+        }
+
+        if (searchBtn) searchBtn.addEventListener('click', open);
+
+        overlay.addEventListener('click', function(e) {
+          if (e.target === overlay) close();
+        });
+
+        document.addEventListener('keydown', function(e) {
+          if ((e.metaKey || e.ctrlKey) && String(e.key).toLowerCase() === 'k') {
+            e.preventDefault();
+            if (overlay.classList.contains('open')) { close(); } else { open(); }
+          }
+          if (e.key === 'Escape' && overlay.classList.contains('open')) close();
+        });
+
+        input.addEventListener('input', function() {
+          const q = input.value.trim().toLowerCase();
+          filtered = q ? items.filter(function(item) {
+            return item.label.toLowerCase().indexOf(q) !== -1;
+          }) : items.slice();
+          activeIndex = 0;
+          render();
+        });
+
+        input.addEventListener('keydown', function(e) {
+          if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            setActive(Math.min(activeIndex + 1, filtered.length - 1));
+          } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            setActive(Math.max(activeIndex - 1, 0));
+          } else if (e.key === 'Enter') {
+            e.preventDefault();
+            select(activeIndex);
+          }
         });
       })();
     </script>
