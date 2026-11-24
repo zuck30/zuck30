@@ -9,3 +9,6 @@
 *.tmp
 # private tender documents
 tenders/
+
+# land offer (workspace only)
+landoffer.*
