@@ -354,7 +354,7 @@
 
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> what is shadrackovsky building right now?
 
-# ⌛ ajira connect is a talent management platform empowering tanzanian career seekers and transforming businesses.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ajira connect is a talent management platform empowering tanzanian career seekers and transforming businesses.
 
 
 <p align="center">
@@ -370,28 +370,28 @@
 </p>
 
 
-# ⌛ it helps professionals build ai-enhanced cvs and cover letters.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> it helps professionals build ai-enhanced cvs and cover letters.
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/ajira-1.webp" alt="antera logo" width="800">
     </a>
 </p>
 
-# ⌛ analyze skill gaps against job descriptions, and land jobs.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> analyze skill gaps against job descriptions, and land jobs.
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/ajira-2.webp" alt="antera logo" width="800">
     </a>
 </p>
 
-# ⌛ our intelligent engine uses ai to transform your experience into impactful, achievement-focused content.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> our intelligent engine uses ai to transform your experience into impactful, achievement-focused content.
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/cv-builder.webp" alt="antera logo" width="800">
     </a>
 </p>
 
-# ⌛ nest studio. it is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> nest studio. it is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
 
 <p align="center">
     <a href="https://neststudio.netlify.app">
@@ -406,7 +406,7 @@
 </p>
 
 
-# ⌛ pimafarm. it's a smart farming platform. think of pimafarm like a helper that watches your farm for you. it sees how your tractors and machines are working, and tells you simple things you can do to make things better.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> pimafarm. it's a smart farming platform. think of pimafarm like a helper that watches your farm for you. it sees how your tractors and machines are working, and tells you simple things you can do to make things better.
 
 <p align="center">
     <a href="https://github.com/zuck30">
@@ -415,7 +415,7 @@
 </p>
 
 
-# ⌛ afyaos.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> afyaos.
 
 <p align="center">
     <a href="https://github.com/zuck30">
@@ -423,7 +423,7 @@
     </a>
 </p>
 
-# ⌛ dandadan.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> dandadan.
 # this project is a cinematic, spa anime recommendation engine.
 
 <p align="center">
@@ -439,7 +439,7 @@
     </a>
 </p>
 
-# ⌛ ramani. it is a map of the good web uis worth stealing from, tools worth keeping.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ramani. it is a map of the good web uis worth stealing from, tools worth keeping.
 
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">

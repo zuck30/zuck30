@@ -316,7 +316,7 @@
 
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky 现在正在构建什么？
 
-# ⌛ ajira connect 是一个人才管理平台，赋能坦桑尼亚求职者并改变企业。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ajira connect 是一个人才管理平台，赋能坦桑尼亚求职者并改变企业。
 
 
 <p align="center">
@@ -332,28 +332,28 @@
 </p>
 
 
-# ⌛ 它帮助专业人士构建 AI 增强的简历与求职信。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 它帮助专业人士构建 AI 增强的简历与求职信。
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/ajira-1.webp" alt="antera logo" width="800">
     </a>
 </p>
 
-# ⌛ 对照职位描述分析技能差距，并成功求职。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 对照职位描述分析技能差距，并成功求职。
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/ajira-2.webp" alt="antera logo" width="800">
     </a>
 </p>
 
-# ⌛ 我们的智能引擎利用 AI 将你的经历转化为有影响力、以成就为导向的内容。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 我们的智能引擎利用 AI 将你的经历转化为有影响力、以成就为导向的内容。
 <p align="center">
     <a href="https://ajiraconnect.co.tz">
         <img src="/assets/cv-builder.webp" alt="antera logo" width="800">
     </a>
 </p>
 
-# ⌛ nest studio。它是一支客户服务坐席团队，在集中地点或远程管理呼入与呼出电话。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> nest studio。它是一支客户服务坐席团队，在集中地点或远程管理呼入与呼出电话。
 
 <p align="center">
     <a href="https://neststudio.netlify.app">
@@ -368,7 +368,7 @@
 </p>
 
 
-# ⌛ pimafarm。它是一个智慧农业平台。可以把 pimafarm 想象成一个替你照看农场的助手。它观察你的拖拉机和机械如何运作，并告诉你一些可以改善现状的简单方法。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> pimafarm。它是一个智慧农业平台。可以把 pimafarm 想象成一个替你照看农场的助手。它观察你的拖拉机和机械如何运作，并告诉你一些可以改善现状的简单方法。
 
 <p align="center">
     <a href="https://github.com/zuck30">
@@ -377,7 +377,7 @@
 </p>
 
 
-# ⌛ afyaos。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> afyaos。
 
 <p align="center">
     <a href="https://github.com/zuck30">
@@ -385,7 +385,7 @@
     </a>
 </p>
 
-# ⌛ dandadan。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> dandadan。
 # 这个项目是一个电影感十足的单页动漫推荐引擎。
 
 <p align="center">
@@ -401,7 +401,7 @@
     </a>
 </p>
 
-# ⌛ ramani。它是一张值得借鉴的优秀 Web UI 地图，也是值得保留的工具。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ramani。它是一张值得借鉴的优秀 Web UI 地图，也是值得保留的工具。
 
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">
