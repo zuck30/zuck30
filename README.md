@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✌︎㋡ this is shadrackovsky timothy john mwalyanga (sheldon).
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> this is shadrackovsky timothy john mwalyanga (sheldon).
 </div>
 
 <p align="center">
@@ -18,15 +18,15 @@
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.zh.md)
 
 
-# ✌︎㋡ hello 👋 i'm shadrackovsky timothy john, i am a ferocious **ai - ml** and **software engineer** from tanzania 🤓🇹🇿, doing web applications development, desktop applications, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> hello <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> i'm shadrackovsky timothy john, i am a ferocious **ai - ml** and **software engineer** from tanzania <img src="/assets/icons/emoji/nerd.webp" alt="" width="30" height="30" align="absmiddle"><img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">, doing web applications development, desktop applications, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
 
-# ✌︎㋡ i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
 
-# ✌︎㋡ i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
 
-# ✌︎㋡ i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
 
-# 🛠 technologies i use everyday.
+# <img src="/assets/icons/emoji/wrench.webp" alt="" width="30" height="30" align="absmiddle"> technologies i use everyday.
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,ruby,django,js,ts,cpp,bash,html,css&perline=9"/>
@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,git,github,gitlab,supabase,docker,githubactions,linux,arduino,vscode,npm,notion,vercel,netlify&perline=8"/>
 </p>
 
-# 💡👾 roadmap i'm focusing right now.
+# <img src="/assets/icons/emoji/bulb.webp" alt="" width="30" height="30" align="absmiddle"><img src="/assets/icons/emoji/alien.webp" alt="" width="30" height="30" align="absmiddle"> roadmap i'm focusing right now.
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 </div>
 
-# 💻 my learning framework.
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> my learning framework.
 
 # i'm a self taught software engineer, i watch tons of youtube or pirated tutorials and practise, practise to build new skills.
 
@@ -126,14 +126,14 @@
 
 
 
-# 🦆 this is my rubber duck for rubber duck debugging. 
+# <img src="/assets/icons/emoji/duck.webp" alt="" width="30" height="30" align="absmiddle"> this is my rubber duck for rubber duck debugging. 
 
 <p align="center">
         <img src="/assets/duck-photorom.webp" alt="rubber duck" width="800">
 </p>
 
 
-# 🎮 my desk setup gadgets.
+# <img src="/assets/icons/emoji/gamepad.webp" alt="" width="30" height="30" align="absmiddle"> my desk setup gadgets.
 
 <table>
 <tr>
@@ -157,11 +157,11 @@
 </tr>
 </table>
 
-# 🤝 currently looking for.
+# <img src="/assets/icons/emoji/handshake.webp" alt="" width="30" height="30" align="absmiddle"> currently looking for.
 
 # open for freelance contracts in ai/ml and web development, open-source ai collaborations, remote software engineering roles.
 
-# 🎸 my recently playing music.
+# <img src="/assets/icons/emoji/guitar.webp" alt="" width="30" height="30" align="absmiddle"> my recently playing music.
 
 <div align="center">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mpawo7brnhlosrwln3rrpaocqy&radius=0&width=900" alt="Spotify recently played" />
@@ -209,9 +209,9 @@
     </a>
 </p>
 
-# 🪐 shadrackovsky is also a co-creator of smarbo digital. smarbo digital is a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky is also a co-creator of smarbo digital. smarbo digital is a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.
 
-# 🏆 know who's coming. 
+# <img src="/assets/icons/emoji/trophy.webp" alt="" width="30" height="30" align="absmiddle"> know who's coming. 
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -219,33 +219,33 @@
     </a>
 </p>
 
-# 🙌 mac os tahoe 26 is my favorite os. the hardware integration is genuinely absurd.
+# <img src="/assets/icons/emoji/apple.webp" alt="" width="30" height="30" align="absmiddle"> mac os tahoe 26 is my favorite os. the hardware integration is genuinely absurd.
 
 <p align="center">
         <img src="/assets/mac-os.webp" alt="antera logo" width="800">
 </p>
 
-# 🙌 garuda-linux dragonized gaming edition is my first favorite linux distro. i use arch by the way.
+# <img src="/assets/icons/emoji/linux.webp" alt="" width="30" height="30" align="absmiddle"> garuda-linux dragonized gaming edition is my first favorite linux distro. i use arch by the way.
 
 <p align="center">
         <img src="/assets/garuda.webp" alt="antera logo" width="800">
 </p>
 
 
-# 🙌 the agrressive performance tuning is unmatched , instant access to any software that i want and btrfs has saved me from a lot of trouble.
+# <img src="/assets/icons/emoji/linux.webp" alt="" width="30" height="30" align="absmiddle"> the agrressive performance tuning is unmatched , instant access to any software that i want and btrfs has saved me from a lot of trouble.
 
 <p align="center">
         <img src="/assets/garuda-1.webp" alt="antera logo" width="800">
 </p>
 
 
-# 🙌 kubuntu is my second favorite linux distro. it just works with kde.
+# <img src="/assets/icons/emoji/linux.webp" alt="" width="30" height="30" align="absmiddle"> kubuntu is my second favorite linux distro. it just works with kde.
 
 <p align="center">
         <img src="/assets/kubuntu.webp" alt="antera logo" width="800">
 </p>
 
-# 🤠 my favorite country artists.
+# <img src="/assets/icons/emoji/guitar.webp" alt="" width="30" height="30" align="absmiddle"> my favorite country artists.
 
 <table align="center">
   <tr>
@@ -253,13 +253,13 @@
       <a href="https://chrisstapleton.com/">
         <img src="/assets/chris-stapleton.webp" alt="chris stapleton" width="400">
       </a>
-      <p align="center"><b>🎷 chris stapleton</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> chris stapleton</b></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://morganwallen.com">
         <img src="/assets/morgan-wallen.webp" alt="morgan wallen" width="400">
       </a>
-      <p align="center"><b>🎸 morgan wallen</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> morgan wallen</b></p>
     </td>
   </tr>
   <tr>
@@ -267,19 +267,19 @@
       <a href="https://lukecombs.com">
         <img src="/assets/luke-combs.webp" alt="luke combs" width="400">
       </a>
-      <p align="center"><b>🎧 luke combs</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> luke combs</b></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://www.jacksondeanmusic.com/">
         <img src="/assets/jackson-dean.webp" alt="jackson dean" width="400">
       </a>
-      <p align="center"><b>🎻 jackson dean</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> jackson dean</b></p>
     </td>
   </tr>
 </table>
 
 
-# ⌨️ my first favorite keyboard is the cepter cosmo tkl, my first mechanical keyboard.
+# <img src="/assets/icons/emoji/keyboard.webp" alt="" width="30" height="30" align="absmiddle"> my first favorite keyboard is the cepter cosmo tkl, my first mechanical keyboard.
 
 <p align="center">
         <img src="/assets/cosmo-1.webp" alt="cepter cosmo tkl" width="800">
@@ -292,7 +292,7 @@
 </p>
 
 
-# ⌨️ my second favorite keyboard is logitech g213 prodigy.
+# <img src="/assets/icons/emoji/keyboard.webp" alt="" width="30" height="30" align="absmiddle"> my second favorite keyboard is logitech g213 prodigy.
 
 <table align="center">
   <tr>
@@ -314,7 +314,7 @@
 </table>
 
 
-# ⌨️ my third favorite keyboard is epomaker x aula f75
+# <img src="/assets/icons/emoji/keyboard.webp" alt="" width="30" height="30" align="absmiddle"> my third favorite keyboard is epomaker x aula f75
 
 <p align="center">
         <img src="/assets/IMG-1.webp" alt="antera logo" width="800">
@@ -336,7 +336,7 @@
 </p>
 
 
-# 💼 see my business antera.
+# <img src="/assets/icons/emoji/briefcase.webp" alt="" width="30" height="30" align="absmiddle"> see my business antera.
 
 <table align="center">
   <tr>
@@ -353,7 +353,7 @@
   </tr>
 </table>
 
-# 💻 what is shadrackovsky building right now?
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> what is shadrackovsky building right now?
 
 # ⌛ ajira connect is a talent management platform empowering tanzanian career seekers and transforming businesses.
 
@@ -475,13 +475,13 @@
 
 
 
-# 🤠 more about my personality, culture and creative workflow.
+# <img src="/assets/icons/emoji/guitar.webp" alt="" width="30" height="30" align="absmiddle"> more about my personality, culture and creative workflow.
 
 # i'm shadrackovsky, calm, deliberate, and quietly obsessive. i think in systems, i work in silence, and i let the work speak. i resonate very deeply with chinese culture in that: the discipline, the patience, the 书香 tradition of mastering your craft before announcing it, and the idea of 匠心 (jiàngxīn), an artisan's heart, building things with full attention and no shortcuts.
 
 # my creative workflow follows that spirit. i observe first, prototype fast, iterate relentlessly, and polish until it feels right. i keep a small desk, a rubber duck, a chessboard for strategic breaks, and long late-night sessions where ideas compound quietly. 巧者劳而智者忧. deep work over noise. finish over talk.
 
-# 🐉 and yes, i am genuinely obsessed with chinese ai, chinese models, chinese tools and chinese open source. this is not a phase, it's a conviction:
+# <img src="/assets/icons/emoji/dragon.webp" alt="" width="30" height="30" align="absmiddle"> and yes, i am genuinely obsessed with chinese ai, chinese models, chinese tools and chinese open source. this is not a phase, it's a conviction:
 
 # **deepseek (深度求索)** my main api. open weights, brutal efficiency, honest research. my swahili-lm and malaika are bootstrapped on it. deepseek-v3 and r1 proved that open source can stand at the frontier.
 # **qwen (通义千问)** the most complete open model family on the planet, and qwencode is my daily terminal coding agent.
@@ -493,7 +493,7 @@
 
 # my stack of preference: deepseek models + opencode / qwen code / kilocode / mimo code agents + linux. if there's a chinese open-source alternative for something, i'm trying it first. 「工欲善其事，必先利其器」 to do the work well, first sharpen the tools.
 
-# 💻 tools that i prefer are deepseek, opencode, qwencode, kilocode, mimocode cli's or anything chinese. (deepseek api billing).
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> tools that i prefer are deepseek, opencode, qwencode, kilocode, mimocode cli's or anything chinese. (deepseek api billing).
 
 # qwen code - free, with deepseek api or subscription.
 
@@ -520,7 +520,7 @@
         <img src="/assets/mimo.webp" alt="zuck30" width="800">
 </p>
 
-# 💻 if you want to book a safari, please checkout to: blacksandadventures
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> if you want to book a safari, please checkout to: blacksandadventures
 
 <p align="center">
     <a href="https://blacksandadventures.com/">
@@ -529,7 +529,7 @@
 </p>
 
 
-# 💻 hire shadrackovsky today.
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> hire shadrackovsky today.
 
 <p align="center">
     <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf" download title="Download CV (PDF)">
@@ -550,4 +550,4 @@
     </a>
 </p>
 
-# 📩 mwalyangashadrack@gmail.com or sheldoncodesdaily@gmail.com
+# <img src="/assets/icons/emoji/mail.webp" alt="" width="30" height="30" align="absmiddle"> mwalyangashadrack@gmail.com or sheldoncodesdaily@gmail.com

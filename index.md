@@ -19,7 +19,7 @@ layout: default
       <h2 id="about-title" class="section-title">About</h2>
     </header>
     <div style="max-width: 700px; margin: 0 auto; text-align: center;">
-      <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8;">Hello 👋 I'm <strong>shadrackovsky timothy john</strong>, a ferocious <strong>AI/ML</strong> and <strong>Software Engineer</strong> from Tanzania 🇹🇿.</p>
+      <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8;">Hello <img src="{{ '/assets/icons/emoji/wave.webp' | relative_url }}" alt="" width="20" height="20" align="absmiddle"> I'm <strong>shadrackovsky timothy john</strong>, a ferocious <strong>AI/ML</strong> and <strong>Software Engineer</strong> from Tanzania <img src="{{ '/assets/icons/emoji/flag.webp' | relative_url }}" alt="" width="20" height="20" align="absmiddle">.</p>
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-top: var(--spacing-md);">I build web and desktop applications, machine learning systems, RAG pipelines, and fine-tune models. My journey started with a second-hand laptop from my grandmother, fueled by curiosity and late nights.</p>
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-top: var(--spacing-md);">Obsessed with: Karpathy, Ilya, LeCun, Andrew Ng, Bengio, and the Chinese open-source AI ecosystem (DeepSeek, Qwen, Zhipu, MiniMax).</p>
     </div>
@@ -45,7 +45,7 @@ layout: default
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" class="tech-logo" title="CSS3">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" class="tech-logo" title="FastAPI">
         </div>
-        <a href="#" class="card-btn">Explore →</a>
+        <a href="#" class="card-btn">Explore <img src="{{ '/assets/icons/emoji/arrow.webp' | relative_url }}" alt="" width="16" height="16" align="absmiddle"></a>
       </article>
       <article class="card">
         <h3 class="card-title">Frameworks & Tools</h3>
@@ -57,7 +57,7 @@ layout: default
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" class="tech-logo" title="Java">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" class="tech-logo" title="Spring Boot">
         </div>
-        <a href="#" class="card-btn">Explore →</a>
+        <a href="#" class="card-btn">Explore <img src="{{ '/assets/icons/emoji/arrow.webp' | relative_url }}" alt="" width="16" height="16" align="absmiddle"></a>
       </article>
       <article class="card">
         <h3 class="card-title">AI & Data</h3>
@@ -69,7 +69,7 @@ layout: default
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" class="tech-logo" title="Hugging Face">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" class="tech-logo" title="Anaconda">
         </div>
-        <a href="#" class="card-btn">Explore →</a>
+        <a href="#" class="card-btn">Explore <img src="{{ '/assets/icons/emoji/arrow.webp' | relative_url }}" alt="" width="16" height="16" align="absmiddle"></a>
       </article>
       <article class="card">
         <h3 class="card-title">Cloud & DevOps</h3>
@@ -86,7 +86,7 @@ layout: default
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" class="tech-logo" title="Vercel">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" class="tech-logo" title="Netlify">
         </div>
-        <a href="#" class="card-btn">Explore →</a>
+        <a href="#" class="card-btn">Explore <img src="{{ '/assets/icons/emoji/arrow.webp' | relative_url }}" alt="" width="16" height="16" align="absmiddle"></a>
       </article>
     </div>
   </div>
@@ -362,6 +362,8 @@ layout: default
       <div class="project-gallery-item">
         <h3 class="project-caption">Desk Setup</h3>
         <img src="{{ '/assets/setup.webp' | relative_url }}" alt="Desk Setup" width="800" loading="lazy">
+        <img src="{{ '/assets/mac-1.webp' | relative_url }}" alt="MacBook desk setup" width="800" loading="lazy">
+        <img src="{{ '/assets/mac-3.webp' | relative_url }}" alt="MacBook desk setup" width="800" loading="lazy">
       </div>
       
       <div class="project-gallery-item">

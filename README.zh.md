@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✌︎㋡ 这是 shadrackovsky timothy john mwalyanga（sheldon）。
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> 这是 shadrackovsky timothy john mwalyanga（sheldon）。
 </div>
 
 <p align="center">
@@ -18,15 +18,15 @@
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.zh.md)
 
 
-# ✌︎㋡ 你好 👋 我是 shadrackovsky timothy john，一位来自坦桑尼亚 🤓🇹🇿、强悍的 **AI - ML** 与 **软件工程师**，从事 Web 应用开发、桌面应用开发、机器学习、检索增强生成（RAG）、模型微调，以及围绕前沿 AI 模型构建系统。
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> 你好 <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> 我是 shadrackovsky timothy john，一位来自坦桑尼亚 <img src="/assets/icons/emoji/nerd.webp" alt="" width="30" height="30" align="absmiddle"><img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">、强悍的 **AI - ML** 与 **软件工程师**，从事 Web 应用开发、桌面应用开发、机器学习、检索增强生成（RAG）、模型微调，以及围绕前沿 AI 模型构建系统。
 
-# ✌︎㋡ 直到我上大学时，我亲爱的祖母（在天堂）给我买了第一台笔记本电脑（一台二手的旧 EliteBook），我的房间里才有了电脑。
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> 直到我上大学时，我亲爱的祖母（在天堂）给我买了第一台笔记本电脑（一台二手的旧 EliteBook），我的房间里才有了电脑。
 
-# ✌︎㋡ 这段旅程由疲惫的漫漫长夜、永不满足的好奇心，以及我从少年时代起对事物运作原理和相互联系的真挚热爱所推动。
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> 这段旅程由疲惫的漫漫长夜、永不满足的好奇心，以及我从少年时代起对事物运作原理和相互联系的真挚热爱所推动。
 
-# ✌︎㋡ 我痴迷于 karpathy、ilya、lecun、andrew ng、bengio、radford、ian goodfellow、alex krizhevsky、georgi gerganov。
+# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> 我痴迷于 karpathy、ilya、lecun、andrew ng、bengio、radford、ian goodfellow、alex krizhevsky、georgi gerganov。
 
-# 🛠 我每天使用的技术。
+# <img src="/assets/icons/emoji/wrench.webp" alt="" width="30" height="30" align="absmiddle"> 我每天使用的技术。
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,ruby,django,js,ts,cpp,bash,html,css&perline=9"/>
@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,git,github,gitlab,supabase,docker,githubactions,linux,arduino,vscode,npm,notion,vercel,netlify&perline=8"/>
 </p>
 
-# 💡👾 我目前正在专注的路线图。
+# <img src="/assets/icons/emoji/bulb.webp" alt="" width="30" height="30" align="absmiddle"><img src="/assets/icons/emoji/alien.webp" alt="" width="30" height="30" align="absmiddle"> 我目前正在专注的路线图。
 
 | 领域 | 我目前正在掌握的内容 |
 |------|---------------------|
@@ -54,7 +54,7 @@
 | **桌面应用** | tauri、electron、pyqt、tkinter、rust|
 | **计算金融** | 量化建模、算法交易、风险分析、投资组合优化 |
 
-# 💻 我的学习框架。
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> 我的学习框架。
 
 # 我是一名自学成才的软件工程师，我看大量的 YouTube 或盗版教程并不断练习、练习，以掌握新技能。
 
@@ -88,14 +88,14 @@
 
 
 
-# 🦆 这是我用于小黄鸭调试法的小黄鸭。
+# <img src="/assets/icons/emoji/duck.webp" alt="" width="30" height="30" align="absmiddle"> 这是我用于小黄鸭调试法的小黄鸭。
 
 <p align="center">
         <img src="/assets/duck-photorom.webp" alt="rubber duck" width="800">
 </p>
 
 
-# 🎮 我的桌面设备。
+# <img src="/assets/icons/emoji/gamepad.webp" alt="" width="30" height="30" align="absmiddle"> 我的桌面设备。
 
 <table>
 <tr>
@@ -119,11 +119,11 @@
 </tr>
 </table>
 
-# 🤝 目前正在寻找。
+# <img src="/assets/icons/emoji/handshake.webp" alt="" width="30" height="30" align="absmiddle"> 目前正在寻找。
 
 # 开放 AI/ML 与 Web 开发的自由职业合同、开源 AI 合作，以及远程软件工程职位。
 
-# 🎸 我最近在听的音乐。
+# <img src="/assets/icons/emoji/guitar.webp" alt="" width="30" height="30" align="absmiddle"> 我最近在听的音乐。
 
 <div align="center">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mpawo7brnhlosrwln3rrpaocqy&radius=0&width=900" alt="Spotify recently played" />
@@ -171,9 +171,9 @@
     </a>
 </p>
 
-# 🪐 shadrackovsky 也是 smarbo digital 的联合创造者。smarbo digital 是一款 Web 应用，帮助你在一个简单的仪表盘中跟踪活动的邀请、礼金与出席情况。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky 也是 smarbo digital 的联合创造者。smarbo digital 是一款 Web 应用，帮助你在一个简单的仪表盘中跟踪活动的邀请、礼金与出席情况。
 
-# 🏆 知道谁会来。
+# <img src="/assets/icons/emoji/trophy.webp" alt="" width="30" height="30" align="absmiddle"> 知道谁会来。
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
@@ -181,33 +181,33 @@
     </a>
 </p>
 
-# 🙌 mac os tahoe 26 是我最喜欢的操作系统。它的硬件整合确实令人惊叹。
+# <img src="/assets/icons/emoji/apple.webp" alt="" width="30" height="30" align="absmiddle"> mac os tahoe 26 是我最喜欢的操作系统。它的硬件整合确实令人惊叹。
 
 <p align="center">
         <img src="/assets/mac-os.webp" alt="antera logo" width="800">
 </p>
 
-# 🙌 garuda-linux dragonized gaming edition 是我第一个最喜欢的 Linux 发行版。顺便说一句，我用的是 Arch。
+# <img src="/assets/icons/emoji/linux.webp" alt="" width="30" height="30" align="absmiddle"> garuda-linux dragonized gaming edition 是我第一个最喜欢的 Linux 发行版。顺便说一句，我用的是 Arch。
 
 <p align="center">
         <img src="/assets/garuda.webp" alt="antera logo" width="800">
 </p>
 
 
-# 🙌 激进的性能调优无可匹敌，我能即时访问任何想要的软件，btrfs 也帮我摆脱了很多麻烦。
+# <img src="/assets/icons/emoji/linux.webp" alt="" width="30" height="30" align="absmiddle"> 激进的性能调优无可匹敌，我能即时访问任何想要的软件，btrfs 也帮我摆脱了很多麻烦。
 
 <p align="center">
         <img src="/assets/garuda-1.webp" alt="antera logo" width="800">
 </p>
 
 
-# 🙌 kubuntu 是我第二喜欢的 Linux 发行版。它与 KDE 配合得天衣无缝。
+# <img src="/assets/icons/emoji/linux.webp" alt="" width="30" height="30" align="absmiddle"> kubuntu 是我第二喜欢的 Linux 发行版。它与 KDE 配合得天衣无缝。
 
 <p align="center">
         <img src="/assets/kubuntu.webp" alt="antera logo" width="800">
 </p>
 
-# 🤠 我最喜欢的乡村音乐歌手。
+# <img src="/assets/icons/emoji/guitar.webp" alt="" width="30" height="30" align="absmiddle"> 我最喜欢的乡村音乐歌手。
 
 <table align="center">
   <tr>
@@ -215,13 +215,13 @@
       <a href="https://chrisstapleton.com/">
         <img src="/assets/chris-stapleton.webp" alt="chris stapleton" width="400">
       </a>
-      <p align="center"><b>🎷 chris stapleton</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> chris stapleton</b></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://morganwallen.com">
         <img src="/assets/morgan-wallen.webp" alt="morgan wallen" width="400">
       </a>
-      <p align="center"><b>🎸 morgan wallen</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> morgan wallen</b></p>
     </td>
   </tr>
   <tr>
@@ -229,19 +229,19 @@
       <a href="https://lukecombs.com">
         <img src="/assets/luke-combs.webp" alt="luke combs" width="400">
       </a>
-      <p align="center"><b>🎧 luke combs</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> luke combs</b></p>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://www.jacksondeanmusic.com/">
         <img src="/assets/jackson-dean.webp" alt="jackson dean" width="400">
       </a>
-      <p align="center"><b>🎻 jackson dean</b></p>
+      <p align="center"><b><img src="/assets/icons/emoji/guitar.webp" alt="" width="20" height="20" align="absmiddle"> jackson dean</b></p>
     </td>
   </tr>
 </table>
 
 
-# ⌨️ 我最喜欢的第一个键盘是 cepter cosmo tkl，也是我的第一把机械键盘。
+# <img src="/assets/icons/emoji/keyboard.webp" alt="" width="30" height="30" align="absmiddle"> 我最喜欢的第一个键盘是 cepter cosmo tkl，也是我的第一把机械键盘。
 
 <p align="center">
         <img src="/assets/cosmo-1.webp" alt="cepter cosmo tkl" width="800">
@@ -254,7 +254,7 @@
 </p>
 
 
-# ⌨️ 我最喜欢的第二个键盘是 logitech g213 prodigy。
+# <img src="/assets/icons/emoji/keyboard.webp" alt="" width="30" height="30" align="absmiddle"> 我最喜欢的第二个键盘是 logitech g213 prodigy。
 
 <table align="center">
   <tr>
@@ -276,7 +276,7 @@
 </table>
 
 
-# ⌨️ 我最喜欢的第三个键盘是 epomaker x aula f75
+# <img src="/assets/icons/emoji/keyboard.webp" alt="" width="30" height="30" align="absmiddle"> 我最喜欢的第三个键盘是 epomaker x aula f75
 
 <p align="center">
         <img src="/assets/IMG-1.webp" alt="antera logo" width="800">
@@ -298,7 +298,7 @@
 </p>
 
 
-# 💼 看看我的事业 antera。
+# <img src="/assets/icons/emoji/briefcase.webp" alt="" width="30" height="30" align="absmiddle"> 看看我的事业 antera。
 
 <table align="center">
   <tr>
@@ -315,7 +315,7 @@
   </tr>
 </table>
 
-# 💻 shadrackovsky 现在正在构建什么？
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky 现在正在构建什么？
 
 # ⌛ ajira connect 是一个人才管理平台，赋能坦桑尼亚求职者并改变企业。
 
@@ -437,13 +437,13 @@
 
 
 
-# 🤠 更多关于我的个性、文化与创作流程。
+# <img src="/assets/icons/emoji/guitar.webp" alt="" width="30" height="30" align="absmiddle"> 更多关于我的个性、文化与创作流程。
 
 # 我是 shadrackovsky，冷静、从容、安静而执着。我以系统思考，在沉默中工作，让作品说话。我与中华文化有着极深的共鸣：那份自律、耐心、书香传统中先精通技艺再对外宣告的理念，以及 匠心（jiàngxīn） - 匠人之心，全神贯注地打造，绝不走捷径。
 
 # 我的创作流程遵循这种精神。我先观察，快速原型，无情迭代，打磨到感觉对了为止。我保持一张小书桌、一只小黄鸭、一副用于策略性休息的棋盘，以及漫长的深夜时光，让想法在安静中复利。巧者劳而智者忧。深度工作胜过喧嚣。完成胜过空谈。
 
-# 🐉 没错，我确实痴迷于中国 AI、中国模型、中国工具和中国开源。这不是一时兴起，而是一种信念：
+# <img src="/assets/icons/emoji/dragon.webp" alt="" width="30" height="30" align="absmiddle"> 没错，我确实痴迷于中国 AI、中国模型、中国工具和中国开源。这不是一时兴起，而是一种信念：
 
 # **deepseek（深度求索）** 我的主力 api。开放权重、极致效率、诚实研究。我的 swahili-lm 和 malaika 都基于它引导。deepseek-v3 和 r1 证明了开源可以站在前沿。
 # **qwen（通义千问）** 地球上最完整的开源模型家族，而 qwencode 是我日常使用的终端编码智能体。
@@ -455,7 +455,7 @@
 
 # 我的偏好技术栈：deepseek 模型 + opencode / qwen code / kilocode / mimo code 智能体 + linux。如果某件事有中国开源替代品，我会先尝试它。「工欲善其事，必先利其器」。
 
-# 💻 我更偏好的工具是 deepseek、opencode、qwencode、kilocode、mimocode 等 CLI，或任何中国的工具。（deepseek api 计费）。
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> 我更偏好的工具是 deepseek、opencode、qwencode、kilocode、mimocode 等 CLI，或任何中国的工具。（deepseek api 计费）。
 
 # qwen code - 免费，搭配 deepseek api 或订阅。
 
@@ -482,7 +482,7 @@
         <img src="/assets/mimo.webp" alt="zuck30" width="800">
 </p>
 
-# 💻 如果你想预订野生动物园之旅，请访问：blacksandadventures
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> 如果你想预订野生动物园之旅，请访问：blacksandadventures
 
 <p align="center">
     <a href="https://blacksandadventures.com/">
@@ -491,7 +491,7 @@
 </p>
 
 
-# 💻 今天就雇佣 shadrackovsky。
+# <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> 今天就雇佣 shadrackovsky。
 
 <p align="center">
     <a href="https://github.com/zuck30">
@@ -499,4 +499,4 @@
     </a>
 </p>
 
-# 📩 mwalyangashadrack@gmail.com or sheldoncodesdaily@gmail.com
+# <img src="/assets/icons/emoji/mail.webp" alt="" width="30" height="30" align="absmiddle"> mwalyangashadrack@gmail.com or sheldoncodesdaily@gmail.com
