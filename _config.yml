@@ -26,6 +26,7 @@ exclude:
   - glitchcodedemo/
   - francode/
   - profile/shadrack-profile.tex
+  - landoffer.tex
 
 collections:
   posts:
