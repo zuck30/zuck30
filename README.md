@@ -539,7 +539,8 @@
 
 <p align="center">
     <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf" download title="Download CV (PDF)">
-        <img src="https://cdn-icons-png.flaticon.com/128/3811/3811708.png" alt="Download CV (PDF)" width="64" height="64">
+        <img src="/assets/download-cv.webp" alt="Download CV" width="34" height="34" align="absmiddle">
+        &nbsp;<strong>Download my CV (PDF)</strong>
     </a>
 </p>
 
