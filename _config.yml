@@ -25,6 +25,7 @@ exclude:
   - vendor
   - glitchcodedemo/
   - francode/
+  - profile/shadrack-profile.tex
 
 collections:
   posts:

@@ -9,6 +9,7 @@ layout: default
   <p class="hero-subtitle">Building intelligent systems with LLMs, RAG, fine-tuning, and modern web and desktop technologies. Self-taught, late-night coder, obsessed with Chinese open-source AI.</p>
   <div class="hero-buttons">
     <a href="#projects" class="btn btn-primary">View Projects</a>
+    <a href="{{ '/profile/shadrack-profile.pdf' | relative_url }}" class="btn btn-outline" download>Download CV</a>
     <a href="#contact" class="btn btn-outline">Get In Touch</a>
   </div>
 </section>
@@ -453,6 +454,9 @@ layout: default
     <div style="max-width: 500px; margin: 0 auto; text-align: center;">
       <p style="color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; margin-bottom: var(--spacing-lg);">Open for freelance contracts in AI/ML and web development, open-source AI collaborations, remote software engineering roles.</p>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm);">
+        <a href="{{ '/profile/shadrack-profile.pdf' | relative_url }}" class="btn btn-primary" style="width: 100%; max-width: 320px; display:inline-flex;align-items:center;justify-content:center;gap:8px;white-space:normal;overflow-wrap:anywhere;font-size:0.8rem;line-height:1.35;padding:12px 14px;" download>
+          Download CV (PDF)
+        </a>
         <a href="mailto:mwalyangashadrack@gmail.com" class="btn btn-primary" style="width: 100%; max-width: 320px; display:inline-flex;align-items:center;justify-content:center;gap:8px;white-space:normal;overflow-wrap:anywhere;font-size:0.8rem;line-height:1.35;padding:12px 14px;">
           <img src="https://cdn-icons-png.flaticon.com/128/15047/15047587.png" alt="" class="flaticon" style="width:18px;height:18px;">
           Email Me
