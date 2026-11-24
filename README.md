@@ -105,20 +105,20 @@
 </p>
 
 
-# 𖡎 i love to craft, build, develop fast software and clean, with unique taste interfaces that actually work. this is how i love to approach software development. 
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> i love to craft, build, develop fast software and clean, with unique taste interfaces that actually work. this is how i love to approach software development. 
 
 <p align="center">
         <img src="/assets/building-a-software.webp" alt="building a software" width="800">
 </p>
 
 
-# 𖡎 this is artificial intelligence mind map in tanzania that i created.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> this is artificial intelligence mind map in tanzania that i created.
 
 <p align="center">
         <img src="/assets/mind-map-0.webp" alt="mind map" width="800">
 </p>
 
-# 𖡎 an ode to implementing data and ai solutions in tanzania.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> an ode to implementing data and ai solutions in tanzania.
 
 <p align="center">
         <img src="/assets/mind-map-1.webp" alt="mind map" width="800">
@@ -167,7 +167,7 @@
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mpawo7brnhlosrwln3rrpaocqy&radius=0&width=900" alt="Spotify recently played" />
 </div>
 
-# 𖡎 see malaika my ai companion.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> see malaika my ai companion.
 
 <p align="center">
     <a href="https://github.com/zuck30/Malaika">
@@ -175,7 +175,7 @@
     </a>
 </p>
 
-# 𖡎 see swahili-gpt. a swahili language model i pre-trained from scratch.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> see swahili-gpt. a swahili language model i pre-trained from scratch.
 
 <p align="center">
     <a href="https://github.com/zuck30/swahili-llm-scratch">
@@ -183,7 +183,7 @@
     </a>
 </p>
 
-# 𖡎 we're bootstrapping swahili-lm with deepseek api by wrapping with prompt engineering tuned for tanzanian context.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> we're bootstrapping swahili-lm with deepseek api by wrapping with prompt engineering tuned for tanzanian context.
 
 <p align="center">
     <a href="https://github.com/zuck30/SWAHIBA">
@@ -191,7 +191,7 @@
     </a>
 </p>
 
-# 𖡎 if you wanna build chat agents, you don't need to start from scratch. try bruno and re-use the component in your app.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> if you wanna build chat agents, you don't need to start from scratch. try bruno and re-use the component in your app.
 
 <p align="center">
     <a href="https://aibruno.vercel.app/">
@@ -453,7 +453,7 @@
     </a>
 </p>
 
-# 𖡎 shadrackovsky loves coffee and chess.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky loves coffee and chess.
 
 <table align="center">
   <tr>

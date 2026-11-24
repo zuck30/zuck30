@@ -67,20 +67,20 @@
 </p>
 
 
-# 𖡎 我热爱打造、构建、开发快速且干净的软件，以及真正好用、有独特品味的界面。这就是我热爱的软件开发方式。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 我热爱打造、构建、开发快速且干净的软件，以及真正好用、有独特品味的界面。这就是我热爱的软件开发方式。
 
 <p align="center">
         <img src="/assets/building-a-software.webp" alt="building a software" width="800">
 </p>
 
 
-# 𖡎 这是我创建的坦桑尼亚人工智能思维导图。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 这是我创建的坦桑尼亚人工智能思维导图。
 
 <p align="center">
         <img src="/assets/mind-map-0.webp" alt="mind map" width="800">
 </p>
 
-# 𖡎 一首献给在坦桑尼亚落地数据与 AI 解决方案的颂歌。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 一首献给在坦桑尼亚落地数据与 AI 解决方案的颂歌。
 
 <p align="center">
         <img src="/assets/mind-map-1.webp" alt="mind map" width="800">
@@ -129,7 +129,7 @@
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mpawo7brnhlosrwln3rrpaocqy&radius=0&width=900" alt="Spotify recently played" />
 </div>
 
-# 𖡎 来看看 malaika，我的 AI 伙伴。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 来看看 malaika，我的 AI 伙伴。
 
 <p align="center">
     <a href="https://github.com/zuck30/Malaika">
@@ -137,7 +137,7 @@
     </a>
 </p>
 
-# 𖡎 来看看 swahili-gpt，我从零预训练的斯瓦希里语模型。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 来看看 swahili-gpt，我从零预训练的斯瓦希里语模型。
 
 <p align="center">
     <a href="https://github.com/zuck30/swahili-llm-scratch">
@@ -145,7 +145,7 @@
     </a>
 </p>
 
-# 𖡎 我们正通过为坦桑尼亚语境调优的提示工程封装 deepseek api，来引导 swahili-lm 的诞生。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 我们正通过为坦桑尼亚语境调优的提示工程封装 deepseek api，来引导 swahili-lm 的诞生。
 
 <p align="center">
     <a href="https://github.com/zuck30/SWAHIBA">
@@ -153,7 +153,7 @@
     </a>
 </p>
 
-# 𖡎 如果你想构建聊天智能体，不必从零开始。试试 bruno，并在你的应用中复用该组件。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 如果你想构建聊天智能体，不必从零开始。试试 bruno，并在你的应用中复用该组件。
 
 <p align="center">
     <a href="https://aibruno.vercel.app/">
@@ -415,7 +415,7 @@
     </a>
 </p>
 
-# 𖡎 shadrackovsky 热爱咖啡与国际象棋。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky 热爱咖啡与国际象棋。
 
 <table align="center">
   <tr>
