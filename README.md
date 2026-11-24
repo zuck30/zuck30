@@ -98,6 +98,18 @@
         <img src="/assets/setapu-photoroom.webp" alt="laptop" width="800">
 </p>
 
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/setup.webp" alt="zuck30" width="800">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/zuck30">
+        <img src="/assets/grovemade-studio-pad-wool-dark-m.webp" alt="zuck30" width="800">
+    </a>
+</p>
+
 
 # 𖡎 i love to craft, build, develop fast software and clean, with unique taste interfaces that actually work. this is how i love to approach software development. 
 
@@ -526,14 +538,8 @@
 # 💻 hire shadrackovsky today.
 
 <p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/setup.webp" alt="zuck30" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/zuck30">
-        <img src="/assets/grovemade-studio-pad-wool-dark-m.webp" alt="zuck30" width="800">
+    <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf">
+        <img src="https://img.shields.io/badge/Download%20CV-PDF-00D8FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download CV (PDF)">
     </a>
 </p>
 
