@@ -12,3 +12,6 @@ tenders/
 
 # land offer (workspace only)
 landoffer.*
+
+# local job applications (never commit)
+jobs/
