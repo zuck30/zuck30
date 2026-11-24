@@ -3,7 +3,6 @@ layout: default
 ---
 
 <section class="hero" id="home" aria-labelledby="hero-title">
-  <div class="hero-badge">MADE FOR A HUMAN</div>
   <h1 id="hero-title" class="hero-title">shadrackovsky</h1>
   <h2 class="hero-headline">AI/ML & Software Engineer from <span class="highlight">Tanzania</span></h2>
   <p class="hero-subtitle">Building intelligent systems with LLMs, RAG, fine-tuning, and modern web and desktop technologies. Self-taught, late-night coder, obsessed with Chinese open-source AI.</p>

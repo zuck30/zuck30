@@ -538,8 +538,8 @@
 # 💻 hire shadrackovsky today.
 
 <p align="center">
-    <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf">
-        <img src="https://img.shields.io/badge/Download%20CV-PDF-00D8FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download CV (PDF)">
+    <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf" download title="Download CV (PDF)">
+        <img src="https://cdn-icons-png.flaticon.com/128/3811/3811708.png" alt="Download CV (PDF)" width="64" height="64">
     </a>
 </p>
 
