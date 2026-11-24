@@ -18,13 +18,13 @@
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.zh.md)
 
 
-# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> hello <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> i'm shadrackovsky timothy john, i am a ferocious **ai - ml** and **software engineer** from tanzania <img src="/assets/icons/emoji/nerd.webp" alt="" width="30" height="30" align="absmiddle"><img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">, doing web applications development, desktop applications, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
+# hello <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> i'm shadrackovsky timothy john, i am a ferocious **ai - ml** and **software engineer** from tanzania <img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">, doing web applications development, desktop applications, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
 
-# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
+# i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
 
-# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
+# i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
 
-# <img src="/assets/icons/emoji/peace.webp" alt="" width="30" height="30" align="absmiddle"> i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
+# i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
 
 # <img src="/assets/icons/emoji/wrench.webp" alt="" width="30" height="30" align="absmiddle"> technologies i use everyday.
 
@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,git,github,gitlab,supabase,docker,githubactions,linux,arduino,vscode,npm,notion,vercel,netlify&perline=8"/>
 </p>
 
-# <img src="/assets/icons/emoji/bulb.webp" alt="" width="30" height="30" align="absmiddle"><img src="/assets/icons/emoji/alien.webp" alt="" width="30" height="30" align="absmiddle"> roadmap i'm focusing right now.
+# <img src="/assets/icons/emoji/bulb.webp" alt="" width="30" height="30" align="absmiddle"> roadmap i'm focusing right now.
 
 <div align="center">
 
@@ -211,7 +211,6 @@
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky is also a co-creator of smarbo digital. smarbo digital is a web application that helps you track invitations, contributions and attendance for your event, in one simple dashboard.
 
-# <img src="/assets/icons/emoji/trophy.webp" alt="" width="30" height="30" align="absmiddle"> know who's coming. 
 
 <p align="center">
     <a href="https://smarbodigital.co.tz">
