@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="256" height="256" role="img" aria-label="Download CV">
-  <rect x="2" y="2" width="124" height="124" rx="26" fill="#00D8FF"/>
-  <g fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M28 88V40a5 5 0 0 1 5-5h20l9 11h33a5 5 0 0 1 5 5v10"/>
-    <path d="M28 88a5 5 0 0 0 5 5h30"/>
-    <circle cx="84" cy="82" r="21"/>
-    <path d="M84 71v18"/>
-    <path d="M76 81l8 8 8-8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Download CV">
+  <defs>
+    <mask id="cut">
+      <rect width="128" height="128" fill="#ffffff"/>
+      <circle cx="90" cy="86" r="31" fill="#000000"/>
+    </mask>
+  </defs>
+  <g mask="url(#cut)" fill="none" stroke="#00D8FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 90V38a6 6 0 0 1 6-6h24l11 13h37a6 6 0 0 1 6 6v39"/>
+    <path d="M16 90a6 6 0 0 0 6 6h40"/>
+  </g>
+  <g fill="none" stroke="#00D8FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="90" cy="86" r="23"/>
+    <path d="M90 75v19"/>
+    <path d="M82 89l8 8 8-8"/>
   </g>
 </svg>
