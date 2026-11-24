@@ -50,7 +50,7 @@
         </nav>
         
         <div class="header-actions">
-          <button class="search-btn" type="button" aria-label="Search (Cmd+K)">
+          <button class="search-btn" type="button" aria-label="Search (Cmd+K)" aria-keyshortcuts="Meta+K Control+K">
             <kbd>⌘</kbd>K
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
           </button>
@@ -97,8 +97,26 @@
 
     <div class="command-overlay" id="commandPalette" role="dialog" aria-modal="true" aria-label="Quick navigation">
       <div class="command-palette">
-        <input type="text" id="commandInput" class="command-input" placeholder="Search sections and projects" aria-label="Search sections and projects" autocomplete="off" aria-controls="commandList">
+        <div class="command-field">
+          <span class="command-search-icon" aria-hidden="true"></span>
+          <input type="text" id="commandInput" class="command-input" placeholder="Jump to a section or project" aria-label="Search sections and projects" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="commandList">
+        </div>
         <ul class="command-list" id="commandList" role="listbox" aria-label="Results"></ul>
+        <div class="command-foot">
+          <span class="command-group">
+            <button class="command-key" type="button" data-command="up" aria-label="previous result" title="previous result"><span class="command-key-icon command-key-up"></span></button>
+            <button class="command-key" type="button" data-command="down" aria-label="next result" title="next result"><span class="command-key-icon command-key-down"></span></button>
+            <span class="command-label">move</span>
+          </span>
+          <span class="command-group">
+            <button class="command-key" type="button" data-command="enter" aria-label="open selected result" title="open selected result"><span class="command-key-icon command-key-enter"></span></button>
+            <span class="command-label">open</span>
+          </span>
+          <span class="command-group">
+            <button class="command-key" type="button" data-command="escape" aria-label="close palette" title="close palette"><span class="command-key-icon command-key-escape"></span></button>
+            <span class="command-label">close</span>
+          </span>
+        </div>
       </div>
     </div>
 
@@ -142,6 +160,7 @@
         const overlay = document.getElementById('commandPalette');
         const input = document.getElementById('commandInput');
         const list = document.getElementById('commandList');
+        const foot = document.querySelector('.command-foot');
         const searchBtn = document.querySelector('.search-btn');
         if (!overlay || !input || !list) return;
 
@@ -151,7 +170,8 @@
           { label: 'Roadmap', href: '#roadmap', kind: 'Section' },
           { label: 'Personality', href: '#personality', kind: 'Section' },
           { label: 'Projects', href: '#projects', kind: 'Section' },
-          { label: 'Contact', href: '#contact', kind: 'Section' }
+          { label: 'Contact', href: '#contact', kind: 'Section' },
+          { label: 'Download CV', href: '{{ "/profile/shadrack-profile.pdf" | relative_url }}', kind: 'Document', external: true }
         ];
 
         const projects = Array.from(document.querySelectorAll('.project-gallery-item'))
@@ -164,15 +184,27 @@
         const items = sections.concat(projects);
         let filtered = items.slice();
         let activeIndex = 0;
+        let previousFocus = null;
 
         function setActive(i) {
-          activeIndex = i;
+          if (!filtered.length) return;
+          activeIndex = Math.max(0, Math.min(i, filtered.length - 1));
           Array.from(list.children).forEach(function(child, idx) {
-            child.classList.toggle('active', idx === i);
-            child.setAttribute('aria-selected', idx === i ? 'true' : 'false');
+            const on = idx === activeIndex;
+            child.classList.toggle('active', on);
+            child.setAttribute('aria-selected', on ? 'true' : 'false');
+            if (on) input.setAttribute('aria-activedescendant', child.id);
           });
-          const active = list.children[i];
+          const active = list.children[activeIndex];
           if (active && active.scrollIntoView) active.scrollIntoView({ block: 'nearest' });
+        }
+
+        function move(step) {
+          if (!filtered.length) return;
+          let next = activeIndex + step;
+          if (next < 0) next = filtered.length - 1;
+          if (next >= filtered.length) next = 0;
+          setActive(next);
         }
 
         function render() {
@@ -180,17 +212,20 @@
           if (!filtered.length) {
             const empty = document.createElement('li');
             empty.className = 'command-empty';
-            empty.textContent = 'No results';
+            empty.textContent = 'nothing matches that.';
             list.appendChild(empty);
+            input.removeAttribute('aria-activedescendant');
             return;
           }
           filtered.forEach(function(item, i) {
             const li = document.createElement('li');
+            li.id = 'command-hit-' + i;
             li.className = 'command-item' + (i === activeIndex ? ' active' : '');
             li.setAttribute('role', 'option');
             li.setAttribute('aria-selected', i === activeIndex ? 'true' : 'false');
 
             const label = document.createElement('span');
+            label.className = 'command-label-text';
             label.textContent = item.label;
 
             const kind = document.createElement('span');
@@ -205,14 +240,18 @@
 
             list.appendChild(li);
           });
-          const active = list.children[activeIndex];
-          if (active && active.scrollIntoView) active.scrollIntoView({ block: 'nearest' });
+          input.setAttribute('aria-activedescendant', 'command-hit-' + activeIndex);
+          setActive(activeIndex);
         }
 
         function select(i) {
           const item = filtered[i];
           if (!item) return;
           close();
+          if (item.external) {
+            window.open(item.href, '_blank', 'noopener');
+            return;
+          }
           if (item.el) {
             item.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
           } else {
@@ -222,8 +261,10 @@
         }
 
         function open() {
+          previousFocus = document.activeElement;
           overlay.classList.add('open');
           document.body.style.overflow = 'hidden';
+          input.setAttribute('aria-expanded', 'true');
           input.value = '';
           filtered = items.slice();
           activeIndex = 0;
@@ -232,9 +273,12 @@
         }
 
         function close() {
+          if (!overlay.classList.contains('open')) return;
           overlay.classList.remove('open');
           document.body.style.overflow = '';
-          if (searchBtn) searchBtn.focus();
+          input.setAttribute('aria-expanded', 'false');
+          if (previousFocus && previousFocus.focus) previousFocus.focus();
+          else if (searchBtn) searchBtn.focus();
         }
 
         if (searchBtn) searchBtn.addEventListener('click', open);
@@ -242,6 +286,18 @@
         overlay.addEventListener('click', function(e) {
           if (e.target === overlay) close();
         });
+
+        if (foot) {
+          foot.addEventListener('click', function(e) {
+            const btn = e.target && e.target.closest ? e.target.closest('[data-command]') : null;
+            if (!btn) return;
+            const action = btn.getAttribute('data-command');
+            if (action === 'up') move(-1);
+            else if (action === 'down') move(1);
+            else if (action === 'enter') select(activeIndex);
+            else if (action === 'escape') close();
+          });
+        }
 
         document.addEventListener('keydown', function(e) {
           if ((e.metaKey || e.ctrlKey) && String(e.key).toLowerCase() === 'k') {
@@ -263,15 +319,29 @@
         input.addEventListener('keydown', function(e) {
           if (e.key === 'ArrowDown') {
             e.preventDefault();
-            setActive(Math.min(activeIndex + 1, filtered.length - 1));
+            move(1);
           } else if (e.key === 'ArrowUp') {
             e.preventDefault();
-            setActive(Math.max(activeIndex - 1, 0));
+            move(-1);
+          } else if (e.key === 'Home') {
+            e.preventDefault();
+            setActive(0);
+          } else if (e.key === 'End') {
+            e.preventDefault();
+            setActive(filtered.length - 1);
           } else if (e.key === 'Enter') {
             e.preventDefault();
             select(activeIndex);
+          } else if (e.key === 'Tab') {
+            e.preventDefault();
           }
         });
+
+        const isMac = /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent);
+        if (searchBtn && !isMac) {
+          const kbd = searchBtn.querySelector('kbd');
+          if (kbd) kbd.textContent = 'ctrl';
+        }
       })();
     </script>
   </body>

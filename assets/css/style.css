@@ -500,43 +500,69 @@ a:focus-visible {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: var(--spacing-sm);
-  padding: var(--spacing-md) var(--spacing-xl);
-  font-family: var(--font-mono);
-  font-size: 0.85rem;
-  font-weight: 600;
-  border-radius: var(--radius-md);
-  border: 1px solid transparent;
+  gap: 0.5rem;
+  height: 2.5rem;
+  padding: 0 1.1rem;
+  background: #333;
+  color: #fff;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration: none;
+  border: 1px solid #333;
+  border-radius: 0;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: background-color 0.15s ease, border-color 0.15s ease;
   white-space: nowrap;
+}
+
+.btn:hover,
+.btn:focus-visible {
+  background: #444;
+  border-color: #444;
+  color: #fff;
   text-decoration: none;
 }
 
-.btn-primary {
-  color: var(--bg);
-  background: var(--accent);
-  border-color: var(--accent);
-}
-
-.btn-primary:hover {
-  color: var(--bg);
-  background: var(--accent-hover);
-  border-color: var(--accent-hover);
-  text-decoration: none;
-}
-
+.btn-primary,
 .btn-outline {
-  color: var(--text-primary);
-  background: transparent;
-  border-color: var(--border);
+  color: #fff;
+  background: #333;
+  border-color: #333;
 }
 
+.btn-primary:hover,
 .btn-outline:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-  background: var(--accent-dim);
-  text-decoration: none;
+  color: #fff;
+  background: #444;
+  border-color: #444;
+}
+
+.btn .btn-arrow {
+  display: block;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  background-color: currentColor;
+  -webkit-mask: url('../icons/arrow-right.png') center/contain no-repeat;
+  mask: url('../icons/arrow-right.png') center/contain no-repeat;
+  transition: transform 0.2s ease;
+}
+
+.btn:hover .btn-arrow {
+  transform: translateX(3px);
+}
+
+.btn-block {
+  width: 100%;
+  max-width: 320px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  font-size: 0.8rem;
+  height: auto;
+  min-height: 2.5rem;
+  padding: 12px 14px;
 }
 
 .project-gallery {
@@ -998,15 +1024,34 @@ a:focus-visible {
   overflow: hidden;
 }
 
-.command-input {
-  width: 100%;
+.command-field {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
   padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.command-search-icon {
+  display: block;
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+  background-color: var(--text-muted);
+  -webkit-mask: url('../icons/nav-search.png') center/contain no-repeat;
+  mask: url('../icons/nav-search.png') center/contain no-repeat;
+}
+
+.command-input {
+  flex: 1;
+  min-width: 0;
+  width: 100%;
+  padding: 0;
   font-family: var(--font-mono);
   font-size: 0.95rem;
   color: var(--text-primary);
   background: transparent;
   border: none;
-  border-bottom: 1px solid var(--border);
   outline: none;
 }
 
@@ -1050,4 +1095,81 @@ a:focus-visible {
   padding: 14px 10px;
   color: var(--text-secondary);
   font-size: 0.9rem;
+}
+
+.command-foot {
+  display: none;
+  align-items: center;
+  gap: var(--spacing-lg);
+  padding: 8px 14px;
+  border-top: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--text-muted);
+}
+
+@media (min-width: 40rem) {
+  .command-foot {
+    display: flex;
+  }
+}
+
+.command-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.command-label {
+  margin-inline-start: 2px;
+}
+
+.command-key {
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: color var(--transition);
+}
+
+.command-key:hover,
+.command-key:focus-visible {
+  color: var(--accent);
+  outline: none;
+}
+
+.command-key-icon {
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-color: currentColor;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.command-key-icon.command-key-up {
+  -webkit-mask-image: url('../icons/palette-up.png');
+  mask-image: url('../icons/palette-up.png');
+}
+
+.command-key-icon.command-key-down {
+  -webkit-mask-image: url('../icons/palette-down.png');
+  mask-image: url('../icons/palette-down.png');
+}
+
+.command-key-icon.command-key-enter {
+  -webkit-mask-image: url('../icons/palette-enter.png');
+  mask-image: url('../icons/palette-enter.png');
+}
+
+.command-key-icon.command-key-escape {
+  -webkit-mask-image: url('../icons/palette-escape.png');
+  mask-image: url('../icons/palette-escape.png');
 }
