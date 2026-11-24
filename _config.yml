@@ -26,6 +26,11 @@ exclude:
   - glitchcodedemo/
   - francode/
   - profile/shadrack-profile.tex
+  - profile/shadrack-profile-georgia.tex
+  - profile/shadrack-profile-sourcesanspro.tex
+  - profile/shadrack-profile-garamond.tex
+  - profile/shadrack-profile-lato.tex
+  - profile/shadrack-profile-cambria.tex
   - landoffer.tex
 
 collections:
