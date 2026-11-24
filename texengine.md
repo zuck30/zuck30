@@ -1,37 +1,21 @@
-# TEXENGINE.md
+# texengine.md
 
-How the `.tex` files in this repo become the `.pdf` files that ship with it.
+how the `.tex` files in this repo become the `.pdf` files that ship with it. there is **no ci step, no makefile, no `latexmk`**: every pdf is compiled locally and committed. github pages only serves the committed pdf, and the `.tex` sources are excluded from the build (see `_config.yml`).
 
-There is **no CI step, no Makefile, no `latexmk`** — every PDF is compiled locally and
-committed. GitHub Pages only serves the committed PDF; the `.tex` sources are excluded
-from the build (see `_config.yml`).
+# 1. engine
 
----
+<table align="center">
+  <tr><td><strong>engine</strong></td><td><code>pdflatex</code>, pdftex 3.141592653-2.6-1.40.27</td></tr>
+  <tr><td><strong>distribution</strong></td><td>tex live 2025</td></tr>
+  <tr><td><strong>binary</strong></td><td><code>/Library/TeX/texbin/pdflatex</code></td></tr>
+  <tr><td><strong>output</strong></td><td><code>.pdf</code> directly, no <code>.dvi</code> and no postscript step</td></tr>
+</table>
 
-## 1. Engine
+check the local install with `pdflatex --version`. pdflatex is used rather than xelatex or lualatex because every document here needs only typefaces that ship with tex live. system fonts such as real cambria or georgia would need xelatex with `fontspec`.
 
-| | |
-|---|---|
-| Engine | **pdfLaTeX** (`pdfTeX 3.141592653-2.6-1.40.27`) |
-| Distribution | **TeX Live 2025** |
-| Binary | `/Library/TeX/texbin/pdflatex` |
-| Output | `.pdf` directly (no `.dvi`, no PostScript step) |
+# 2. the build command
 
-Check yours:
-
-```bash
-pdflatex --version
-```
-
-`pdflatex` is used rather than XeLaTeX/LuaLaTeX because every document here only needs
-typefaces that ship with TeX Live. System fonts (real Cambria, real Georgia, etc.) would
-require XeLaTeX + `fontspec` — see §4.
-
----
-
-## 2. The build command
-
-Every document is built with the same loop, **three times**:
+every document is built with the same loop, three times:
 
 ```bash
 for i in 1 2 3; do
@@ -39,136 +23,107 @@ for i in 1 2 3; do
 done
 ```
 
-### Why three passes
+# the three passes
 
-| Pass | What it does |
-|---|---|
-| 1 | Writes `.aux`, `.toc`, `.out`; cross-references are still `??` |
-| 2 | Resolves `\ref`, `\pageref`, TOC entries, hyperlinks |
-| 3 | Stabilises `\pageref{LastPage}` and the final TOC page numbers |
+<table align="center">
+  <tr><td><strong>pass 1</strong></td><td>writes <code>.aux</code>, <code>.toc</code> and <code>.out</code>, cross references are still <code>??</code></td></tr>
+  <tr><td><strong>pass 2</strong></td><td>resolves <code>\ref</code>, <code>\pageref</code>, toc entries and hyperlinks</td></tr>
+  <tr><td><strong>pass 3</strong></td><td>stabilises <code>\pageref{LastPage}</code> and the final toc page numbers</td></tr>
+</table>
 
-A single pass leaves the footer reading `Page 1 of ??` and the TOC empty. Two passes are
-usually enough; three is the safe habit, and it is what fixes the
-`Page \thepage\ of \pageref{LastPage}` pattern used in the tender documents.
+a single pass leaves the footer reading `Page 1 of ??` and the table of contents empty. two passes are usually enough, three is the safe habit, and it is what fixes the `Page \thepage\ of \pageref{LastPage}` pattern used in the tender documents.
 
-### Flags
+# flags
 
-| Flag | Reason |
-|---|---|
-| `-interaction=nonstopmode` | Never stop for keyboard input; run to the end so the log is complete |
-| `-halt-on-error` | Abort on the first hard error instead of producing a half-broken PDF |
+<table align="center">
+  <tr><td><strong>-interaction=nonstopmode</strong></td><td>never stop for keyboard input, run to the end so the log is complete</td></tr>
+  <tr><td><strong>-halt-on-error</strong></td><td>abort on the first hard error instead of producing a broken pdf</td></tr>
+</table>
 
----
+# 3. documents in this repo
 
-## 3. Documents in this repo
+<table align="center">
+  <tr><td><strong>source</strong></td><td><strong>output</strong></td><td><strong>face</strong></td></tr>
+  <tr><td><code>profile/shadrack-profile.tex</code></td><td><code>shadrack-profile.pdf</code></td><td>helvetica</td></tr>
+  <tr><td><code>profile/-cambria.tex</code></td><td><code>-cambria.pdf</code></td><td>caladea</td></tr>
+  <tr><td><code>profile/-lato.tex</code></td><td><code>-lato.pdf</code></td><td>lato</td></tr>
+  <tr><td><code>profile/-garamond.tex</code></td><td><code>-garamond.pdf</code></td><td>eb garamond</td></tr>
+  <tr><td><code>profile/-sourcesanspro.tex</code></td><td><code>-sourcesanspro.pdf</code></td><td>source sans pro</td></tr>
+  <tr><td><code>profile/-georgia.tex</code></td><td><code>-georgia.pdf</code></td><td>gelasio</td></tr>
+</table>
 
-| Source | Output | Notes |
-|---|---|---|
-| `profile/shadrack-profile.tex` | `profile/shadrack-profile.pdf` | Default face: Helvetica (`helvet`) |
-| `profile/shadrack-profile-cambria.tex` | `…-cambria.pdf` | Caladea (Cambria metric clone) |
-| `profile/shadrack-profile-lato.tex` | `…-lato.pdf` | Lato |
-| `profile/shadrack-profile-garamond.tex` | `…-garamond.pdf` | EB Garamond |
-| `profile/shadrack-profile-sourcesanspro.tex` | `…-sourcesanspro.pdf` | Source Sans Pro |
-| `profile/shadrack-profile-georgia.tex` | `…-georgia.pdf` | Gelasio (Georgia metric clone) |
+the tender documents in `tenders/wajibika-website/` are built the same way, but the whole `tenders/` directory is git ignored.
 
-`tenders/wajibika-website/proposal.tex` and `financial-proposal.tex` are built the same
-way, but the whole `tenders/` directory is git-ignored.
+# 4. font variants
 
----
-
-## 4. Font variants
-
-All six profile files are **identical except for one block in the preamble**. Regenerate a
-variant by copying the base file and swapping these two lines:
+all six profile files are identical except for one block in the preamble. regenerate a variant by copying the base file and swapping these two lines:
 
 ```latex
-% base (default)
 \usepackage{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 ```
 
-for the variant's block:
+for the variant block:
 
-| Variant | Preamble block |
-|---|---|
-| Cambria | `\usepackage{caladea}` |
-| Lato | `\usepackage{lato}` + `\renewcommand{\familydefault}{\sfdefault}` |
-| Garamond | `\usepackage{ebgaramond}` |
-| Source Sans Pro | `\usepackage{sourcesanspro}` + `\renewcommand{\familydefault}{\sfdefault}` |
-| Georgia | `\usepackage{gelasio}` |
+<table align="center">
+  <tr><td><strong>cambria</strong></td><td><code>\usepackage{caladea}</code></td></tr>
+  <tr><td><strong>lato</strong></td><td><code>\usepackage{lato}</code> plus <code>\renewcommand{\familydefault}{\sfdefault}</code></td></tr>
+  <tr><td><strong>garamond</strong></td><td><code>\usepackage{ebgaramond}</code></td></tr>
+  <tr><td><strong>source sans pro</strong></td><td><code>\usepackage{sourcesanspro}</code> plus the <code>\sfdefault</code> line</td></tr>
+  <tr><td><strong>georgia</strong></td><td><code>\usepackage{gelasio}</code></td></tr>
+</table>
 
-**Cambria and Georgia are not installed on this machine**, so their metric-compatible
-TeX Live clones are used (`caladea`, `gelasio`). They match the originals in width and
-proportion, not pixel-for-pixel. For the genuine fonts you need the Microsoft fonts
-installed plus XeLaTeX:
+cambria and georgia are not installed on this machine, so their metric compatible tex live clones are used, caladea and gelasio. they match the originals in width and proportion, not pixel for pixel. for the genuine fonts, install them and compile with xelatex:
 
 ```bash
 xelatex document.tex   # with \usepackage{fontspec} and \setmainfont{Cambria}
 ```
 
-Keep the sans variants on `\sfdefault` and the serif variants (Cambria, Garamond, Georgia)
-on the default roman family.
+keep the sans variants on `\sfdefault` and the serif variants, cambria, garamond and georgia, on the default roman family.
 
----
+# 5. verify without opening a viewer
 
-## 5. Verify without opening a viewer
-
-Ghostscript (`gs`) does the checking:
+ghostscript does the checking:
 
 ```bash
 # page count
-gs -dNODISPLAY -dNOSAFER -c "(file.pdf) (r) file runpdfbegin pdfpagecount == quit"
+gs -dNODISPLAY -dNOSAFER \
+   -c "(file.pdf) (r) file runpdfbegin pdfpagecount == quit"
 
-# extracted text — confirms content actually made it into the PDF
+# extracted text, confirms content actually made it into the pdf
 gs -q -dNOPAUSE -dBATCH -sDEVICE=txtwrite -o out.txt file.pdf
 
-# render page 1 to PNG for a visual check
-gs -q -dNOPAUSE -dBATCH -dFirstPage=1 -dLastPage=1 -sDEVICE=png16m -r100 -o page1.png file.pdf
+# render page 1 to png for a visual check
+gs -q -dNOPAUSE -dBATCH -dFirstPage=1 -dLastPage=1 \
+   -sDEVICE=png16m -r100 -o page1.png file.pdf
 ```
 
-A clean build means: `0` lines starting with `!` in the log, and ideally no
-`LaTeX Warning` / `Overfull \hbox` lines.
+a clean build means zero lines starting with `!` in the log, and ideally no `LaTeX Warning` or `Overfull \hbox` lines.
 
----
-
-## 6. Clean up build artefacts
+# 6. clean up build artefacts
 
 ```bash
 rm -f *.aux *.log *.out *.toc
 ```
 
-These are never committed. If you forget, they show up as untracked files and should not
-be staged.
+these are never committed. if you forget, they appear as untracked files and must not be staged.
 
----
+# 7. relationship to the site
 
-## 7. Relationship to the site
+`_config.yml` excludes every `.tex` source, so github pages publishes only the pdfs. push the rebuilt pdf alongside the `.tex`, or the download link keeps serving the old one:
 
-`_config.yml` excludes every `.tex` source:
+https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf
 
-```yaml
-exclude:
-  - profile/shadrack-profile.tex
-  - profile/shadrack-profile-cambria.tex
-  # …
-  - landoffer.tex
-```
+# 8. troubleshooting
 
-so GitHub Pages publishes **only the PDFs** (e.g.
-`https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf`). Push the rebuilt PDF
-alongside the `.tex` or the download link keeps serving the old one.
-
----
-
-## 8. Troubleshooting
-
-| Symptom | Cause / fix |
-|---|---|
-| `Page 1 of ??` in the footer | Only one pass ran — run it three times |
-| Empty table of contents | Same cause; `.toc` is written on pass 1 |
-| `Undefined control sequence` on `\faMobileAlt` | That icon does not exist in this `fontawesome5`; use `\faMobile` |
-| `Missing \endcsname inserted` / text vanishing across pages | Malformed tcolorbox key, e.g. `title={…]}`; use `title={{…}}` |
-| `There's no line here to end` | A `\\` immediately after `\end{center}` — add a blank line or `\par` |
-| `Font … not loadable` | Font package not installed in TeX Live (`kpsewhich <name>.sty`) |
-| Overfull `\hbox` on long URLs | Accept, or add `\setlength{\emergencystretch}{1.5em}` to the preamble |
-| PDF builds but the site still shows the old one | The PDF was not committed/pushed, or Pages has not finished deploying |
+<table align="center">
+  <tr><td><strong>symptom</strong></td><td><strong>cause and fix</strong></td></tr>
+  <tr><td><code>Page 1 of ??</code> in the footer</td><td>only one pass ran, run it three times</td></tr>
+  <tr><td>empty table of contents</td><td>same cause, <code>.toc</code> is written on pass 1</td></tr>
+  <tr><td><code>Undefined control sequence</code> on <code>\faMobileAlt</code></td><td>that icon does not exist in this fontawesome5, use <code>\faMobile</code></td></tr>
+  <tr><td>text vanishing across pages</td><td>malformed tcolorbox key such as <code>title={..]}</code>, use <code>title={{..}}</code></td></tr>
+  <tr><td><code>There's no line here to end</code></td><td>a <code>\\</code> immediately after <code>\end{center}</code></td></tr>
+  <tr><td>font not loadable</td><td>font package missing from tex live, check <code>kpsewhich name.sty</code></td></tr>
+  <tr><td>overfull hbox on long urls</td><td>accept it, or add <code>\setlength{\emergencystretch}{1.5em}</code></td></tr>
+  <tr><td>site still shows the old pdf</td><td>pdf not committed or pushed, or github pages has not finished deploying</td></tr>
+</table>

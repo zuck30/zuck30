@@ -296,18 +296,18 @@
 <table align="center">
   <tr>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-1-nb.webp" alt="Logitech G213 Gallery 1" width="400">
+      <img src="/assets/g213-gallery-1-nb.webp" alt="Logitech G213 gallery 1" width="400">
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-2-nb.webp" alt="Logitech G213 Gallery 2" width="400">
+      <img src="/assets/g213-gallery-2-nb.webp" alt="Logitech G213 gallery 2" width="400">
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-3-nb.webp" alt="Logitech G213 Gallery 3" width="400">
+      <img src="/assets/g213-gallery-3-nb.webp" alt="Logitech G213 gallery 3" width="400">
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="/assets/g213-gallery-4-nb.webp" alt="Logitech G213 Gallery 4" width="400">
+      <img src="/assets/g213-gallery-4-nb.webp" alt="Logitech G213 gallery 4" width="400">
     </td>
   </tr>
 </table>
@@ -443,13 +443,13 @@
 
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-shot-1.webp" alt="Ramani Screenshot 1" width="800">
+        <img src="/assets/ramani-shot-1.webp" alt="Ramani screenshot 1" width="800">
     </a>
 </p>
 
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-shot-3.webp" alt="Ramani Screenshot 3" width="800">
+        <img src="/assets/ramani-shot-3.webp" alt="Ramani screenshot 3" width="800">
     </a>
 </p>
 
@@ -531,8 +531,8 @@
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> hire shadrackovsky today.
 
 <p align="center">
-    <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf" download title="Download CV (PDF)">
-        <img src="/assets/download-cv.webp" alt="Download CV" width="34" height="34" align="absmiddle">
+    <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf" download title="download cv (pdf)">
+        <img src="/assets/download-cv.webp" alt="download cv" width="34" height="34" align="absmiddle">
         &nbsp;<strong>Download my CV (PDF)</strong>
     </a>
 </p>
