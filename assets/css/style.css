@@ -857,6 +857,10 @@ a:focus-visible {
 }
 
 .card-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
   width: 100%;
   padding: var(--spacing-md);
   font-family: var(--font-mono);
@@ -881,7 +885,6 @@ a:focus-visible {
 
 .footer {
   margin-top: auto;
-  border-top: 1px solid var(--border);
   background: var(--bg);
 }
 
@@ -985,7 +988,6 @@ a:focus-visible {
 
 .footer-bottom {
   margin-top: var(--spacing-md);
-  border-top: 1px solid var(--border);
   padding: 1.1rem 0;
 }
 
