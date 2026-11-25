@@ -310,40 +310,27 @@
 
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> shadrackovsky 现在正在构建什么？
 
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ajira connect 是一个人才管理平台，赋能坦桑尼亚求职者并改变企业。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> toppa ai 是面向坦桑尼亚职场人士的 AI 职业工作台，帮助你把一张空白简历变成面试名单上的名字。
 
 
 <p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/window.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/ajira-0.webp" alt="antera logo" width="800">
+    <a href="https://toppai.vercel.app/">
+        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
     </a>
 </p>
 
 
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 它帮助专业人士构建 AI 增强的简历与求职信。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 它把引导式简历构建器和 30 套专业模板，与 AI 写作辅助、求职信生成、技能差距分析和 FitCheck 职位推荐结合在一起。
 <p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/ajira-1.webp" alt="antera logo" width="800">
+    <a href="https://toppai.vercel.app/">
+        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
     </a>
 </p>
 
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 对照职位描述分析技能差距，并成功求职。
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 它的双语职业助手 kenja 会跨会话记住上下文。基于 Next.js、React、TypeScript、Supabase 和 DeepSeek 构建，移动优先，适配低带宽。
 <p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/ajira-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 我们的智能引擎利用 AI 将你的经历转化为有影响力、以成就为导向的内容。
-<p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/cv-builder.webp" alt="antera logo" width="800">
+    <a href="https://toppai.vercel.app/">
+        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
     </a>
 </p>
 

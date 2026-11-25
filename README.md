@@ -348,40 +348,27 @@
 
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> what is shadrackovsky building right now?
 
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ajira connect is a talent management platform empowering tanzanian career seekers and transforming businesses.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> toppa ai is the ai career workspace for tanzanian professionals, built to take a cv from a blank page to the shortlist.
 
 
 <p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/window.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/ajira-0.webp" alt="antera logo" width="800">
+    <a href="https://toppai.vercel.app/">
+        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
     </a>
 </p>
 
 
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> it helps professionals build ai-enhanced cvs and cover letters.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> it pairs a guided cv builder and 30 professional templates with ai writing help, cover letter generation, skill-gap analysis and fitcheck job recommendations.
 <p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/ajira-1.webp" alt="antera logo" width="800">
+    <a href="https://toppai.vercel.app/">
+        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
     </a>
 </p>
 
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> analyze skill gaps against job descriptions, and land jobs.
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> kenja, its bilingual career assistant, keeps the context across sessions. next.js, react, typescript, supabase and deepseek, mobile first and low bandwidth.
 <p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/ajira-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
-
-# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> our intelligent engine uses ai to transform your experience into impactful, achievement-focused content.
-<p align="center">
-    <a href="https://ajiraconnect.co.tz">
-        <img src="/assets/cv-builder.webp" alt="antera logo" width="800">
+    <a href="https://toppai.vercel.app/">
+        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
     </a>
 </p>
 
