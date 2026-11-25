@@ -472,23 +472,23 @@
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 哲学、斯多葛与生活。几条值得一看的短片。
 
 <div align="center">
-<table cellspacing="0" cellpadding="8">
+<table cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="33%">
       <a href="https://www.instagram.com/reel/DgG3nYgoSJg/">
-        <img src="/assets/instagram-DgG3nYgoSJg.webp" alt="这山望着那山高" width="180">
+        <img src="/assets/instagram-DgG3nYgoSJg.webp" alt="这山望着那山高" width="136">
       </a><br>
       <sub><strong>这山望着那山高</strong><br>你理想的生活，不过是别人普通的星期二。</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://www.instagram.com/reel/DgGYbPhDb4c/">
-        <img src="/assets/instagram-DgGYbPhDb4c.webp" alt="平静、勇气与智慧" width="180">
+        <img src="/assets/instagram-DgGYbPhDb4c.webp" alt="平静、勇气与智慧" width="136">
       </a><br>
       <sub><strong>平静、勇气与智慧</strong><br>大多数人把勇气用在撞墙上。</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://www.instagram.com/reel/Df5f25Zkazc/">
-        <img src="/assets/instagram-Df5f25Zkazc.webp" alt="石头从来不是惩罚" width="180">
+        <img src="/assets/instagram-Df5f25Zkazc.webp" alt="石头从来不是惩罚" width="136">
       </a><br>
       <sub><strong>石头从来不是惩罚</strong><br>撑得住的人，不是登顶的人，而是不再怨恨攀登的人。</sub>
     </td>
@@ -496,19 +496,19 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://www.instagram.com/reel/DfzZF3EiP77/">
-        <img src="/assets/instagram-DfzZF3EiP77.webp" alt="你从没败给学习" width="180">
+        <img src="/assets/instagram-DfzZF3EiP77.webp" alt="你从没败给学习" width="136">
       </a><br>
       <sub><strong>你从没败给学习</strong><br>你败给的是被要求随时表演所学。</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://www.instagram.com/reel/DfOlqcJkt2G/">
-        <img src="/assets/instagram-DfOlqcJkt2G.webp" alt="情绪是糟糕的管理者" width="180">
+        <img src="/assets/instagram-DfOlqcJkt2G.webp" alt="情绪是糟糕的管理者" width="136">
       </a><br>
       <sub><strong>情绪是糟糕的管理者</strong><br>别让天气替你决定方向。</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://www.instagram.com/reel/DfL08YLkpNh/">
-        <img src="/assets/instagram-DfL08YLkpNh.webp" alt="沙漠比海洋更懂水" width="180">
+        <img src="/assets/instagram-DfL08YLkpNh.webp" alt="沙漠比海洋更懂水" width="136">
       </a><br>
       <sub><strong>沙漠比海洋更懂水</strong><br>沙漠教给你的水，比海洋更多。</sub>
     </td>
