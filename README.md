@@ -359,18 +359,8 @@
 
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> it pairs a guided cv builder and 30 professional templates with ai writing help, cover letter generation, skill-gap analysis and fitcheck job recommendations.
-<p align="center">
-    <a href="https://toppai.vercel.app/">
-        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
-    </a>
-</p>
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> kenja, its bilingual career assistant, keeps the context across sessions. next.js, react, typescript, supabase and deepseek, mobile first and low bandwidth.
-<p align="center">
-    <a href="https://toppai.vercel.app/">
-        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
-    </a>
-</p>
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> nest studio. it is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.
 

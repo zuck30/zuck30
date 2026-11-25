@@ -321,18 +321,8 @@
 
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 它把引导式简历构建器和 30 套专业模板，与 AI 写作辅助、求职信生成、技能差距分析和 FitCheck 职位推荐结合在一起。
-<p align="center">
-    <a href="https://toppai.vercel.app/">
-        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
-    </a>
-</p>
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> 它的双语职业助手 kenja 会跨会话记住上下文。基于 Next.js、React、TypeScript、Supabase 和 DeepSeek 构建，移动优先，适配低带宽。
-<p align="center">
-    <a href="https://toppai.vercel.app/">
-        <img src="/assets/toppaiwindow.webp" alt="Toppa AI" width="800">
-    </a>
-</p>
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> nest studio。它是一支客户服务坐席团队，在集中地点或远程管理呼入与呼出电话。
 
