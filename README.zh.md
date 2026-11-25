@@ -501,4 +501,4 @@
 </table>
 </div>
 
-<p align="center"><sub>reels by <a href="https://www.instagram.com/artiststoiccodex/">@artiststoiccodex</a></sub></p>
+# reels by [@artiststoiccodex](https://www.instagram.com/artiststoiccodex/)
