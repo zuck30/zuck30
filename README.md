@@ -493,13 +493,13 @@
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/mac-1.webp" alt="zuck30" width="800">
+        <img src="/assets/mac-1.webp" alt="zuck30" width="480">
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/zuck30">
-        <img src="/assets/mac-3.webp" alt="zuck30" width="800">
+        <img src="/assets/mac-3.webp" alt="zuck30" width="480">
     </a>
 </p>
 
