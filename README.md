@@ -398,11 +398,6 @@
 </p>
 
 # you just type your mood or thoughts or previous anime that you watched and the engine recommends an anime for you. 
-<p align="center">
-    <a href="https://animedandadan.vercel.app">
-        <img src="/assets/dan-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ramani. it is a map of the good web uis worth stealing from, tools worth keeping.
 

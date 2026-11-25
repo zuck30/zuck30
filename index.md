@@ -317,14 +317,7 @@ layout: default
         <img src="{{ '/assets/dan-1.webp' | relative_url }}" alt="DanDaDan" width="800" loading="lazy">
         </a>
       </div>
-
-      <div class="project-gallery-item">
-        <h3 class="project-caption">DanDaDan : Recommendations</h3>
-        <a href="https://animedandadan.vercel.app" target="_blank" rel="noopener">
-        <img src="{{ '/assets/dan-2.webp' | relative_url }}" alt="DanDaDan Recommendations" width="800" loading="lazy">
-        </a>
-      </div>
-
+      
       <div class="project-gallery-item">
         <h3 class="project-caption">Ramani</h3>
         <p class="project-desc">Ramani is a map of the good web UIs worth stealing from, tools worth keeping.</p>

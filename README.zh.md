@@ -360,11 +360,6 @@
 </p>
 
 # 你只需输入你的心情、想法或之前看过的动漫，引擎就会为你推荐一部动漫。
-<p align="center">
-    <a href="https://animedandadan.vercel.app">
-        <img src="/assets/dan-2.webp" alt="antera logo" width="800">
-    </a>
-</p>
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> ramani。它是一张值得借鉴的优秀 Web UI 地图，也是值得保留的工具。
 
