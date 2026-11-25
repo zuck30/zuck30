@@ -39,46 +39,44 @@
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((what i am<br/>mastering<br/>right now))
-    genai and llms
-      fine-tuning · lora/qlora
-      rag systems
-      chroma vector db
-      hugging face
-    python and data
-      fastapi
-      pandas · numpy
-      pytorch
-      large dataset training
-    data engineering
-      sql
-      data cleaning
-      pipelines
-      api integration
-    cloud and devops
-      docker
-      kubernetes
-      git
-    frontend
-      react · next · vite
-      tailwind css
-      shadcn-ui
-    backend
-      supabase
-      django
-      springboot
-    desktop apps
-      tauri · electron
-      pyqt · tkinter
-      rust
-    computational finance
-      quantitative modeling
-      algorithmic trading
-      risk analysis
-      portfolio optimization
-```
+<table border="1" cellspacing="1" cellpadding="8" align="center" style="border-collapse: separate; border-spacing: 1px; margin-left: auto; margin-right: auto; font-size: 14px;">
+  <tr>
+    <th style="border: 1px solid #8b949e; padding: 8px;">field</th>
+    <th style="border: 1px solid #8b949e; padding: 8px;">what i'm mastering right now</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>genai &amp; llms</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">fine-tuning (lora/qlora), rag systems, chroma vector db, hugging face</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>python &amp; data</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">fastapi, pandas, numpy, pytorch, ai models and large dataset trainings</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>data engineering</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">sql, data cleaning, pipelining, api integration</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>cloud &amp; devops</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">docker, kurbenetes, git</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>frontend</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">react, next, vite, tailwind css, shadcn-ui</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>backend</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">supabase, django, springboot</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>desktop applications</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">tauri, electron, pyqt, tkinter, rust</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #8b949e; padding: 8px;"><strong>computational finance</strong></td>
+    <td style="border: 1px solid #8b949e; padding: 8px;">quantitative modeling, algorithmic trading, risk analysis, portfolio optimization</td>
+  </tr>
+</table>
 
 </div>
 

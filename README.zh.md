@@ -37,50 +37,16 @@
 
 # <img src="/assets/icons/emoji/bulb.webp" alt="" width="30" height="30" align="absmiddle"> 我目前正在专注的路线图。
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((我目前正在<br/>掌握的内容))
-    genai 与 llms
-      微调 · lora/qlora
-      rag 系统
-      chroma 向量数据库
-      hugging face
-    python 与数据
-      fastapi
-      pandas · numpy
-      pytorch
-      ai 模型与大型数据集训练
-    数据工程
-      sql
-      数据清洗
-      流水线
-      api 集成
-    云与 devops
-      docker
-      kubernetes
-      git
-    前端
-      react · next · vite
-      tailwind css
-      shadcn-ui
-    后端
-      supabase
-      django
-      springboot
-    桌面应用
-      tauri · electron
-      pyqt · tkinter
-      rust
-    计算金融
-      量化建模
-      算法交易
-      风险分析
-      投资组合优化
-```
-
-</div>
+| 领域 | 我目前正在掌握的内容 |
+|------|---------------------|
+| **genai 与 llms** | 微调（lora/qlora）、rag 系统、chroma 向量数据库、hugging face |
+| **python 与数据** | fastapi、pandas、numpy、pytorch、ai 模型与大型数据集训练 |
+| **数据工程** | sql、数据清洗、流水线、api 集成 |
+| **云与 devops** | docker、kurbenetes、git |
+| **前端** | react、next、vite、tailwind css、shadcn-ui |
+| **后端** | supabase、django、springboot |
+| **桌面应用** | tauri、electron、pyqt、tkinter、rust|
+| **计算金融** | 量化建模、算法交易、风险分析、投资组合优化 |
 
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> 我的学习框架。
 
