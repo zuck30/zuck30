@@ -884,7 +884,7 @@ a:focus-visible {
 .footer {
   margin-top: auto;
   border-top: 1px solid var(--border);
-  background: var(--bg-elevated);
+  background: var(--bg);
 }
 
 .footer-top {
@@ -906,14 +906,12 @@ a:focus-visible {
 .footer-heading {
   display: inline-block;
   margin-bottom: var(--spacing-lg);
-  padding-bottom: 0.35rem;
   font-family: var(--font-sans);
   font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--text-primary);
-  border-bottom: 2px solid var(--accent);
 }
 
 .footer-links {
