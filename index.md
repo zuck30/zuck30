@@ -296,7 +296,6 @@ layout: default
         <p class="project-desc">Nest Studio is a team of customer service agents who manage inbound and outbound calls in a central location or remotely.</p>
         <a href="https://neststudio.netlify.app" target="_blank" rel="noopener">
         <img src="{{ '/assets/nest-0.webp' | relative_url }}" alt="Nest Studio" width="800" loading="lazy">
-        <img src="{{ '/assets/nest-1.webp' | relative_url }}" alt="Nest Studio" width="800" loading="lazy">
         </a>
       </div>
       
@@ -331,7 +330,6 @@ layout: default
         <p class="project-desc">Ramani is a map of the good web UIs worth stealing from, tools worth keeping.</p>
         <a href="https://zuck30.github.io/ramani/" target="_blank" rel="noopener">
         <img src="{{ '/assets/ramani-shot-1.webp' | relative_url }}" alt="Ramani Screenshot 1" width="800" loading="lazy">
-        <img src="{{ '/assets/ramani-shot-3.webp' | relative_url }}" alt="Ramani Screenshot 3" width="800" loading="lazy">
         </a>
       </div>
 

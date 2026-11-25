@@ -380,12 +380,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://neststudio.netlify.app">
-        <img src="/assets/nest-1.webp" alt="nest studio" width="800">
-    </a>
-</p>
-
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> pimafarm. it's a smart farming platform. think of pimafarm like a helper that watches your farm for you. it sees how your tractors and machines are working, and tells you simple things you can do to make things better.
 
@@ -425,12 +419,6 @@
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">
         <img src="/assets/ramani-shot-1.webp" alt="Ramani screenshot 1" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-shot-3.webp" alt="Ramani screenshot 3" width="800">
     </a>
 </p>
 

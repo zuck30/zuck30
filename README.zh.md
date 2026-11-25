@@ -342,12 +342,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://neststudio.netlify.app">
-        <img src="/assets/nest-1.webp" alt="nest studio" width="800">
-    </a>
-</p>
-
 
 # <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> pimafarm。它是一个智慧农业平台。可以把 pimafarm 想象成一个替你照看农场的助手。它观察你的拖拉机和机械如何运作，并告诉你一些可以改善现状的简单方法。
 
@@ -387,12 +381,6 @@
 <p align="center">
     <a href="https://zuck30.github.io/ramani/">
         <img src="/assets/ramani-shot-1.webp" alt="Ramani Screenshot 1" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://zuck30.github.io/ramani/">
-        <img src="/assets/ramani-shot-3.webp" alt="Ramani Screenshot 3" width="800">
     </a>
 </p>
 
