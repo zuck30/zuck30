@@ -18,13 +18,7 @@
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.zh.md)
 
 
-# hello <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> i'm shadrackovsky timothy john, i am a ferocious **ai - ml** and **software engineer** from tanzania <img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">, doing web applications development, desktop applications, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models.
-
-# i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college.
-
-# i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy.
-
-# i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
+**hello** <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> **i'm shadrackovsky timothy john**, i am a ferocious **ai - ml** and **software engineer** from tanzania <img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">, doing web applications development, desktop applications, machine learning, retrieval-augmented generation, models fine-tuning and building systems around frontier ai models. i didn't grow up with a computer in my room until my lovely grandmother in heaven bought me my first laptop (second-hand old elitebook) when i joined college. i've built this journey fueled by tiring, long nights, insatiable curiosity, and a genuine love for understanding how things work and connected since i was a young boy. i'm obsessed with karpathy, ilya, lecun, andrew ng, bengio, radford, ian goodfellow, alex krizhevsky, georgi gerganov.
 
 # <img src="/assets/icons/emoji/wrench.webp" alt="" width="30" height="30" align="absmiddle"> technologies i use everyday.
 
