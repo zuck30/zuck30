@@ -18,7 +18,7 @@
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/zuck30/zuck30/blob/main/README.zh.md)
 
 
-**你好** <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> **我是 shadrackovsky timothy john**，一位来自坦桑尼亚 <img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">、强悍的 **AI - ML** 与 **软件工程师**，从事 Web 应用开发、桌面应用开发、机器学习、检索增强生成（RAG）、模型微调，以及围绕前沿 AI 模型构建系统。直到我上大学时，我亲爱的祖母（在天堂）给我买了第一台笔记本电脑（一台二手的旧 EliteBook），我的房间里才有了电脑。这段旅程由疲惫的漫漫长夜、永不满足的好奇心，以及我从少年时代起对事物运作原理和相互联系的真挚热爱所推动。我痴迷于 karpathy、ilya、lecun、andrew ng、bengio、radford、ian goodfellow、alex krizhevsky、georgi gerganov。
+### **你好** <img src="/assets/icons/emoji/wave.webp" alt="" width="30" height="30" align="absmiddle"> **我是 shadrackovsky timothy john**，一位来自坦桑尼亚 <img src="/assets/icons/emoji/flag.webp" alt="" width="30" height="30" align="absmiddle">、强悍的 **AI - ML** 与 **软件工程师**，从事 Web 应用开发、桌面应用开发、机器学习、检索增强生成（RAG）、模型微调，以及围绕前沿 AI 模型构建系统。直到我上大学时，我亲爱的祖母（在天堂）给我买了第一台笔记本电脑（一台二手的旧 EliteBook），我的房间里才有了电脑。这段旅程由疲惫的漫漫长夜、永不满足的好奇心，以及我从少年时代起对事物运作原理和相互联系的真挚热爱所推动。我痴迷于 karpathy、ilya、lecun、andrew ng、bengio、radford、ian goodfellow、alex krizhevsky、georgi gerganov。
 
 # <img src="/assets/icons/emoji/wrench.webp" alt="" width="30" height="30" align="absmiddle"> 我每天使用的技术。
 
