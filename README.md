@@ -497,6 +497,43 @@
 </p>
 
 
+# <img src="/assets/icons/emoji/planet.webp" alt="" width="30" height="30" align="absmiddle"> philosophy, stoicism and life. a few reels worth watching.
+
+<div align="center">
+<table cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.instagram.com/reel/DgG3nYgoSJg/">
+        <img src="/assets/instagram-DgG3nYgoSJg.webp" alt="The Grass Is Always Greener" width="240">
+      </a><br>
+      <sub><strong>the grass is always greener</strong><br>your dream life is somebody else's Tuesday.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.instagram.com/reel/DgGYbPhDb4c/">
+        <img src="/assets/instagram-DgGYbPhDb4c.webp" alt="Serenity, Courage, Wisdom" width="240">
+      </a><br>
+      <sub><strong>serenity, courage, wisdom</strong><br>most people spend their courage fighting the wall.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.instagram.com/reel/Df5f25Zkazc/">
+        <img src="/assets/instagram-Df5f25Zkazc.webp" alt="The Stone Was Never the Punishment" width="240">
+      </a><br>
+      <sub><strong>the stone was never the punishment</strong><br>the ones who stay sane stopped resenting the climb.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.instagram.com/reel/DfzZF3EiP77/">
+        <img src="/assets/instagram-DfzZF3EiP77.webp" alt="You Never Failed at Learning" width="240">
+      </a><br>
+      <sub><strong>you never failed at learning</strong><br>you failed at performing it on command.</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<p align="center"><sub>reels by <a href="https://www.instagram.com/artiststoiccodex/">@artiststoiccodex</a></sub></p>
+
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> hire shadrackovsky today.
 
 <p align="center">
