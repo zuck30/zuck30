@@ -440,5 +440,9 @@
         sync();
       })();
     </script>
+
+    {% if page.hero_scene %}
+    <script type="module" src="{{ '/assets/js/hero-scene.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+    {% endif %}
   </body>
 </html>

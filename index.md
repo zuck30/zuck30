@@ -1,6 +1,11 @@
 ---
 layout: default
+hero_scene: true
 ---
+
+<div class="hero-scene" aria-hidden="true">
+  <canvas id="hero-canvas" class="hero-scene-canvas"></canvas>
+</div>
 
 <section class="hero" id="home" aria-labelledby="hero-title">
   <h1 id="hero-title" class="hero-title">shadrackovsky</h1>
