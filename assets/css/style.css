@@ -429,32 +429,9 @@ a:focus-visible {
 .main {
   flex: 1;
   padding: var(--spacing-3xl) 0;
-  position: relative;
-}
-
-.hero-scene {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 100vh;
-  min-height: 520px;
-  z-index: 0;
-  pointer-events: none;
-  overflow: hidden;
-  -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 42%, transparent 94%);
-  mask-image: linear-gradient(to bottom, #000 0%, #000 42%, transparent 94%);
-}
-
-.hero-scene-canvas {
-  display: block;
-  width: 100%;
-  height: 100%;
 }
 
 .hero {
-  position: relative;
-  z-index: 1;
   text-align: center;
   padding: var(--spacing-2xl) var(--spacing-lg);
   max-width: 900px;
