@@ -31,7 +31,8 @@ exclude:
   - profile/shadrack-profile-garamond.tex
   - profile/shadrack-profile-lato.tex
   - profile/shadrack-profile-cambria.tex
-  - landoffer.tex
+  - jobs/landoffer/landoffer.tex
+  - jobs/itrust/*.tex
 
 collections:
   posts:

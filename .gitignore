@@ -15,3 +15,7 @@ landoffer.*
 
 # local job applications (never commit)
 jobs/
+
+# local agent skills (never commit)
+.opencode/skills/
+.mimocode/skills/
