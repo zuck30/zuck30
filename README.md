@@ -485,7 +485,7 @@
 # <img src="/assets/icons/emoji/laptop.webp" alt="" width="30" height="30" align="absmiddle"> hire shadrackovsky today.
 
 <p align="center">
-    <a href="https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf" download title="download cv (pdf)">
+    <a href="https://zuck30.github.io/zuck30/profile/profile-1/shadrack-profile.pdf" download title="download cv (pdf)">
         <img src="/assets/download-cv.webp" alt="download cv" width="34" height="34" align="absmiddle">
         &nbsp;<strong>Download my CV (PDF)</strong>
     </a>

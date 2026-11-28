@@ -25,12 +25,8 @@ exclude:
   - vendor
   - glitchcodedemo/
   - francode/
-  - profile/shadrack-profile.tex
-  - profile/shadrack-profile-georgia.tex
-  - profile/shadrack-profile-sourcesanspro.tex
-  - profile/shadrack-profile-garamond.tex
-  - profile/shadrack-profile-lato.tex
-  - profile/shadrack-profile-cambria.tex
+  - profile/profile-1/*.tex
+  - profile/profile-2/*.tex
   - jobs/landoffer/landoffer.tex
   - jobs/itrust/*.tex
 

@@ -44,19 +44,25 @@ a single pass leaves the footer reading `Page 1 of ??` and the table of contents
 
 <table align="center">
   <tr><td><strong>source</strong></td><td><strong>output</strong></td><td><strong>face</strong></td></tr>
-  <tr><td><code>profile/shadrack-profile.tex</code></td><td><code>shadrack-profile.pdf</code></td><td>helvetica</td></tr>
-  <tr><td><code>profile/-cambria.tex</code></td><td><code>-cambria.pdf</code></td><td>caladea</td></tr>
-  <tr><td><code>profile/-lato.tex</code></td><td><code>-lato.pdf</code></td><td>lato</td></tr>
-  <tr><td><code>profile/-garamond.tex</code></td><td><code>-garamond.pdf</code></td><td>eb garamond</td></tr>
-  <tr><td><code>profile/-sourcesanspro.tex</code></td><td><code>-sourcesanspro.pdf</code></td><td>source sans pro</td></tr>
-  <tr><td><code>profile/-georgia.tex</code></td><td><code>-georgia.pdf</code></td><td>gelasio</td></tr>
+  <tr><td><code>profile/profile-1/shadrack-profile.tex</code></td><td><code>shadrack-profile.pdf</code></td><td>helvetica</td></tr>
+  <tr><td><code>profile/profile-1/-cambria.tex</code></td><td><code>-cambria.pdf</code></td><td>caladea</td></tr>
+  <tr><td><code>profile/profile-1/-lato.tex</code></td><td><code>-lato.pdf</code></td><td>lato</td></tr>
+  <tr><td><code>profile/profile-1/-garamond.tex</code></td><td><code>-garamond.pdf</code></td><td>eb garamond</td></tr>
+  <tr><td><code>profile/profile-1/-sourcesanspro.tex</code></td><td><code>-sourcesanspro.pdf</code></td><td>source sans pro</td></tr>
+  <tr><td><code>profile/profile-1/-georgia.tex</code></td><td><code>-georgia.pdf</code></td><td>gelasio</td></tr>
+  <tr><td><code>profile/profile-2/shadrack-profile.tex</code></td><td><code>shadrack-profile.pdf</code></td><td>helvetica</td></tr>
+  <tr><td><code>profile/profile-2/-cambria.tex</code></td><td><code>-cambria.pdf</code></td><td>caladea</td></tr>
+  <tr><td><code>profile/profile-2/-lato.tex</code></td><td><code>-lato.pdf</code></td><td>lato</td></tr>
+  <tr><td><code>profile/profile-2/-garamond.tex</code></td><td><code>-garamond.pdf</code></td><td>eb garamond</td></tr>
+  <tr><td><code>profile/profile-2/-sourcesanspro.tex</code></td><td><code>-sourcesanspro.pdf</code></td><td>source sans pro</td></tr>
+  <tr><td><code>profile/profile-2/-georgia.tex</code></td><td><code>-georgia.pdf</code></td><td>gelasio</td></tr>
 </table>
 
 the tender documents in `tenders/wajibika-website/` are built the same way, but the whole `tenders/` directory is git ignored.
 
 # 4. font variants
 
-all six profile files are identical except for one block in the preamble. regenerate a variant by copying the base file and swapping these two lines:
+two designs live side by side. within each folder, all six files are identical except for one block in the preamble: `profile-1` is the plain one-column layout, `profile-2` is the dotted-rule layout with the coloured top bar. regenerate a variant by copying the base file and swapping these two lines:
 
 ```latex
 \usepackage{helvet}
@@ -112,7 +118,7 @@ these are never committed. if you forget, they appear as untracked files and mus
 
 `_config.yml` excludes every `.tex` source, so github pages publishes only the pdfs. push the rebuilt pdf alongside the `.tex`, or the download link keeps serving the old one:
 
-https://zuck30.github.io/zuck30/profile/shadrack-profile.pdf
+https://zuck30.github.io/zuck30/profile/profile-1/shadrack-profile.pdf
 
 # 8. troubleshooting
 
